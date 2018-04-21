@@ -1,2 +1,4 @@
 theme: jekyll-theme-slate
 title: Multi-factor authentication dataset
+baseurl: ""
+url: "https://mfa.github.io"

@@ -58,7 +58,7 @@ Login only
 
 ![IP-15](../../sequence-diagrams/ip/IP-15.png)
 
-- Credentials + Software Device (App)
+- Credentials + SW Authenticator
 
 ![IP-21](../../sequence-diagrams/ip/IP-21.png)
 
@@ -76,7 +76,7 @@ Login only
 
 ![MP-25](../../sequence-diagrams/mp/MP-25.png)
 
-- Fingerprint + Software Device (App)
+- Fingerprint + SW Authenticator 
 
 ![MP-27](../../sequence-diagrams/mp/MP-27.png)
 

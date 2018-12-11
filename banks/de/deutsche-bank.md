@@ -2,16 +2,21 @@
 
 # Deutsche Bank
 
+## Sources
+[Main Website](https://www.deutsche-bank.de/pk.html),	[Account Info](https://www.deutsche-bank.de/pfb/content/pk-digital-banking-uebersicht.html),	[FAQs](https://www.deutsche-bank.de/pk/digital-banking/weitere-themen/faq-s.html),	[HW Authenticator](https://www.deutsche-bank.de/pfb/data/docs/pk-digital-banking-photo-tan-bedienungsanleitung-lesegeraet.pdf),	[SW Authenticator](https://www.deutsche-bank.de/pk/digital-banking/sicherheit/phototan.html),	[SMS](https://www.deutsche-bank.de/pfb/content/pk-digital-banking-mobile-tan.html), [Mobile App](https://play.google.com/store/apps/details?id=com.db.pwcc.dbmobile),	[App Authenticator](https://play.google.com/store/apps/details?id=com.db.pbc.phototan.db),	[Interactive Demo](https://secure.deutsche-bank.de/pbc/trxmdemokonto/loginpin/goto.do),	[Video Tutorial](https://www.youtube.com/watch?v=UxXXrSWCRsc),	 [Video Overview](https://www.youtube.com/watch?v=iUlRmDM4opQ) 
+
+## Implementation details
+
 ### Identity proofing
 
 - Local branch
 
 
 ### Authenticators
-- QR Code reader [O]
+- QR Code reader (Authenticator device) [O]
 - Look-up secret
 - SIM card
-- SW Authenticator [O]
+- Software Authenticator [O]
 - Fingerprint (on smartphone)
 
 ### Binding and activation
@@ -27,7 +32,7 @@
 	1. Request: remote
 	 2. Delivery: --
 	 3. Activation: remote
-- SW Authenticator
+- Software Authenticator
 	1. Request: remote
 	2. Delivery: remote
 	3. Activation: remote (leveraging SIM card)
@@ -41,76 +46,39 @@ Login only
 
 ### Internet payments
 
-- QR Code Reader
+- Credentials + QR Code Reader (Authenticator - HW device)
 
-```mermaid
-sequenceDiagram
-    participant User
-    participant HW device
-	participant Browser
-    
-    User->>Browser: username, password, operation
-    HW device-->>Browser: scan
-    Browser->>HW device: QR code (opid)
-    HW device->>User: operation description
-    User->>HW device: ok
-    HW device->>User: otp
-    User->>Browser: otp
-```
+![IP-6](../../sequence-diagrams/ip/IP-6.png)
 
-- Look-up secret
+- Credentials + Look-up secret
 
-```mermaid
-sequenceDiagram
-    participant User
-    participant Lookup secret
-	participant Browser
-    
-    User->>Browser: username, password, operation
-    Browser->>User: coordinates
-    User->>Lookup secret: coordinates
-    Lookup secret->>User: otp
-    User->>Browser: otp
-```
+![IP-11](../../sequence-diagrams/ip/IP-11.png)
 
-- SIM card
+- Credentials + SIM card
 
-```mermaid
-sequenceDiagram
-    participant User
-    participant SIM
-	participant Browser
-    
-    User->>Browser: username, password, operation
-    Browser->>SIM: otp, operation description
-    User-->>SIM: open SMS
-    SIM-->>User:operation description
-    User-->>SIM: ok
-    SIM->>User: otp
-    User->>Browser: otp
-```
+![IP-15](../../sequence-diagrams/ip/IP-15.png)
 
-- SW Authenticator
+- Credentials + Software Device (App)
 
-```mermaid
-sequenceDiagram
-    participant User
-    participant App
-	participant Browser
-    
-    User->>Browser: username, password, operation
-    App-->>Browser: scan
-    Browser->>App: QR code (opid)
-    App->>User: operation description
-    User->>App: ok
-    App->>User: otp
-    User->>Browser: otp
-```
+![IP-21](../../sequence-diagrams/ip/IP-21.png)
 
 ### Mobile payments
 
-tbd
+- Credentials + Look-up secret
 
+![MP-10](../../sequence-diagrams/mp/MP-10.png)
+
+- Credentials + Software Device (App)
+
+![MP-19](../../sequence-diagrams/mp/MP-19.png)
+
+- Fingerprint + Look-up secret
+
+![MP-25](../../sequence-diagrams/mp/MP-25.png)
+
+- Fingerprint + Software Device (App)
+
+![MP-27](../../sequence-diagrams/mp/MP-27.png)
 
 ### Requirements 
 

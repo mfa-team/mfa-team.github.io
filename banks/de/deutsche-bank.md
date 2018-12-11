@@ -42,7 +42,8 @@ Login only
 ### Internet payments
 
 - QR Code Reader
-![IP-6](../../sequence-diagrams/ip/ip-6.png)
+
+![IP-6](../../sequence-diagrams/ip/IP-6.png)
 
 - Look-up secret
 

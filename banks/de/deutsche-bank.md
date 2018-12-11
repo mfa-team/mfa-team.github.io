@@ -42,21 +42,7 @@ Login only
 ### Internet payments
 
 - QR Code Reader
-
-```mermaid
-sequenceDiagram
-    participant User
-    participant HW device
-	participant Browser
-    
-    User->>Browser: username, password, operation
-    HW device-->>Browser: scan
-    Browser->>HW device: QR code (opid)
-    HW device->>User: operation description
-    User->>HW device: ok
-    HW device->>User: otp
-    User->>Browser: otp
-```
+![IP-6](../../sequence-diagrams/ip/ip-6.png)
 
 - Look-up secret
 

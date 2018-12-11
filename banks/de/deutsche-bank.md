@@ -13,33 +13,14 @@
 
 
 ### Authenticators
-- QR Code reader (Authenticator device) [O]
-- Look-up secret
-- SIM card
-- Software Authenticator [O]
-- Fingerprint (on smartphone)
 
-### Binding and activation
-- QR Code Reader
-	 1. Request: consequent to enrollment
-	 2. Delivery: at home (remote)
-	 3. Activation: with activation letter (remote)
-- Look-up secret
-	1. Request: branch
-	 2. Delivery: branch
-	 3. Activation: branch - already active
-- SIM card
-	1. Request: remote
-	 2. Delivery: --
-	 3. Activation: remote
-- Software Authenticator
-	1. Request: remote
-	2. Delivery: remote
-	3. Activation: remote (leveraging SIM card)
-- Fingerprint
-	1. Request: remote
-	2. Delivery: remote
-	3. Activation: remote
+
+| 		| QR Code Reader | Look-up Secret | SIM card | Software Authenticator | Fingerprint |
+| --- | --- | --- | --- | --- | --- |  
+| Request 	| Enrollment | Branch | Remote | Remote | Remote |
+| Delivery	| Remote | Branch | -- | Remote | -- |
+| Activation	| Remote | Branch | Remote| Remote | Remote |
+
 
 ### Exemptions
 Login only

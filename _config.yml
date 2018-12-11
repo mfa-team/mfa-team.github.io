@@ -26,7 +26,7 @@ github_username:  SCPTeam
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 #theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed

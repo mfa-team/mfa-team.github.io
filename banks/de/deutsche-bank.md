@@ -42,6 +42,7 @@ Login only
 ### Internet payments
 
 - QR Code Reader
+
 ```mermaid
 sequenceDiagram
     participant User
@@ -56,7 +57,9 @@ sequenceDiagram
     HW device->>User: otp
     User->>Browser: otp
 ```
+
 - Look-up secret
+
 ```mermaid
 sequenceDiagram
     participant User
@@ -69,6 +72,9 @@ sequenceDiagram
     Lookup secret->>User: otp
     User->>Browser: otp
 ```
+
+- SIM card
+
 ```mermaid
 sequenceDiagram
     participant User
@@ -83,7 +89,9 @@ sequenceDiagram
     SIM->>User: otp
     User->>Browser: otp
 ```
+
 - SW Authenticator
+
 ```mermaid
 sequenceDiagram
     participant User

@@ -8,10 +8,10 @@
 
 
 ### Authenticators
-- QR Code reader [O]
+- QR Code reader (Authenticator device) [O]
 - Look-up secret
 - SIM card
-- SW Authenticator [O]
+- Software Authenticator [O]
 - Fingerprint (on smartphone)
 
 ### Binding and activation
@@ -27,7 +27,7 @@
 	1. Request: remote
 	 2. Delivery: --
 	 3. Activation: remote
-- SW Authenticator
+- Software Authenticator
 	1. Request: remote
 	2. Delivery: remote
 	3. Activation: remote (leveraging SIM card)
@@ -41,58 +41,21 @@ Login only
 
 ### Internet payments
 
-- QR Code Reader
+- QR Code Reader (Authenticator - HW device)
 
 ![IP-6](../../sequence-diagrams/ip/IP-6.png)
 
 - Look-up secret
 
-```mermaid
-sequenceDiagram
-    participant User
-    participant Lookup secret
-	participant Browser
-    
-    User->>Browser: username, password, operation
-    Browser->>User: coordinates
-    User->>Lookup secret: coordinates
-    Lookup secret->>User: otp
-    User->>Browser: otp
-```
+![IP-11](../../sequence-diagrams/ip/IP-11.png)
 
 - SIM card
 
-```mermaid
-sequenceDiagram
-    participant User
-    participant SIM
-	participant Browser
-    
-    User->>Browser: username, password, operation
-    Browser->>SIM: otp, operation description
-    User-->>SIM: open SMS
-    SIM-->>User:operation description
-    User-->>SIM: ok
-    SIM->>User: otp
-    User->>Browser: otp
-```
+![IP-15](../../sequence-diagrams/ip/IP-15.png)
 
-- SW Authenticator
+- Software Device (App)
 
-```mermaid
-sequenceDiagram
-    participant User
-    participant App
-	participant Browser
-    
-    User->>Browser: username, password, operation
-    App-->>Browser: scan
-    Browser->>App: QR code (opid)
-    App->>User: operation description
-    User->>App: ok
-    App->>User: otp
-    User->>Browser: otp
-```
+![IP-21](../../sequence-diagrams/ip/IP-6.png)
 
 ### Mobile payments
 

@@ -62,10 +62,9 @@ Login only
 
 ### Requirements 
 
-|  RL1 | RL2 | RL3 | RL4 | RL5 | RL6 | RL7 | RL8 | RL9 |
+| RL1 | RL2 | RL3 | RL4 | RL5 | RL6 | RL7 | RL8 | RL9 |
 |---|---|---|---|---|---|---|---|---|
-| <i class="fa fa-star"> </i> | <i class="fa fa-star"></i> | <i class="fa fa-star"></i> | <i class="fa fa-star-half-alt"></i> | <i class="fa fa-star-half-alt"></i> | <i class="fa fa-star-half-alt"></i> | <i class="fa fa-star"></i> | <i class="fa fa-star-half-alt"></i> | <i class="fa fa-star-half-alt"></i> |
-<li><i class='fa fa-home'></i></li>
+| <i class="fa fa-star"></i> | <i class="fa fa-star"></i> | <i class="fa fa-star"></i> | <i class="fa fa-star-half-alt"></i> | <i class="fa fa-star-half-alt"></i> | <i class="fa fa-star-half-alt"></i> | <i class="fa fa-star"></i> | <i class="fa fa-star-half-alt"></i> | <i class="fa fa-star-half-alt"></i> |
 
 ### Best Practices
 

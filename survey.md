@@ -1,4 +1,6 @@
 # Survey on MFA Implementations of real banks
+For our study, we selected 21 EU banks among those based in the first 7 countries for gross domestic product. As a reference with other important markets, we also select other 9 banks that are based in relevant countries (for the banking sector) but not subject to the EU legal framework, i.e., China, USA and Switzerland. 
+For these banks, we review publicly available information (provided by the banks themselves) and collect data on the MFA protocols and authenticators as well as on the enrollment and binding procedures employed by each bank.
 
 ## EU Banks
 ### German Banks

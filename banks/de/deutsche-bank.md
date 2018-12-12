@@ -64,14 +64,14 @@ Login only
 
 |  RL1 | RL2 | RL3 | RL4 | RL5 | RL6 | RL7 | RL8 | RL9 |
 |---|---|---|---|---|---|---|---|---|
-| <i class="fa fa-star"> </i> | <i class="icon-star"></i> | <i class="icon-star"></i> | <i class="icon-star-half-alt"></i> | <i class="icon-star-half-alt"></i> | <i class="icon-star-half-alt"></i> | <i class="icon-star"></i> | <i class="icon-star-half-alt"></i> | <i class="icon-star-half-alt"></i> |
-<li><i class='fa fa-home'> </i></li>
+| <i class="fa fa-star"> </i> | <i class="fa fa-star"></i> | <i class="fa fa-star"></i> | <i class="fa fa-star-half-alt"></i> | <i class="fa fa-star-half-alt"></i> | <i class="fa fa-star-half-alt"></i> | <i class="fa fa-star"></i> | <i class="fa fa-star-half-alt"></i> | <i class="fa fa-star-half-alt"></i> |
+<li><i class='fa fa-home'></i></li>
 
 ### Best Practices
 
 | BP1 | BP2 | BP3 | BP4 | BP5 | BP6 | BP7 | BP8 |
 |---|---|---|---|---|---|---|---|
-| <i class="icon-star-empty"></i> | <i class="icon-star-half-alt"></i> | <i class="icon-star"></i> | <i class="icon-star-half-alt"></i> |<i class="icon-star"></i> | <i class="icon-star-half-alt"></i> |<i class="icon-star-half-alt"></i> | <i class="icon-star"></i> |
+| <i class="fa-star-o"></i> | <i class="fa fa-star-half-alt"></i> | <i class="fa fa-star"></i> | <i class="fa fa-star-half-alt"></i> |<i class="fa fa-star"></i> | <i class="fa fa-star-half-alt"></i> |<i class="fa fa-star-half-alt"></i> | <i class="fa fa-star"></i> |
 
 
 

@@ -70,7 +70,7 @@ Login only
 
 | BP1 | BP2 | BP3 | BP4 | BP5 | BP6 | BP7 | BP8 |
 |---|---|---|---|---|---|---|---|
-| <i class="fa fa-star-o"></i> | <i class="fa fa-star-half-alt"></i> | <i class="fa fa-star"></i> | <i class="fa fa-star-half-alt"></i> |<i class="fa fa-star"></i> | <i class="fa fa-star-half-alt"></i> |<i class="fa fa-star-half-alt"></i> | <i class="fa fa-star"></i> |
+| <i class="far fa-star"></i> | <i class="fa fa-star-half-alt"></i> | <i class="fa fa-star"></i> | <i class="fa fa-star-half-alt"></i> |<i class="fa fa-star"></i> | <i class="fa fa-star-half-alt"></i> |<i class="fa fa-star-half-alt"></i> | <i class="fa fa-star"></i> |
 
 
 

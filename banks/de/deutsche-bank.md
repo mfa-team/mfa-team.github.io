@@ -65,6 +65,7 @@ Login only
 |  RL1 | RL2 | RL3 | RL4 | RL5 | RL6 | RL7 | RL8 | RL9 |
 |---|---|---|---|---|---|---|---|---|
 | <i class="icon-star"></i> | <i class="icon-star"></i> | <i class="icon-star"></i> | <i class="icon-star-half-alt"></i> | <i class="icon-star-half-alt"></i> | <i class="icon-star-half-alt"></i> | <i class="icon-star"></i> | <i class="icon-star-half-alt"></i> | <i class="icon-star-half-alt"></i> |
+<li><a href="{{ site.baseurl }}/index.html"><i class='fa fa-home'></i> Home</a></li>
 
 ### Best Practices
 

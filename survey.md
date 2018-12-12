@@ -22,9 +22,9 @@
 - [Banco BPM](banks/it/banco-bpm.md)
 
 ### Spanish Banks
--[Banco Santander](banks/es/banco-santander.md)
--[BBVA](banks/es/bbva.md)
--[La Caixa](banks/es/la-caixa.md)
+- [Banco Santander](banks/es/banco-santander.md)
+- [BBVA](banks/es/bbva.md)
+- [La Caixa](banks/es/la-caixa.md)
 
 ### Dutch Banks
 - [ING](banks/nl/ing.md)

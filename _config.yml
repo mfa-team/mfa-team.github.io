@@ -30,6 +30,7 @@ theme: jekyll-theme-minimal
 #theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
+  - jekyll-fontello
   
 gems: ["jekyll-fontello"]
 

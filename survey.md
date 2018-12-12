@@ -2,7 +2,7 @@
 
 ##EU Banks
 ### German Banks
-- [Deustsche Bank](/banks/de/deutsche-bank)
+- [Deutsche Bank](banks/de/deutsche-bank.md)
 
 ### English Banks
 

@@ -28,7 +28,9 @@ Login only
 
 - Credentials + QR Code Reader (Authenticator - HW device)
 
-<img src="../../protocols-representations/pictograms/ip/IP-6.png"  height="60" alt="IP-6"/>
+| | DT | AD | SS | ES | SE | MB | MM |
+|---|---|---|---|---|---|---|---|
+|<img src="../../protocols-representations/pictograms/ip/IP-6.png"  height="60" alt="IP-6"/> | - | - | - | - | - | - | - |
 
 - Credentials + Look-up secret
 
@@ -46,7 +48,9 @@ Login only
 
 - Credentials + Look-up secret
 
-<img src="../../protocols-representations/pictograms/mp/MP-10.png"  height="60" alt="MP-10"/>
+| | DT | AD | SS | ES | SE | MB | MM |
+|---|---|---|---|---|---|---|---|
+| <img src="../../protocols-representations/pictograms/mp/MP-10.png"  height="60" alt="MP-10"/> | - | - | <i class="fas fa-skull"></i> | <i class="fas fa-skull"></i> | <i class="fas fa-skull"></i> | - | <i class="fas fa-skull"></i> |
 
 - Credentials + Software Device (App)
 
@@ -62,7 +66,7 @@ Login only
 
 ### Requirements
 
-See [this page]({{ site.baseurl }}/survey/requirements-best-practices.md) for details
+See [this page]({{ site.github.url }} /survey/requirements-best-practices.md) for details
 
 | RL1 | RL2 | RL3 | RL4 | RL5 | RL6 | RL7 | RL8 | RL9 |
 |---|---|---|---|---|---|---|---|---|
@@ -70,7 +74,7 @@ See [this page]({{ site.baseurl }}/survey/requirements-best-practices.md) for de
 
 ### Best Practices
 
-See [this page]({{ site.baseurl }}/survey/requirements-best-practices.md) for details
+See [this page]({{ site.github.url }} /survey/requirements-best-practices.md) for details
 
 | BP1 | BP2 | BP3 | BP4 | BP5 | BP6 | BP7 | BP8 |
 |---|---|---|---|---|---|---|---|

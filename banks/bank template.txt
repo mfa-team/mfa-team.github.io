@@ -4,7 +4,7 @@
 [Main Website](),	[Account Info](),	
 [FAQs](),	[HW Authenticator](),	
 [SW Authenticator](),	[SMS Usage](),	
-[Mobile App](),	[App Authenticator](),	
+[Banking App](),	[App SW Authenticator](),	
 [Interactive Demo](),	[Video Tutorial](),	 
 [Video Overview](), [Other Infos]()
 

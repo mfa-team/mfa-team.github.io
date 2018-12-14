@@ -27,7 +27,7 @@ requirements extracted from the European regulations (the <a href="https://eur-l
 <tr id="hsbc">
 <td>HSBC	</td>
 <td> UK	</td>
-<td> <i class="fa fa-star"></i> </td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> \reqN{} 	</td><td> <i class="far fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> </td><td> <i class="fa fa-star"></i> </td>
+<td> <i class="fa fa-star"></i> </td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="far fa-star"></i> 	</td><td> <i class="far fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> </td><td> <i class="fa fa-star"></i> </td>
 </tr>
 <tr id="barclays">
 <td>Barclays</td>
@@ -42,12 +42,12 @@ requirements extracted from the European regulations (the <a href="https://eur-l
 <tr id="bnp-paribas">
 <td>BNP Paribas	</td>
 <td> FR	</td>
-<td> <i class="fa fa-star"></i> </td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i>	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> \reqN{} </td><td> \reqN{} </td>
+<td> <i class="fa fa-star"></i> </td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i>	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="far fa-star"></i> </td><td> <i class="far fa-star"></i> </td>
 </tr>
 <tr id="credit-agricole">
 <td>Credit Agricole	</td>
 <td> FR	</td>
-<td> <i class="far fa-star"></i> </td><td> 	<i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> \reqN{} 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> \reqN{} </td><td> \reqN{} </td>
+<td> <i class="far fa-star"></i> </td><td> 	<i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="far fa-star"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="far fa-star"></i> </td><td> <i class="far fa-star"></i> </td>
 </tr>
 <tr id="societe-generale">
 <td>Societè Geerale</td>
@@ -59,7 +59,7 @@ requirements extracted from the European regulations (the <a href="https://eur-l
 <td> IT	</td>
 <td> <i class="fa fa-star"></i> </td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> </td><td> <i class="fa fa-star-half-alt"></i> </td>
 </tr>
-<tr id=""banca-intesa>
+<tr id="banca-intesa">
 <td>Banca Intesa</td>
 <td> IT	</td>
 <td> <i class="fa fa-star"></i> </td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td>  <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> </td><td> <i class="fa fa-star"></i> </td>

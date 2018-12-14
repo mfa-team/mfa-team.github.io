@@ -11,7 +11,7 @@ and Mobile Payments) and the adoption of exemptions.
 <table id="eu-banks-table" style="color: black;">
 	<thead style="font-weight: bold; font-size: 14pt;">
 		<td>Bank name</td>
-		<td>Country</td>
+		<td>C</td>
 		<td>Enr.</td>
 		<td>Authenticators</td>
 		<td>Binding</td>
@@ -188,8 +188,6 @@ and Mobile Payments) and the adoption of exemptions.
 	</tr>
 	<tr class="bank-row" id="la-caixa">
 		<td><a href="banks/es/la-caixa">La Caixa</a></td>
-		<td><a href="requirements-evaluation#">/9</a></td>
-		<td><a href="best-practices-evaluation#">/8</a></td>
 		<td>ES </td>
 		<td><i class="fas fa-globe-americas"></i> </td>
 		<td><i class="fas fa-table"></i> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_n.png"  /> <i class="fas fa-mobile-alt"></i><sup class="authr-info">?</sup><span class="authr-afs">[O]</span> <img class="authr-img channel" src="res/img/channels/chanout_n.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><sup class="authr-info">?</sup><span class="authr-afs">[O]</span> <img class="authr-img channel" src="res/img/channels/chanout_i.png"  /><span class="authr-data-obj">otp</span> </td>
@@ -279,13 +277,15 @@ and Mobile Payments) and the adoption of exemptions.
 <table id="non-eu-banks-table" style="color: black;">
 	<thead style="font-weight: bold; font-size: 14pt;">
 		<td>Bank name</td>
-		<td>Country</td>
+		<td>C</td>
 		<td>Enr.</td>
 		<td>Authenticators</td>
 		<td>Binding</td>
 		<td>IPs</td>
 		<td>MPs</td>
 		<td>Ex.</td>
+		td>Reqs</td>
+		<td>BPs</td>
 	</thead>
 	<tr class="bank-row" id="icbc">
 		<td><a href="banks/cn/icbc">ICBC</a></td>

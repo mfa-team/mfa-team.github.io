@@ -1,5 +1,5 @@
 <table>
-	<thead>
+	<thead style="font-weight: bold; font-size: 14pt;">
 		<td>Bank name</td>
 		<td>Country</td>
 		<td>Enrollment</td>
@@ -24,7 +24,7 @@
 		<td> DE	</td>
 		<td><i class="fas fa-university"></i> </td>
 		<td>\auth{\aA}{}{I} <br/> \chanin{\opid}{o} \auth{\aR}{\ask}{O} \chanout{\otp}{h} <br/> \chanin{\otp}{m} \aS$^{\!\!\textnormal{\scalebox{1}{{\ask}}}}$ \chanout{\otp}{h} <br/> \chanin{\opid}{i} \auth{\aA}{\ask}{O,K} \chanout{\otp}{i} <br/> \chanin{\opid}{n} \auth{\aOOBS}{\ask}{O,K} \chanout{\otp}{n} <br/> \chanin{\opid}{i} \auth{\aA}{\ask}{O,I} \chanout{\otp}{i} <br/> \chanin{\opid}{n} \auth{\aOOBS}{\ask}{O,I} \chanout{\otp}{n} </td>
-		<td><i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i> <br/> <bold>E</bold>,<i class="fas fa-globe-americas"></i>, <img src="res/img/binding/mfa_icon.png" height="20px" />  <br/> <i class="fas fa-university"></i>, <i class="fas fa-university"></i>, <i class="fas fa-globe-americas"></i> <br/>  <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> </td>
+		<td><i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i> <br/> <bold>E</bold>,<i class="fas fa-globe-americas"></i>, <img src="res/img/binding/mfa_icon.png" height="12pt" />  <br/> <i class="fas fa-university"></i>, <i class="fas fa-university"></i>, <i class="fas fa-globe-americas"></i> <br/>  <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> </td>
 		<td>	IP-6 <br/> IP-15 <br/> IP-31 <br/> IP-32 </td>
 		<td> 	MP-8 <br/> MP-20,<br/> MP-21 <br/> MP-22,<br/>MP-28 <br/> MP-29	</td>
 		<td> <i class="fas fa-check"></i> </td>
@@ -43,7 +43,7 @@
 		<td>UK	</td>
 		<td><i class="fas fa-university"></i>  </td>
 		<td>\auth{\aR}{}{O,K} \chanout{\otp{}}{h} <br/> \auth{\aA}{}{O,K} \chanout{\otp{}}{h} <br/> \auth{\aA}{}{O,I} \chanout{\otp{}}{h} <br/> \auth{\aA}{}{O,K} \chanout{\otp{}}{i} <br/> \auth{\aA}{}{O,I} \chanout{\otp{}}{i} </td>
-		<td><bold>E</bold>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA </td>
+		<td><bold>E</bold>,<i class="fas fa-globe-americas"></i>,<img src="res/img/binding/mfa_icon.png" height="12pt" /> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<img src="res/img/binding/mfa_icon.png" height="12pt" /> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<img src="res/img/binding/mfa_icon.png" height="12pt" /> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<img src="res/img/binding/mfa_icon.png" height="12pt" /> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<img src="res/img/binding/mfa_icon.png" height="12pt" /> </td>
 		<td> IP-2 <br/> IP-19 <br/> IP-20  </td>
 		<td> MP-15 <br/> MP-16 </td>
 		<td> <i class="fas fa-check-double"></i></td>
@@ -53,7 +53,7 @@
 		<td>UK	</td>
 		<td> <i class="fas fa-university"></i>  </td>
 		<td>\aK <br/> \auth{\aR}{}{O,K} \chanout{\otp{}}{h} <br/> \auth{\aA}{}{O,K} \chanout{\otp{}}{h} <br/> \auth{\aA}{}{O,I} \chanout{\otp{}}{h}  </td>
-		<td><bold>E</bold>, <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i><br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, \bMFA  <br/> <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, \bMFA </td>
+		<td><bold>E</bold>, <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i><br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<img src="res/img/binding/mfa_icon.png" height="12pt" /> <br/> <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, <img src="res/img/binding/mfa_icon.png" height="12pt" />  <br/> <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, <img src="res/img/binding/mfa_icon.png" height="12pt" /> </td>
 		<td> IP-2 <br/> IP-19, <br/> IP-20 </td>
 		<td></td>
 		<td><i class="fas fa-check-double"></i></td>
@@ -103,7 +103,7 @@
 		<td>IT </td>
 		<td><i class="fas fa-university"></i>   </td>
 		<td>\auth{\aR}{}{O} \chanout{\otp{}}{h} <br/> \aM <br/> \chanin{\opid}{h} \auth{\aA}{\ask}{O,K} \chanout{\otp}{h} <br/> \chanin{\opid}{h} \auth{\aA}{\ask}{O,I} \chanout{\otp}{h} <br/> \chanin{\opid}{i} \auth{\aA}{\ask}{O,K} \chanout{\otp}{i} <br/> \chanin{\opid}{i} \auth{\aA}{\ask}{O,K} \chanout{\otp}{i} </td>
-		<td><bold>E</bold>, <i class="fas fa-university"></i>, <i class="fas fa-university"></i> <br/> <bold>E</bold>, <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA </td>
+		<td><bold>E</bold>, <i class="fas fa-university"></i>, <i class="fas fa-university"></i> <br/> <bold>E</bold>, <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<img src="res/img/binding/mfa_icon.png" height="12pt" /> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<img src="res/img/binding/mfa_icon.png" height="12pt" /> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<img src="res/img/binding/mfa_icon.png" height="12pt" /> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<img src="res/img/binding/mfa_icon.png" height="12pt" /> </td>
 		<td>  IP-1 <br/> IP-11, <br/> IP-24 <br/> IP-25  </td>
 		<td> MP-20 <br/> MP-21 </td>
 		<td><i class="fas fa-check-double"></i></td>
@@ -113,7 +113,7 @@
 		<td>IT </td>
 		<td><i class="fas fa-university"></i>   </td>
 		<td>\auth{\aR}{}{O} \chanout{\otp{}}{h} <br/> \chanin{\opid}{n} \auth{\aOOBS}{\ask}{O,K} \chanout{\otp}{n}<br/>  \chanin{\opid}{n} \auth{\aOOBS}{\ask}{O,I} \chanout{\otp}{n} <br/> \chanin{\opid}{i} \auth{\aA}{\ask}{O,K} \chanout{\otp}{i} <br/> \chanin{\opid}{i} \auth{\aA}{\ask}{O,I} \chanout{\otp}{i}  </td>
-		<td><bold>E</bold>, <i class="fas fa-university"></i>, <i class="fas fa-university"></i> <br/> <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, \bMFA <br/> <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, \bMFA <br/> <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, \bMFA <br/> <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, \bMFA </td>
+		<td><bold>E</bold>, <i class="fas fa-university"></i>, <i class="fas fa-university"></i> <br/> <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, <img src="res/img/binding/mfa_icon.png" height="12pt" /> <br/> <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, <img src="res/img/binding/mfa_icon.png" height="12pt" /> <br/> <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, <img src="res/img/binding/mfa_icon.png" height="12pt" /> <br/> <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, <img src="res/img/binding/mfa_icon.png" height="12pt" /> </td>
 		<td> IP-1 <br/> IP-27, <br/> IP-28  </td>
 		<td> MP-1 <br/> MP-20, <br/> MP-21  </td>
 		<td><i class="fas fa-check-double"></i> </td>
@@ -123,7 +123,7 @@
 		<td>IT </td>
 		<td><i class="fas fa-university"></i>   </td>
 		<td>\auth{\aR}{}{O} \chanout{\otp}{h} <br/> \auth{\aR}{}{O,K} \chanout{\otp}{h} <br/>  \auth{\aA{}}{}{O} \chanout{\otp}{h}<br/> \chanin{\opid}{n} \auth{\aOOBS}{\ask}{O,K} \chanout{\otp}{n} <br/> \chanin{\opid}{i} \auth{\aA}{\ask}{O,K}  \chanout{\otp}{i} </td>
-		<td><bold>E</bold>, <i class="fas fa-university"></i>, <i class="fas fa-university"></i> <br/> <i class="fas fa-globe-americas"></i>, <i class="fas fa-university"></i>, <i class="fas fa-university"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA  </td>
+		<td><bold>E</bold>, <i class="fas fa-university"></i>, <i class="fas fa-university"></i> <br/> <i class="fas fa-globe-americas"></i>, <i class="fas fa-university"></i>, <i class="fas fa-university"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<img src="res/img/binding/mfa_icon.png" height="12pt" /> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<img src="res/img/binding/mfa_icon.png" height="12pt" /> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<img src="res/img/binding/mfa_icon.png" height="12pt" />  </td>
 		<td>IP-1 <br/> IP-2, <br/> IP-18 <br/> IP-27  </td>
 		<td>MP-1 <br/> MP-20 </td>
 		<td><i class="fas fa-check"></i> </td>
@@ -153,7 +153,7 @@
 		<td>ES </td>
 		<td><i class="fas fa-globe-americas"></i> </td>
 		<td>\aM <br/> \chanin{\opid}{n} \auth{\aOOBS{}}{\ask}{O} \chanout{\otp}{n} <br/> \chanin{\opid}{i} \auth{\aA}{\ask}{O} \chanout{\otp}{i} </td>
-		<td><bold>E</bold>,<i class="fas fa-university"></i>,<i class="fas fa-university"></i> <br/> <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, \bMFA <br/> <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, \bMFA  </td>
+		<td><bold>E</bold>,<i class="fas fa-university"></i>,<i class="fas fa-university"></i> <br/> <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, <img src="res/img/binding/mfa_icon.png" height="12pt" /> <br/> <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, <img src="res/img/binding/mfa_icon.png" height="12pt" />  </td>
 		<td>IP-11<br/> IP-26 </td>
 		<td>MP-19</td>
 		<td><i class="fas fa-check-double"></i></td>
@@ -193,7 +193,7 @@
 		<td>SW	</td>
 		<td><i class="fas fa-globe-americas"></i> </td>
 		<td>\chanin{\opid}{h} \auth{\aR}{}{O,K} \chanout{\otp}{h} <br/> \chanin{\opid}{i} \auth{\aR}{\ask}{O,K} \chanout{\otp}{i} <br/> \chanin{\opid}{i} \auth{\aA}{\ask}{O,K} \chanout{\otp}{i} <br/> \chanin{\opid}{n} \auth{\aOOBS}{\ask}{O,K} \chanout{\otp}{n}<br/> \chanin{\opid}{n} \auth{\aOOBS}{\ask}{O,I} \chanout{\otp}{n} <br/> \chanin{\opid}{i} \auth{\aA}{\ask}{O,K} \chanout{\otp}{i}<br/> \chanin{\opid}{i} \auth{\aA}{\ask}{O,I} \chanout{\otp}{i} </td>
-		<td><bold>E</bold>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA </td>
+		<td><bold>E</bold>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<img src="res/img/binding/mfa_icon.png" height="12pt" /> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<img src="res/img/binding/mfa_icon.png" height="12pt" /> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<img src="res/img/binding/mfa_icon.png" height="12pt" /> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<img src="res/img/binding/mfa_icon.png" height="12pt" /> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<img src="res/img/binding/mfa_icon.png" height="12pt" /> </td>
 		<td> IP-5 <br/> IP-8, <br/> IP-13 <br/> IP-27, <br/> IP-28  </td>
 		<td> MP-3 <br/> MP-20, <br/>MP-21  </td>
 		<td><i class="fas fa-check-double"></i></td>
@@ -203,7 +203,7 @@
 		<td>SW	</td>
 		<td><i class="fas fa-university"></i> </td>
 		<td>\aM <br/> \chanin{\opid}{h} \auth{\aR}{}{O,K} \chanout{\otp}{h} <br/> \chanin{\opid}{i} \auth{\aR}{\ask}{O,K} \chanout{\otp}{i} <br/> \chanin{\opid}{i} \auth{\aA}{\ask}{O,K} \chanout{\otp}{i} <br/> \chanin{\opid}{n} \auth{\aOOBS}{\ask}{O,K} \chanout{\otp}{n}<br/> \chanin{\opid}{n} \auth{\aOOBS}{\ask}{O,I} \chanout{\otp}{n} <br/> \chanin{\opid}{i} \auth{\aA}{\ask}{O,K} \chanout{\otp}{i}<br/> \chanin{\opid}{i} \auth{\aA}{\ask}{O,I} \chanout{\otp}{i}  </td>
-		<td><bold>E</bold>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> \bMFA,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> \bMFA,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA  </td>
+		<td><bold>E</bold>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <img src="res/img/binding/mfa_icon.png" height="12pt" />,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <img src="res/img/binding/mfa_icon.png" height="12pt" />,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<img src="res/img/binding/mfa_icon.png" height="12pt" /> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<img src="res/img/binding/mfa_icon.png" height="12pt" /> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<img src="res/img/binding/mfa_icon.png" height="12pt" /> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<img src="res/img/binding/mfa_icon.png" height="12pt" /> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<img src="res/img/binding/mfa_icon.png" height="12pt" />  </td>
 		<td> IP-5 <br/> IP-8, <br/> IP-11 <br/> IP-13,<br/>IP-27 <br/> IP-28 </td>
 		<td> MP-3 <br/> MP-10, <br/> MP-20 <br/> MP-21 </td>
 		<td><i class="fas fa-times"></i></td>
@@ -213,7 +213,7 @@
 		<td>SW	</td>
 		<td><i class="fas fa-globe-americas"></i> </td>
 		<td>\chanin{\opid}{h} \auth{\aR}{}{O,K} \chanout{\otp}{h} <br/> \chanin{\opid}{i} \auth{\aR}{\ask}{O,K} \chanout{\otp}{i} <br/> \chanin{\opid}{n} \auth{\aOOBS}{\ask}{O,K} \chanout{\otp}{n}<br/> \chanin{\opid}{n} \auth{\aOOBS}{\ask}{O,I} \chanout{\otp}{n} <br/> \chanin{\opid}{i} \auth{\aA}{\ask}{O,K} \chanout{\otp}{i}<br/> \chanin{\opid}{i} \auth{\aA}{\ask}{O,I} \chanout{\otp}{i} </td>
-		<td><bold>E</bold>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> \bMFA,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA </td>
+		<td><bold>E</bold>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <img src="res/img/binding/mfa_icon.png" height="12pt" />,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<img src="res/img/binding/mfa_icon.png" height="12pt" /> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<img src="res/img/binding/mfa_icon.png" height="12pt" /> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<img src="res/img/binding/mfa_icon.png" height="12pt" /> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<img src="res/img/binding/mfa_icon.png" height="12pt" /> </td>
 		<td> IP-5 <br/> IP-8,<br/> IP-27 <br/> IP-28 </td>
 		<td> MP-3 <br/> MP-20, <br/> MP-21 </td>
 		<td> <i class="fas fa-times"></i></td>

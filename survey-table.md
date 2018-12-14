@@ -1,152 +1,150 @@
 <table>
-	<tr id="deutsche-bank">
+	<tr class="bank-row" id="deutsche-bank">
 		<td>Deutsche Bank 	</td>
 		<td> DE	</td>
-		<td> \eB{} </td>
-		<td> \begin{tabular}{c}  \auth{\aA}{}{I} \\ \chanin{\opid}{o} \auth{\aR}{\ask}{O} \chanout{\otp}{h} \\ \aM \\ \aS$^{\!\!\textnormal{\scalebox{1}{{\ask}}}}$ \\ \chanin{\opid}{o} \auth{\aA}{\ask}{O} \chanout{\otp}{h} \\\end{tabular} </td>
-		<td> \begin{tabular}{c} <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,-- \\ \bE,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> \\ <i class="fas fa-university"></i>,<i class="fas fa-university"></i>,<i class="fas fa-university"></i> \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>(\aS)   \end{tabular} </td>
-		<td> \begin{tabular}{c} IP-6 <br/> IP-11 <br/> \\ IP-15 <br/> IP-21 \end{tabular} </td>
-		<td> \begin{tabular}{c} MP-10 <br/> MP-19 <br/> \\ MP-25 <br/> MP-27 \end{tabular} </td>
+		<td> <i class="fas fa-university"></i> </td>
+		<td> \auth{\aA}{}{I} <br/> \chanin{\opid}{o} \auth{\aR}{\ask}{O} \chanout{\otp}{h} <br/> \aM <br/> \aS$^{\!\!\textnormal{\scalebox{1}{{\ask}}}}$ <br/> \chanin{\opid}{o} \auth{\aA}{\ask}{O} \chanout{\otp}{h} <br/></td>
+		<td> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,-- <br/> \bE,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-university"></i>,<i class="fas fa-university"></i>,<i class="fas fa-university"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>(\aS)</td>
+		<td> \begin{tabular}{c} IP-6 <br/> IP-11 <br/> <br/> IP-15 <br/> IP-21 \end{tabular} </td>
+		<td> \begin{tabular}{c} MP-10 <br/> MP-19 <br/> <br/> MP-25 <br/> MP-27 \end{tabular} </td>
 		<td> \singleck </td>
 	</tr>
 
-	<tr id="vr-bank">
+	<tr class="bank-row" id="vr-bank">
 		<td> VR Bank </td>
 		<td> DE	</td>
-		<td>\eB{} </td>
-		<td>\begin{tabular}{c} \auth{\aA}{}{I} \\ \chanin{\opid}{o} \auth{\aR}{\ask}{O} \chanout{\otp}{h} \\ \chanin{\otp}{m} \aS$^{\!\!\textnormal{\scalebox{1}{{\ask}}}}$ \chanout{\otp}{h} \\ \chanin{\opid}{i} \auth{\aA}{\ask}{O,K} \chanout{\otp}{i} \\ \chanin{\opid}{n} \auth{\aOOBS}{\ask}{O,K} \chanout{\otp}{n} \\ \chanin{\opid}{i} \auth{\aA}{\ask}{O,I} \chanout{\otp}{i} \\ \chanin{\opid}{n} \auth{\aOOBS}{\ask}{O,I} \chanout{\otp}{n} \end{tabular} </td>
-		<td>\begin{tabular}{c} <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i> \\ \bE,<i class="fas fa-globe-americas"></i>,\bMFA  \\ <i class="fas fa-university"></i>, <i class="fas fa-university"></i>, <i class="fas fa-globe-americas"></i> \\  <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> \end{tabular} </td>
-		<td>\begin{tabular}{c}	IP-6 <br/> IP-15 <br/> \\ IP-31 <br/> IP-32\end{tabular} </td>
-		<td> \begin{tabular}{c}	MP-8 <br/> MP-20,\\ MP-21 <br/> MP-22,\\MP-28 <br/> MP-29	\end{tabular}</td>
+		<td><i class="fas fa-university"></i> </td>
+		<td>\auth{\aA}{}{I} <br/> \chanin{\opid}{o} \auth{\aR}{\ask}{O} \chanout{\otp}{h} <br/> \chanin{\otp}{m} \aS$^{\!\!\textnormal{\scalebox{1}{{\ask}}}}$ \chanout{\otp}{h} <br/> \chanin{\opid}{i} \auth{\aA}{\ask}{O,K} \chanout{\otp}{i} <br/> \chanin{\opid}{n} \auth{\aOOBS}{\ask}{O,K} \chanout{\otp}{n} <br/> \chanin{\opid}{i} \auth{\aA}{\ask}{O,I} \chanout{\otp}{i} <br/> \chanin{\opid}{n} \auth{\aOOBS}{\ask}{O,I} \chanout{\otp}{n} </td>
+		<td><i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i> <br/> \bE,<i class="fas fa-globe-americas"></i>,\bMFA  <br/> <i class="fas fa-university"></i>, <i class="fas fa-university"></i>, <i class="fas fa-globe-americas"></i> <br/>  <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> </td>
+		<td>\begin{tabular}{c}	IP-6 <br/> IP-15 <br/> <br/> IP-31 <br/> IP-32\end{tabular} </td>
+		<td> \begin{tabular}{c}	MP-8 <br/> MP-20,<br/> MP-21 <br/> MP-22,<br/>MP-28 <br/> MP-29	\end{tabular}</td>
 		<td> \singleck </td>
 	</tr>
 
-	<tr id="commerzbank">
+	<tr class="bank-row" id="commerzbank">
 		<td> Commerzbank  </td>
 		<td>DE   </td>
-		<td><i class="fas fa-globe-americas"></i> </td><td>\begin{tabular}{c} \auth{\aA}{}{I} \\ \chanin{\opid{}}{o} \auth{\aR}{\ask}{O} \chanout{\otp{}}{h} \\ \aM \\ \chanin{\otp{}}{m} \aS$^{\!\!\textnormal{\scalebox{1}{{\ask}}}}$ \chanout{\otp{}}{h} \\ \chanin{\opid{}}{o} \auth{\aA}{\ask}{O} \chanout{\otp{}}{h} \\ \chanin{\opid{}}{i} \auth{\aA}{\ask}{O} \chanout{\otp{}}{i} \end{tabular} </td>
-		<td>\begin{tabular}{c} <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, -- \\ \bE,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>  \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>(\bS) \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>(\bS) \end{tabular} </td>
-		<td> \begin{tabular}{c} IP-6 <br/> IP-11 <br/> \\ IP-15 <br/> IP-21 \end{tabular} </td>
-		<td> \begin{tabular}{c} MP-8 <br/> MP-19 <br/> \\ MP-22 <br/> MP-27 \end{tabular} </td>
+		<td><i class="fas fa-globe-americas"></i> </td><td>\begin{tabular}{c} \auth{\aA}{}{I} <br/> \chanin{\opid{}}{o} \auth{\aR}{\ask}{O} \chanout{\otp{}}{h} <br/> \aM <br/> \chanin{\otp{}}{m} \aS$^{\!\!\textnormal{\scalebox{1}{{\ask}}}}$ \chanout{\otp{}}{h} <br/> \chanin{\opid{}}{o} \auth{\aA}{\ask}{O} \chanout{\otp{}}{h} <br/> \chanin{\opid{}}{i} \auth{\aA}{\ask}{O} \chanout{\otp{}}{i} </td>
+		<td><i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, -- <br/> \bE,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>  <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>(\bS) <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>(\bS) </td>
+		<td> \begin{tabular}{c} IP-6 <br/> IP-11 <br/> <br/> IP-15 <br/> IP-21 \end{tabular} </td>
+		<td> \begin{tabular}{c} MP-8 <br/> MP-19 <br/> <br/> MP-22 <br/> MP-27 \end{tabular} </td>
 		<td> \singleck </td>
 	</tr>
 
-	<tr id="hsbc">
+	<tr class="bank-row" id="hsbc">
 		<td>HSBC </td>
 		<td>UK	</td>
-		<td>\eB{}  </td>
-		<td>\begin{tabular}{c} \auth{\aR}{}{O,K} \chanout{\otp{}}{h} \\ \auth{\aA}{}{O,K} \chanout{\otp{}}{h} \\ \auth{\aA}{}{O,I} \chanout{\otp{}}{h} \\ \auth{\aA}{}{O,K} \chanout{\otp{}}{i} \\ \auth{\aA}{}{O,I} \chanout{\otp{}}{i} \end{tabular} </td>
-		<td>\begin{tabular}{c} \bE,<i class="fas fa-globe-americas"></i>,\bMFA \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA \\ \end{tabular} </td>
-		<td> \begin{tabular}{c} IP-2 <br/> IP-19 \\ IP-20 \end{tabular} </td>
+		<td><i class="fas fa-university"></i>  </td>
+		<td>\auth{\aR}{}{O,K} \chanout{\otp{}}{h} <br/> \auth{\aA}{}{O,K} \chanout{\otp{}}{h} <br/> \auth{\aA}{}{O,I} \chanout{\otp{}}{h} <br/> \auth{\aA}{}{O,K} \chanout{\otp{}}{i} <br/> \auth{\aA}{}{O,I} \chanout{\otp{}}{i} </td>
+		<td>\bE,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA </td>
+		<td> \begin{tabular}{c} IP-2 <br/> IP-19 <br/> IP-20 \end{tabular} </td>
 		<td> MP-15 <br/> MP-16 </td>
 		<td> \doubleck{}</td>
 	</tr>
 
-	<tr id="braclays">
+	<tr class="bank-row" id="braclays">
 		<td>Barclays 		</td>
 		<td>UK	</td>
-		<td> \eB{}  </td>
-		<td>\begin{tabular}{c} \aK \\ \auth{\aR}{}{O,K} \chanout{\otp{}}{h} \\ \auth{\aA}{}{O,K} \chanout{\otp{}}{h} \\ \auth{\aA}{}{O,I} \chanout{\otp{}}{h} \end{tabular} </td>
-		<td>\begin{tabular}{c} \bE, <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>\\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA \\ <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, \bMFA  \\ <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, \bMFA \end{tabular} </td>
-		<td>\begin{tabular}{c} IP-2 <br/> IP-19, \\ IP-20 \end{tabular}</td>
+		<td> <i class="fas fa-university"></i>  </td>
+		<td>\aK <br/> \auth{\aR}{}{O,K} \chanout{\otp{}}{h} <br/> \auth{\aA}{}{O,K} \chanout{\otp{}}{h} <br/> \auth{\aA}{}{O,I} \chanout{\otp{}}{h} \end{tabular} </td>
+		<td>\bE, <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i><br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, \bMFA  <br/> <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, \bMFA </td>
+		<td>\begin{tabular}{c} IP-2 <br/> IP-19, <br/> IP-20 \end{tabular}</td>
 		<td></td>
 		<td>\doubleck</td>
 	</tr>
 
 
-	<tr id="lloyds-bank">
+	<tr class="bank-row" id="lloyds-bank">
 		<td>LLoyds Bank 	</td>
 		<td>UK	</td>
-		<td>\eB{}   </td>
-		<td>\begin{tabular}{c} \aK \\ \chanin{\otp{}}{h} \aS{} \chanout{\otp}{m} \\ \chanin{\opid{}}{n} \auth{\aOOBS}{}{O,K} \chanout{\otp{}}{n} \\ \chanin{\opid{}}{n} \auth{\aOOBS}{}{O,I} \chanout{\otp{}}{n} \\ \auth{\aA}{}{I} \\ \chanin{\opid}{i} \auth{\aA}{}{O} \chanout{otp}{i} \end{tabular} </td>
-		<td>\begin{tabular}{c} \bE, <i class="fas fa-university"></i>, <i class="fas fa-university"></i> \\ \bE,<i class="fas fa-university"></i>,<i class="fas fa-university"></i> \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> \end{tabular} </td>
-		<td>\begin{tabular}{c} IP-17 <br/> IP-29, \\ IP-30 \end{tabular}</td>
+		<td><i class="fas fa-university"></i>   </td>
+		<td>\aK <br/> \chanin{\otp{}}{h} \aS{} \chanout{\otp}{m} <br/> \chanin{\opid{}}{n} \auth{\aOOBS}{}{O,K} \chanout{\otp{}}{n} <br/> \chanin{\opid{}}{n} \auth{\aOOBS}{}{O,I} \chanout{\otp{}}{n} <br/> \auth{\aA}{}{I} <br/> \chanin{\opid}{i} \auth{\aA}{}{O} \chanout{otp}{i}  </td>
+		<td>\bE, <i class="fas fa-university"></i>, <i class="fas fa-university"></i> <br/> \bE,<i class="fas fa-university"></i>,<i class="fas fa-university"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> </td>
+		<td>\begin{tabular}{c} IP-17 <br/> IP-29, <br/> IP-30 \end{tabular}</td>
 		<td>MP-17 <br/> MP-26 </td>
 		<td> \doubleck{}</td>
 	</tr>
 
 
-	<tr id="bnp-paribas">
+	<tr class="bank-row" id="bnp-paribas">
 		<td>BNP Paribas </td>
 		<td>FR </td>
 		<td><i class="fas fa-globe-americas"></i>   </td>
-		<td>\begin{tabular}{c} \chanin{\otp}{m} \aS{} \chanout{\otp}{h}\\ \chanin{\opid}{n} \auth{\aOOBS}{\ask}{O,K} \chanout{\otp}{n} \\ \chanin{\otp}{i} \auth{\aA}{}{O} \chanout{\otp}{i} \end{tabular} </td>
-		<td>\begin{tabular}{c} \bE,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>(\aS) \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>(\aS) \end{tabular} </td>
+		<td>\chanin{\otp}{m} \aS{} \chanout{\otp}{h}<br/> \chanin{\opid}{n} \auth{\aOOBS}{\ask}{O,K} \chanout{\otp}{n} <br/> \chanin{\otp}{i} \auth{\aA}{}{O} \chanout{\otp}{i} \end{tabular} </td>
+		<td>\bE,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>(\aS) <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>(\aS)  </td>
 		<td> IP-14 <br/> IP-27 </td>
 		<td>MP-12,MP-20 </td>
 		<td>\doubleck</td>
 	</tr>
 
-	<tr id="credit-agricole">
+	<tr class="bank-row" id="credit-agricole">
 		<td>Credit Agricole </td>
 		<td>FR </td>
 		<td> <i class="fas fa-globe-americas"></i>  </td>
-		<td>\begin{tabular}{c} \chanin{\otp{}}{m} \aS{} \chanout{\otp}{h} \end{tabular} </td>
-		<td>\begin{tabular}{c} \bE,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> \end{tabular} </td>
+		<td>\chanin{\otp{}}{m} \aS{} \chanout{\otp}{h} </td>
+		<td>\bE,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> </td>
 		<td>IP-14 </td>
 		<td> </td>
 		<td>\doubleck</td>
 	</tr>
 
-	<tr id="societe-generale">
+	<tr class="bank-row" id="societe-generale">
 		<td>Societe Generale</td>
 		<td>FR </td>
 		<td><i class="fas fa-globe-americas"></i>   </td>
-		<td>\begin{tabular}{c} \chanin{\otp{}}{m} \aS{} \chanout{\otp}{h} \\ \chanin{\opid{}}{i} \auth{\aA}{\ask}{O,K} \chanout{\otp}{i} \\ \chanin{\opid{}}{n} \auth{\aOOBS}{\ask}{O,K} \chanout{\otp}{n} \end{tabular} </td>
-		<td>\begin{tabular}{c} \bE,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>(\aS) \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>(\aS) \end{tabular} </td>
+		<td>\chanin{\otp{}}{m} \aS{} \chanout{\otp}{h} <br/> \chanin{\opid{}}{i} \auth{\aA}{\ask}{O,K} \chanout{\otp}{i} <br/> \chanin{\opid{}}{n} \auth{\aOOBS}{\ask}{O,K} \chanout{\otp}{n}  </td>
+		<td>\bE,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>(\aS) <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>(\aS) z/td>
 		<td> IP-14 <br/> IP-27</td>
 		<td> MP-20 </td>
 		<td>\singleck</td>
 	</tr>
 
-	<tr id="unicredit">
+	<tr class="bank-row" id="unicredit">
 		<td>Unicredit		</td>
 		<td>IT </td>
-		<td>\eB{}   </td>
-		<td> \begin{tabular}{c} \auth{\aR}{}{O} \chanout{\otp{}}{h} \\ \aM \\ \chanin{\opid}{h} \auth{\aA}{\ask}{O,K} \chanout{\otp}{h} \\ \chanin{\opid}{h} \auth{\aA}{\ask}{O,I} \chanout{\otp}{h} \\ \chanin{\opid}{i} \auth{\aA}{\ask}{O,K} \chanout{\otp}{i} \\ \chanin{\opid}{i} \auth{\aA}{\ask}{O,K} \chanout{\otp}{i} \end{tabular} </td>
-		<td>\begin{tabular}{c} \bE, <i class="fas fa-university"></i>, <i class="fas fa-university"></i> \\ \bE, <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i> \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA  \end{tabular} </td>
-		<td> \begin{tabular}{c} IP-1 <br/> IP-11, \\ IP-24 <br/> IP-25 \end{tabular} </td>
+		<td><i class="fas fa-university"></i>   </td>
+		<td>\auth{\aR}{}{O} \chanout{\otp{}}{h} <br/> \aM <br/> \chanin{\opid}{h} \auth{\aA}{\ask}{O,K} \chanout{\otp}{h} <br/> \chanin{\opid}{h} \auth{\aA}{\ask}{O,I} \chanout{\otp}{h} <br/> \chanin{\opid}{i} \auth{\aA}{\ask}{O,K} \chanout{\otp}{i} <br/> \chanin{\opid}{i} \auth{\aA}{\ask}{O,K} \chanout{\otp}{i} </td>
+		<td>\bE, <i class="fas fa-university"></i>, <i class="fas fa-university"></i> <br/> \bE, <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA </td>
+		<td> \begin{tabular}{c} IP-1 <br/> IP-11, <br/> IP-24 <br/> IP-25 \end{tabular} </td>
 		<td> MP-20 <br/> MP-21 </td>
 		<td>\doubleck</td>
 	</tr>
 
-	<tr id="banca-intesa">
+	<tr class="bank-row" id="banca-intesa">
 		<td>Banca Intesa </td>
 		<td>IT </td>
-		<td>\eB{}   </td>
-		<td>\begin{tabular}{c} \auth{\aR}{}{O} \chanout{\otp{}}{h} \\ \chanin{\opid}{n} \auth{\aOOBS}{\ask}{O,K} \chanout{\otp}{n}\\  \chanin{\opid}{n} \auth{\aOOBS}{\ask}{O,I} \chanout{\otp}{n} \\ \chanin{\opid}{i} \auth{\aA}{\ask}{O,K} \chanout{\otp}{i} \\ \chanin{\opid}{i} \auth{\aA}{\ask}{O,I} \chanout{\otp}{i} \end{tabular} </td>
-		<td>\begin{tabular}{c} \bE, <i class="fas fa-university"></i>, <i class="fas fa-university"></i> \\ <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, \bMFA \\ <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, \bMFA \\ <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, \bMFA \\ <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, \bMFA \end{tabular} </td>
-		<td>\begin{tabular}{c} IP-1 <br/> IP-27, \\ IP-28 \end{tabular} </td>
-		<td>\begin{tabular}{c} MP-1 <br/> MP-20, \\ MP-21 \end{tabular} </td>
+		<td><i class="fas fa-university"></i>   </td>
+		<td>\auth{\aR}{}{O} \chanout{\otp{}}{h} <br/> \chanin{\opid}{n} \auth{\aOOBS}{\ask}{O,K} \chanout{\otp}{n}<br/>  \chanin{\opid}{n} \auth{\aOOBS}{\ask}{O,I} \chanout{\otp}{n} <br/> \chanin{\opid}{i} \auth{\aA}{\ask}{O,K} \chanout{\otp}{i} <br/> \chanin{\opid}{i} \auth{\aA}{\ask}{O,I} \chanout{\otp}{i}  </td>
+		<td>\bE, <i class="fas fa-university"></i>, <i class="fas fa-university"></i> <br/> <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, \bMFA <br/> <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, \bMFA <br/> <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, \bMFA <br/> <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, \bMFA </td>
+		<td>\begin{tabular}{c} IP-1 <br/> IP-27, <br/> IP-28 \end{tabular} </td>
+		<td>\begin{tabular}{c} MP-1 <br/> MP-20, <br/> MP-21 \end{tabular} </td>
 		<td>\doubleck{} </td>
 	</tr>
 
-	<tr id="banco-bpm">
+	<tr class="bank-row" id="banco-bpm">
 		<td>Banco BPM 	</td>
 		<td>IT </td>
-		<td>\eB{}   </td>
-		<td>\begin{tabular}{c} \auth{\aR}{}{O} \chanout{\otp}{h} \\ \auth{\aR}{}{O,K} \chanout{\otp}{h} \\  \auth{\aA{}}{}{O} \chanout{\otp}{h}\\ 
-		\chanin{\opid}{n} \auth{\aOOBS}{\ask}{O,K} \chanout{\otp}{n} \\ \chanin{\opid}{i} \auth{\aA}{\ask}{O,K}  \chanout{\otp}{i} \\ 
-		\end{tabular} </td>
-		<td>\begin{tabular}{c} \bE, <i class="fas fa-university"></i>, <i class="fas fa-university"></i> \\ <i class="fas fa-globe-americas"></i>, <i class="fas fa-university"></i>, <i class="fas fa-university"></i> \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA \end{tabular} </td>
-		<td>\begin{tabular}{c}IP-1 <br/> IP-2, \\ IP-18 <br/> IP-27 \end{tabular} </td>
+		<td><i class="fas fa-university"></i>   </td>
+		<td>\auth{\aR}{}{O} \chanout{\otp}{h} <br/> \auth{\aR}{}{O,K} \chanout{\otp}{h} <br/>  \auth{\aA{}}{}{O} \chanout{\otp}{h}<br/> \chanin{\opid}{n} \auth{\aOOBS}{\ask}{O,K} \chanout{\otp}{n} <br/> \chanin{\opid}{i} \auth{\aA}{\ask}{O,K}  \chanout{\otp}{i} </td>
+		<td>\bE, <i class="fas fa-university"></i>, <i class="fas fa-university"></i> <br/> <i class="fas fa-globe-americas"></i>, <i class="fas fa-university"></i>, <i class="fas fa-university"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA  </td>
+		<td>\begin{tabular}{c}IP-1 <br/> IP-2, <br/> IP-18 <br/> IP-27 \end{tabular} </td>
 		<td>MP-1 <br/> MP-20 </td>
 		<td>\singleck </td>
 	</tr>
 
 
-	<tr id="banco-santander">
+	<tr class="bank-row" id="banco-santander">
 		<td>Banco Santander </td>
 		<td>ES	</td>
 		<td><i class="fas fa-globe-americas"></i>   </td>
-		<td>\begin{tabular}{c} \aK \\ \chanin{\otp}{m} \aS{} \chanout{\otp}{h} \end{tabular} </td>
-		<td>\begin{tabular}{c} \bE,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> \\ \bE,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> \end{tabular} </td>
+		<td>\aK <br/> \chanin{\otp}{m} \aS{} \chanout{\otp}{h}  </td>
+		<td>\bE,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> \bE,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>  </td>
 		<td>IP-16</td>
 		<td>MP-14 </td>
 		<td>\doubleck</td>
 	</tr>
 
-	<tr id="bbva">
+	<tr class="bank-row" id="bbva">
 		<td>BBVA</td>
 		<td>ES</td>
 		<td><i class="fas fa-globe-americas"></i></td>
@@ -158,81 +156,81 @@
 	</tr>
 
 
-	<tr id="la-caixa">
+	<tr class="bank-row" id="la-caixa">
 		<td>La Caixa 		</td>
 		<td>ES </td>
 		<td><i class="fas fa-globe-americas"></i> </td>
-		<td>\begin{tabular}{c} \aM \\ \chanin{\opid}{n} \auth{\aOOBS{}}{\ask}{O} \chanout{\otp}{n} \\ \chanin{\opid}{i} \auth{\aA}{\ask}{O} \chanout{\otp}{i} \end{tabular} </td>
-		<td>\begin{tabular}{c} \bE,<i class="fas fa-university"></i>,<i class="fas fa-university"></i> \\ <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, \bMFA \\ <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, \bMFA  \end{tabular} </td>
+		<td>\aM <br/> \chanin{\opid}{n} \auth{\aOOBS{}}{\ask}{O} \chanout{\otp}{n} <br/> \chanin{\opid}{i} \auth{\aA}{\ask}{O} \chanout{\otp}{i} </td>
+		<td>\bE,<i class="fas fa-university"></i>,<i class="fas fa-university"></i> <br/> <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, \bMFA <br/> <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, \bMFA  </td>
 		<td>IP-11<br/> IP-26 </td>
 		<td>MP-19</td>
 		<td>\doubleck</td>
 	</tr>
 
 
-	<tr id="ing">
+	<tr class="bank-row" id="ing">
 		<td>ING Bank 	</td>
 		<td>NL	</td>
 		<td><i class="fas fa-globe-americas"></i> </td>
-		<td>\begin{tabular}{c} \aM \\ \chanin{\otp}{m} \aS$^{\!\!\textnormal{\scalebox{1}{{\ask}}}}$ \chanout{\otp}{h} \\ \chanin{\opid}{n}\auth{\aOOBS{}}{\ask}{O,K} \chanout{\otp}{n} \\ \auth{\aA}{}{I} \\ \chanin{\opid}{i} \auth{\aA{}}{\ask}{O} \chanout{\otp}{i} \end{tabular} </td>
-		<td>\begin{tabular}{c} \bE,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> \\ \bE,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>(\aS) \\ <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, -- \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>(\aS) \end{tabular} </td>
-		<td>\begin{tabular}{c} IP-11 <br/> IP-15, \\ IP-27 \end{tabular} </td>
+		<td>\aM <br/> \chanin{\otp}{m} \aS$^{\!\!\textnormal{\scalebox{1}{{\ask}}}}$ \chanout{\otp}{h} <br/> \chanin{\opid}{n}\auth{\aOOBS{}}{\ask}{O,K} \chanout{\otp}{n} <br/> \auth{\aA}{}{I} <br/> \chanin{\opid}{i} \auth{\aA{}}{\ask}{O} \chanout{\otp}{i} </td>
+		<td>\bE,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> \bE,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>(\aS) <br/> <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, -- <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>(\aS) </td>
+		<td>\begin{tabular}{c} IP-11 <br/> IP-15, <br/> IP-27 \end{tabular} </td>
 		<td>MP-19 <br/> MP-27 </td>
 		<td>\singleck</td>
 	</tr>
 
-	<tr id="rabobank">
+	<tr class="bank-row" id="rabobank">
 		<td>Rabobank </td>
 		<td>NL	</td>
 		<td><i class="fas fa-globe-americas"></i> </td>
-		<td>\begin{tabular}{c}  \chanin{\opid}{o} \auth{\aR}{\ask}{O,K} \chanout{\otp}{h} \\ \chanin{\opid}{h} \auth{\aR}{\ask}{O,K} \chanout{\otp}{h} \\ \auth{\aA}{}{I} \end{tabular} </td>
-		<td>\begin{tabular}{c} \bE,<i class="fas fa-university"></i>,<i class="fas fa-university"></i> \\ -- \\ <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, -- \end{tabular} </td>
+		<td>\chanin{\opid}{o} \auth{\aR}{\ask}{O,K} \chanout{\otp}{h} <br/> \chanin{\opid}{h} \auth{\aR}{\ask}{O,K} \chanout{\otp}{h} <br/> \auth{\aA}{}{I}  </td>
+		<td>\bE,<i class="fas fa-university"></i>,<i class="fas fa-university"></i> <br/> -- <br/> <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, --  </td>
 		<td>IP-7 <br/> IP-10 </td>
 		<td>MP-9 <br/> MP-24 </td>
 		<td> \doubleck{} </td>
 	</tr>
 
-	<tr id="abn-amro">
+	<tr class="bank-row" id="abn-amro">
 		<td>ABN AMRO </td>
 		<td>NL	</td>
 		<td><i class="fas fa-globe-americas"></i> </td>
-		<td>\begin{tabular}{c}  \chanin{\opid}{i} \auth{\aR}{\ask}{O,K} \chanout{\otp}{i} \\ \chanin{\opid}{h} \auth{\aR}{\ask}{O,K} \chanout{\otp}{h} \\ \auth{\aA}{}{I} \end{tabular} </td>
-		<td>\begin{tabular}{c} \bE,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> \\ -- \\ <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, --\\ \end{tabular} </td>
+		<td>\chanin{\opid}{i} \auth{\aR}{\ask}{O,K} \chanout{\otp}{i} <br/> \chanin{\opid}{h} \auth{\aR}{\ask}{O,K} \chanout{\otp}{h} <br/> \auth{\aA}{}{I}  </td>
+		<td>\bE,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> -- <br/> <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, --<br/>  </td>
 		<td>IP-5 <br/> IP-10 </td>
-		<td>\begin{tabular}{c} MP-5 <br/> MP-5, \\ MP-23 <br/> MP-23 \end{tabular} </td>
+		<td>\begin{tabular}{c} MP-5 <br/> MP-5, <br/> MP-23 <br/> MP-23 \end{tabular} </td>
 		<td>\doubleck{}</td>
 	</tr>
 
-	<tr id="nordea">
+	<tr class="bank-row" id="nordea">
 		<td>Nordea</td>
 		<td>SW	</td>
 		<td><i class="fas fa-globe-americas"></i> </td>
-		<td>\begin{tabular}{c}  \chanin{\opid}{h} \auth{\aR}{}{O,K} \chanout{\otp}{h} \\ \chanin{\opid}{i} \auth{\aR}{\ask}{O,K} \chanout{\otp}{i} \\ \chanin{\opid}{i} \auth{\aA}{\ask}{O,K} \chanout{\otp}{i} \\ \chanin{\opid}{n} \auth{\aOOBS}{\ask}{O,K} \chanout{\otp}{n}\\ \chanin{\opid}{n} \auth{\aOOBS}{\ask}{O,I} \chanout{\otp}{n} \\ \chanin{\opid}{i} \auth{\aA}{\ask}{O,K} \chanout{\otp}{i}\\ \chanin{\opid}{i} \auth{\aA}{\ask}{O,I} \chanout{\otp}{i} \end{tabular} </td>
-		<td>\begin{tabular}{c} \bE,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA \end{tabular} </td>
-		<td>\begin{tabular}{c} IP-5 <br/> IP-8, \\ IP-13 <br/> IP-27, \\ IP-28 \end{tabular} </td>
-		<td>\begin{tabular}{c} MP-3 <br/> MP-20, \\MP-21  \end{tabular}</td>
+		<td>\chanin{\opid}{h} \auth{\aR}{}{O,K} \chanout{\otp}{h} <br/> \chanin{\opid}{i} \auth{\aR}{\ask}{O,K} \chanout{\otp}{i} <br/> \chanin{\opid}{i} \auth{\aA}{\ask}{O,K} \chanout{\otp}{i} <br/> \chanin{\opid}{n} \auth{\aOOBS}{\ask}{O,K} \chanout{\otp}{n}<br/> \chanin{\opid}{n} \auth{\aOOBS}{\ask}{O,I} \chanout{\otp}{n} <br/> \chanin{\opid}{i} \auth{\aA}{\ask}{O,K} \chanout{\otp}{i}<br/> \chanin{\opid}{i} \auth{\aA}{\ask}{O,I} \chanout{\otp}{i} </td>
+		<td>\bE,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA </td>
+		<td>\begin{tabular}{c} IP-5 <br/> IP-8, <br/> IP-13 <br/> IP-27, <br/> IP-28 \end{tabular} </td>
+		<td>\begin{tabular}{c} MP-3 <br/> MP-20, <br/>MP-21  \end{tabular}</td>
 		<td>\doubleck{}</td>
 	</tr>
 
-	<tr id="svenska-handelsbanken">
+	<tr class="bank-row" id="svenska-handelsbanken">
 		<td>Svenska Handelsbanken </td>
 		<td>SW	</td>
-		<td>\eB{} </td>
-		<td>\begin{tabular}{c}  \aM \\ \chanin{\opid}{h} \auth{\aR}{}{O,K} \chanout{\otp}{h} \\ \chanin{\opid}{i} \auth{\aR}{\ask}{O,K} \chanout{\otp}{i} \\ \chanin{\opid}{i} \auth{\aA}{\ask}{O,K} \chanout{\otp}{i} \\ \chanin{\opid}{n} \auth{\aOOBS}{\ask}{O,K} \chanout{\otp}{n}\\ \chanin{\opid}{n} \auth{\aOOBS}{\ask}{O,I} \chanout{\otp}{n} \\ \chanin{\opid}{i} \auth{\aA}{\ask}{O,K} \chanout{\otp}{i}\\ \chanin{\opid}{i} \auth{\aA}{\ask}{O,I} \chanout{\otp}{i} \end{tabular} </td>
-		<td>\begin{tabular}{c}  \bE,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> \\ \bMFA,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> \\ \bMFA,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA \end{tabular} </td>
-		<td>\begin{tabular}{c} IP-5 <br/> IP-8, \\ IP-11 <br/> IP-13,\\IP-27 <br/> IP-28 \end{tabular}</td>
-		<td>\begin{tabular}{c} MP-3 <br/> MP-10, \\ MP-20 <br/> MP-21 \end{tabular}</td>
+		<td><i class="fas fa-university"></i> </td>
+		<td>\aM <br/> \chanin{\opid}{h} \auth{\aR}{}{O,K} \chanout{\otp}{h} <br/> \chanin{\opid}{i} \auth{\aR}{\ask}{O,K} \chanout{\otp}{i} <br/> \chanin{\opid}{i} \auth{\aA}{\ask}{O,K} \chanout{\otp}{i} <br/> \chanin{\opid}{n} \auth{\aOOBS}{\ask}{O,K} \chanout{\otp}{n}<br/> \chanin{\opid}{n} \auth{\aOOBS}{\ask}{O,I} \chanout{\otp}{n} <br/> \chanin{\opid}{i} \auth{\aA}{\ask}{O,K} \chanout{\otp}{i}<br/> \chanin{\opid}{i} \auth{\aA}{\ask}{O,I} \chanout{\otp}{i}  </td>
+		<td>\bE,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> \bMFA,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> \bMFA,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA  </td>
+		<td>\begin{tabular}{c} IP-5 <br/> IP-8, <br/> IP-11 <br/> IP-13,<br/>IP-27 <br/> IP-28 \end{tabular}</td>
+		<td>\begin{tabular}{c} MP-3 <br/> MP-10, <br/> MP-20 <br/> MP-21 \end{tabular}</td>
 		<td>\faRemove{}</td>
 	</tr>
 
-	<tr id="seb">
+	<tr class="bank-row" id="seb">
 		<td>SEB</td>
 		<td>SW	</td>
 		<td><i class="fas fa-globe-americas"></i> </td>
-		<td>\begin{tabular}{l}   \chanin{\opid}{h} \auth{\aR}{}{O,K} \chanout{\otp}{h} \\ \chanin{\opid}{i} \auth{\aR}{\ask}{O,K} \chanout{\otp}{i} \\ \chanin{\opid}{n} \auth{\aOOBS}{\ask}{O,K} \chanout{\otp}{n}\\ \chanin{\opid}{n} \auth{\aOOBS}{\ask}{O,I} \chanout{\otp}{n} \\ \chanin{\opid}{i} \auth{\aA}{\ask}{O,K} \chanout{\otp}{i}\\ \chanin{\opid}{i} \auth{\aA}{\ask}{O,I} \chanout{\otp}{i}   \end{tabular} </td>
-		<td>\begin{tabular}{c}  \bE,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> \\ \bMFA,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA \\ <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA \end{tabular} </td>
-		<td>\begin{tabular}{c} IP-5 <br/> IP-8,\\ IP-27 <br/> IP-28 \end{tabular}</td>
-		<td>\begin{tabular}{c} MP-3 <br/> MP-20, \\ MP-21 \end{tabular}</td>
+		<td>\chanin{\opid}{h} \auth{\aR}{}{O,K} \chanout{\otp}{h} <br/> \chanin{\opid}{i} \auth{\aR}{\ask}{O,K} \chanout{\otp}{i} <br/> \chanin{\opid}{n} \auth{\aOOBS}{\ask}{O,K} \chanout{\otp}{n}<br/> \chanin{\opid}{n} \auth{\aOOBS}{\ask}{O,I} \chanout{\otp}{n} <br/> \chanin{\opid}{i} \auth{\aA}{\ask}{O,K} \chanout{\otp}{i}<br/> \chanin{\opid}{i} \auth{\aA}{\ask}{O,I} \chanout{\otp}{i} </td>
+		<td>\bE,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> \bMFA,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,\bMFA </td>
+		<td>\begin{tabular}{c} IP-5 <br/> IP-8,<br/> IP-27 <br/> IP-28 \end{tabular}</td>
+		<td>\begin{tabular}{c} MP-3 <br/> MP-20, <br/> MP-21 \end{tabular}</td>
 		<td> \faRemove{}</td>
 	</tr>
 </table>

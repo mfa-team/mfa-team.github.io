@@ -66,7 +66,7 @@ Login only
 
 ### Requirements
 
-See [this page]({{ site.github.url }} /survey/requirements-best-practices.md) for details
+See [this page]({{ site.github.url }}/survey/requirements-best-practices.md) for details
 
 | RL1 | RL2 | RL3 | RL4 | RL5 | RL6 | RL7 | RL8 | RL9 |
 |---|---|---|---|---|---|---|---|---|
@@ -74,7 +74,7 @@ See [this page]({{ site.github.url }} /survey/requirements-best-practices.md) fo
 
 ### Best Practices
 
-See [this page]({{ site.github.url }} /survey/requirements-best-practices.md) for details
+See [this page]({{ site.github.url }}/survey/requirements-best-practices.md) for details
 
 | BP1 | BP2 | BP3 | BP4 | BP5 | BP6 | BP7 | BP8 |
 |---|---|---|---|---|---|---|---|

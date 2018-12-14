@@ -6,3 +6,14 @@
 div.wrapper.full-page{
   width: 86%;
 }
+
+div.wrapper.full-page header{
+  width: auto;
+  float: none;
+  position: inherit;
+}
+
+div.wrapper.full-page section{
+  width: auto;
+  float: none;
+}

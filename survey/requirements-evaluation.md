@@ -5,10 +5,58 @@ title: Survey on MFA implementations for online banking services
 
 In this page, we present the compliance of EU and non-EU banks with the
 requirements extracted from the European regulations (the <a href="https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32015L2366" target="_blank">Payments Service Directive 2</a> and the related <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:
-32018R0389&from=EN" target="_blank">Regulatory Technical Standard</a>).
+32018R0389</td><td>from=EN" target="_blank">Regulatory Technical Standard</a>).
+
+
+<table>
+<thead>
+<td>Req. Number</td>
+<td>Definition</td>
+</thead>
+<tr>
+<bold>RL1</bold> </td><td> If a software authenticator or an authentication code is used through a multi-purpose device, the integrity of the device must be checked </td>
+</tr>
+<tr> 
+<bold>RL2</bold> </td><td> \mfa{} protocols must be always employed when the user performs risky operations </td>
+</tr>
+<tr>
+<bold>RL3</bold> </td><td> Every \mfa{} protocol must employ at least two different types of \AuF{}s </td>
+</tr>
+<tr>
+<bold>RL4</bold> </td><td> Every \mfa{} protocol must employ at least two independent \AuF{}s </td>
+</tr>
+<tr>
+<bold>RL5</bold> </td><td> Every \mfa{} protocol must result in the generation of an authentication code that is unique, dynamically linked to a specific operation and accepted only once. </td>
+</tr>
+<tr>
+<bold>RL6 </bold> </td><td> Every \mfa{} protocol must make the user aware of crucial information on the operation she is going to authorize </td>
+</tr>
+<tr> 
+<bold>RL7</bold> </td><td> Identity proofing must be performed with a high level of confidence </td>
+</tr>
+<tr>
+<bold>RL8</bold> </td><td> The binding procedure for every authenticator must be executed in a secure manner </td>
+</tr>
+<tr>
+<bold>RL9</bold> </td><td> Every remotely delivered authenticator must be activated before its usage</td>
+</tr>
+</table>
+
 
 <h2>EU Banks</h2>
 <table>
+<thead style="font-weight: bold; font-size: 12.5pt;">
+<td>Bank Name</td>
+<td>RL1</td>
+<td>RL2</td>
+<td>RL3</td>
+<td>RL4</td>
+<td>RL5</td>
+<td>RL6</td>
+<td>RL7</td>
+<td>RL8</td>
+<td>RL9</td>
+</thead>
 <tr id="deutsche-bank">
 <td>Deutsche Bank 	</td>
 <td> DE	</td>
@@ -50,7 +98,7 @@ requirements extracted from the European regulations (the <a href="https://eur-l
 <td> <i class="far fa-star"></i> </td><td> 	<i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="far fa-star"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="far fa-star"></i> </td><td> <i class="far fa-star"></i> </td>
 </tr>
 <tr id="societe-generale">
-<td>Societè Geerale</td>
+<td>Societè Generale</td>
 <td> FR	</td>
 <td> <i class="fa fa-star"></i> </td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="far fa-star"></i> </td><td> <i class="far fa-star"></i> </td>
 </tr>
@@ -100,12 +148,12 @@ requirements extracted from the European regulations (the <a href="https://eur-l
 <td><i class="fa fa-star"></i> </td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="far fa-star"></i> </td><td> <i class="far fa-star"></i> </td>
 </tr>
 <tr id="nordea">
-Nordea	</td>
+<td>Nordea	</td>
 <td> SW	</td>
 <td> <i class="far fa-star"></i> </td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> </td><td> <i class="fa fa-star-half-alt"></i> </td>
 </tr>
 <tr id="svenska-handelsbanken">
-Svenska Handelsb. </td>
+<td>Svenska Handelsb. </td>
 <td> SW	</td>
 <td> <i class="far fa-star"></i> </td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> </td><td> <i class="fa fa-star-half-alt"></i> </td>
 </tr>

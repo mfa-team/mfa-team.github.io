@@ -1,3 +1,9 @@
+---
+layout: full-page
+title: Survey on MFA implementations for online banking services
+---
+
+
 <table>
 	<thead style="font-weight: bold; font-size: 14pt;">
 		<td>Bank name</td>

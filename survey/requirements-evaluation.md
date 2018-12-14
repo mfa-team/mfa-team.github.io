@@ -18,19 +18,19 @@ requirements extracted from the European regulations (the <a href="https://eur-l
 <td><bold>RL1</bold> </td><td> If a software authenticator or an authentication code is used through a multi-purpose device, the integrity of the device must be checked </td>
 </tr>
 <tr> 
-<td><bold>RL2</bold> </td><td> \mfa{} protocols must be always employed when the user performs risky operations </td>
+<td><bold>RL2</bold> </td><td> MFA protocols must be always employed when the user performs risky operations </td>
 </tr>
 <tr>
-<td><bold>RL3</bold> </td><td> Every \mfa{} protocol must employ at least two different types of \AuF{}s </td>
+<td><bold>RL3</bold> </td><td> Every MFA protocol must employ at least two different types of Authentication Factors </td>
 </tr>
 <tr>
-<td><bold>RL4</bold> </td><td> Every \mfa{} protocol must employ at least two independent \AuF{}s </td>
+<td><bold>RL4</bold> </td><td> Every MFA protocol must employ at least two independent Authentication Factors </td>
 </tr>
 <tr>
-<td><bold>RL5</bold> </td><td> Every \mfa{} protocol must result in the generation of an authentication code that is unique, dynamically linked to a specific operation and accepted only once. </td>
+<td><bold>RL5</bold> </td><td> Every MFA protocol must result in the generation of an authentication code that is unique, dynamically linked to a specific operation and accepted only once. </td>
 </tr>
 <tr>
-<td><bold>RL6 </bold> </td><td> Every \mfa{} protocol must make the user aware of crucial information on the operation she is going to authorize </td>
+<td><bold>RL6 </bold> </td><td> Every MFA protocol must make the user aware of crucial information on the operation she is going to authorize </td>
 </tr>
 <tr> 
 <td><bold>RL7</bold> </td><td> Identity proofing must be performed with a high level of confidence </td>

@@ -5,7 +5,7 @@ title: Survey on MFA implementations for online banking services
 
 <h2>Non-EU Banks</h2>
 
-<table style="color: black;">
+<table id="non-eu-banks-table" style="color: black;">
 	<thead style="font-weight: bold; font-size: 14pt;">
 		<td>Bank name</td>
 		<td>Country</td>
@@ -107,3 +107,4 @@ title: Survey on MFA implementations for online banking services
 		<td>MP-12 <br/> MP-20 </td>
 		<td> <i class="fas fa-times"></i> </td>
 	</tr>
+</table>

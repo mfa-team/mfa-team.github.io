@@ -1,5 +1,5 @@
 <table>
-	<th>
+	<thead>
 		<td>Bank name</td>
 		<td>Country</td>
 		<td>Enrollment</td>
@@ -8,7 +8,7 @@
 		<td>IPs</td>
 		<td>MPs</td>
 		<td>Exemptions</td>
-	</th>
+	</thead>
 	<tr class="bank-row" id="deutsche-bank">
 		<td><a href="banks/de/deutsche-bank">Deutsche Bank</a> 	</td>
 		<td> DE	</td>

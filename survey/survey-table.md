@@ -9,7 +9,7 @@ and Mobile Payments) and the adoption of exemptions.
 <h2>EU Banks</h2>
 
 <table id="eu-banks-table" style="color: black;">
-	<thead style="font-weight: bold; font-size: 14pt;">
+	<thead style="font-weight: bold; font-size: 12.5pt;">
 		<td>Bank name</td>
 		<td>C</td>
 		<td>Enr.</td>
@@ -18,7 +18,7 @@ and Mobile Payments) and the adoption of exemptions.
 		<td>IPs</td>
 		<td>MPs</td>
 		<td>Ex.</td>
-		<td>Reqs</td>
+		<td>RLs</td>
 		<td>BPs</td>
 	</thead>
 	<tr class="bank-row" id="deutsche-bank">
@@ -185,6 +185,8 @@ and Mobile Payments) and the adoption of exemptions.
 		<td>IP-15 </td>
 		<td>MP-13 </td>
 		<td><i class="fas fa-check"></i></td>
+		<td><a href="requirements-evaluation#">/9</a></td>
+		<td><a href="best-practices-evaluation#">/8</a></td>
 	</tr>
 	<tr class="bank-row" id="la-caixa">
 		<td><a href="banks/es/la-caixa">La Caixa</a></td>
@@ -275,7 +277,7 @@ and Mobile Payments) and the adoption of exemptions.
 <h2>Non-EU Banks</h2>
 
 <table id="non-eu-banks-table" style="color: black;">
-	<thead style="font-weight: bold; font-size: 14pt;">
+	<thead style="font-weight: bold; font-size: 12.5pt;">
 		<td>Bank name</td>
 		<td>C</td>
 		<td>Enr.</td>
@@ -284,7 +286,7 @@ and Mobile Payments) and the adoption of exemptions.
 		<td>IPs</td>
 		<td>MPs</td>
 		<td>Ex.</td>
-		td>Reqs</td>
+		<td>RLs</td>
 		<td>BPs</td>
 	</thead>
 	<tr class="bank-row" id="icbc">

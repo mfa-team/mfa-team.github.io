@@ -7,3 +7,6 @@ title: MFA Dataset
 ---
 
 **Multi-factor authentication** (mfa) is a form of digital authentication affering strong security guarantees through the adoption of multiple *authentication factors*.
+
+We executed a survey on real-world  MFA implementations adopted by banks all over the world.
+The results are available [in this page](survey/survey-table.md).

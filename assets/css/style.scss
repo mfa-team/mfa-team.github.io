@@ -29,7 +29,9 @@ table img.authr-img{
 }
 
 table img.authr-img.channel{
-  height: 13pt;
+  vertical-align: bottom;
+  height: 14pt;
+  margin: auto 2px;
 }
 
 table span.authr-data-obj{

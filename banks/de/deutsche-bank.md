@@ -28,45 +28,53 @@ Login only
 
 - Credentials + QR Code Reader (Authenticator - HW device)
 
-![IP-6](../../sequence-diagrams/ip/IP-6.png)
+| | DT | AD | SS | ES | SE | MB | MM |
+|---|---|---|---|---|---|---|---|
+|<img src="../../protocols-representations/pictograms/ip/IP-6.png"  height="60" alt="IP-6"/> | - | - | - | - | - | - | - |
 
 - Credentials + Look-up secret
 
-![IP-11](../../sequence-diagrams/ip/IP-11.png)
+<img src="../../protocols-representations/pictograms/ip/IP-11.png"  height="60" alt="IP-11"/>
 
 - Credentials + SIM card
 
-![IP-15](../../sequence-diagrams/ip/IP-15.png)
+<img src="../../protocols-representations/pictograms/ip/IP-15.png"  height="60" alt="IP-15"/>
 
 - Credentials + SW Authenticator
 
-![IP-21](../../sequence-diagrams/ip/IP-21.png)
+<img src="../../protocols-representations/pictograms/ip/IP-21.png"  height="60" alt="IP-21"/>
 
 ### Mobile payments
 
 - Credentials + Look-up secret
 
-![MP-10](../../sequence-diagrams/mp/MP-10.png)
+| | DT | AD | SS | ES | SE | MB | MM |
+|---|---|---|---|---|---|---|---|
+| <img src="../../protocols-representations/pictograms/mp/MP-10.png"  height="60" alt="MP-10"/> | - | - | <i class="fas fa-skull"></i> | <i class="fas fa-skull"></i> | <i class="fas fa-skull"></i> | - | <i class="fas fa-skull"></i> |
 
 - Credentials + Software Device (App)
 
-![MP-19](../../sequence-diagrams/mp/MP-19.png)
+<img src="../../protocols-representations/pictograms/mp/MP-19.png"  height="60" alt="MP-19"/>
 
 - Fingerprint + Look-up secret
 
-![MP-25](../../sequence-diagrams/mp/MP-25.png)
+<img src="../../protocols-representations/pictograms/mp/MP-25.png"  height="60" alt="MP-25"/>
 
 - Fingerprint + SW Authenticator 
 
-![MP-27](../../sequence-diagrams/mp/MP-27.png)
+<img src="../../protocols-representations/pictograms/mp/MP-27.png"  height="60" alt="MP-27"/>
 
-### Requirements 
+### Requirements
+
+See [this page]({{ site.github.url }} /survey/requirements-best-practices.md) for details
 
 | RL1 | RL2 | RL3 | RL4 | RL5 | RL6 | RL7 | RL8 | RL9 |
 |---|---|---|---|---|---|---|---|---|
 | <i class="fa fa-star"></i> | <i class="fa fa-star"></i> | <i class="fa fa-star"></i> | <i class="fa fa-star-half-alt"></i> | <i class="fa fa-star-half-alt"></i> | <i class="fa fa-star-half-alt"></i> | <i class="fa fa-star"></i> | <i class="fa fa-star-half-alt"></i> | <i class="fa fa-star-half-alt"></i> |
 
 ### Best Practices
+
+See [this page]({{ site.github.url }} /survey/requirements-best-practices.md) for details
 
 | BP1 | BP2 | BP3 | BP4 | BP5 | BP6 | BP7 | BP8 |
 |---|---|---|---|---|---|---|---|

@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
 <table>
 	<tr id="deutsche-bank">
 		<td>Deutsche Bank 	</td>
@@ -239,6 +236,3 @@
 		<td> \faRemove{}</td>
 	</tr>
 </table>
-
-</body>
-</html>

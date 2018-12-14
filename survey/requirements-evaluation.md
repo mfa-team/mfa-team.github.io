@@ -4,8 +4,8 @@ title: Survey on MFA implementations for online banking services
 ---
 
 In this page, we present the compliance of EU and non-EU banks with the
-requirements extracted from the European regulations [1, 2] and the best practices
-extracted from several guidelines [3, 4, 5, 6, 7].
+requirements extracted from the European regulations (the <a href="https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32015L2366" target="_blank">Payments Service Directive 2</a> and the related <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:
+32018R0389&from=EN" target="_blank">Regulatory Technical Standard</a>).
 
 <h2>EU Banks</h2>
 <table>

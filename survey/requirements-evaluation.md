@@ -14,31 +14,31 @@ requirements extracted from the European regulations (the <a href="https://eur-l
 <td>Definition</td>
 </thead>
 <tr>
-<bold>RL1</bold> </td><td> If a software authenticator or an authentication code is used through a multi-purpose device, the integrity of the device must be checked </td>
+<td><bold>RL1</bold> </td><td> If a software authenticator or an authentication code is used through a multi-purpose device, the integrity of the device must be checked </td>
 </tr>
 <tr> 
-<bold>RL2</bold> </td><td> \mfa{} protocols must be always employed when the user performs risky operations </td>
+<td><bold>RL2</bold> </td><td> \mfa{} protocols must be always employed when the user performs risky operations </td>
 </tr>
 <tr>
-<bold>RL3</bold> </td><td> Every \mfa{} protocol must employ at least two different types of \AuF{}s </td>
+<td><bold>RL3</bold> </td><td> Every \mfa{} protocol must employ at least two different types of \AuF{}s </td>
 </tr>
 <tr>
-<bold>RL4</bold> </td><td> Every \mfa{} protocol must employ at least two independent \AuF{}s </td>
+<td><bold>RL4</bold> </td><td> Every \mfa{} protocol must employ at least two independent \AuF{}s </td>
 </tr>
 <tr>
-<bold>RL5</bold> </td><td> Every \mfa{} protocol must result in the generation of an authentication code that is unique, dynamically linked to a specific operation and accepted only once. </td>
+<td><bold>RL5</bold> </td><td> Every \mfa{} protocol must result in the generation of an authentication code that is unique, dynamically linked to a specific operation and accepted only once. </td>
 </tr>
 <tr>
-<bold>RL6 </bold> </td><td> Every \mfa{} protocol must make the user aware of crucial information on the operation she is going to authorize </td>
+<td><bold>RL6 </bold> </td><td> Every \mfa{} protocol must make the user aware of crucial information on the operation she is going to authorize </td>
 </tr>
 <tr> 
-<bold>RL7</bold> </td><td> Identity proofing must be performed with a high level of confidence </td>
+<td><bold>RL7</bold> </td><td> Identity proofing must be performed with a high level of confidence </td>
 </tr>
 <tr>
-<bold>RL8</bold> </td><td> The binding procedure for every authenticator must be executed in a secure manner </td>
+<td><bold>RL8</bold> </td><td> The binding procedure for every authenticator must be executed in a secure manner </td>
 </tr>
 <tr>
-<bold>RL9</bold> </td><td> Every remotely delivered authenticator must be activated before its usage</td>
+<td><bold>RL9</bold> </td><td> Every remotely delivered authenticator must be activated before its usage</td>
 </tr>
 </table>
 

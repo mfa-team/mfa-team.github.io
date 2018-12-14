@@ -47,6 +47,7 @@ requirements extracted from the European regulations (the <a href="https://eur-l
 <table>
 <thead style="font-weight: bold; font-size: 12.5pt;">
 <td>Bank Name</td>
+<td>Country</td>
 <td>RL1</td>
 <td>RL2</td>
 <td>RL3</td>

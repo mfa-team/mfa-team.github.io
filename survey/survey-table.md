@@ -29,7 +29,7 @@ title: Survey on MFA implementations for online banking services
 		<td><a href="banks/de/vr-bank">VR Bank</a> </td>
 		<td> DE	</td>
 		<td><i class="fas fa-university"></i> </td>
-		<td>\auth{\aA}{}{I} <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_o.png"  /> \auth{\aR}{\ask}{O} \chanout{\otp}{h} <br/> \chanin{\otp}{m} <i class="fas fa-sim-card"></i>$^{\!\!\textnormal{\scalebox{1}{{\ask}}}}$ \chanout{\otp}{h} <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> \auth{\aA}{\ask}{O,K} \chanout{\otp}{i} <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_n.png"  /> \auth{\aOOBS}{\ask}{O,K} \chanout{\otp}{n} <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> \auth{\aA}{\ask}{O,I} \chanout{\otp}{i} <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_n.png"  /> \auth{\aOOBS}{\ask}{O,I} \chanout{\otp}{n} </td>
+		<td>\auth{\aA}{}{I} <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_o.png"  /> \auth{\aR}{\ask}{O} \chanout{\otp}{h} <br/> <span class="authr-data-obj">otp</span><img class="authr-img channel" src="res/img/channels/chanin_m.png"  /> <i class="fas fa-sim-card"></i>$^{\!\!\textnormal{\scalebox{1}{{\ask}}}}$ \chanout{\otp}{h} <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> \auth{\aA}{\ask}{O,K} \chanout{\otp}{i} <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_n.png"  /> \auth{\aOOBS}{\ask}{O,K} \chanout{\otp}{n} <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> \auth{\aA}{\ask}{O,I} \chanout{\otp}{i} <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_n.png"  /> \auth{\aOOBS}{\ask}{O,I} \chanout{\otp}{n} </td>
 		<td><i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i> <br/> <bold>E</bold>,<i class="fas fa-globe-americas"></i>, <img src="res/img/binding/mfa_icon.png" height="12pt" />  <br/> <i class="fas fa-university"></i>, <i class="fas fa-university"></i>, <i class="fas fa-globe-americas"></i> <br/>  <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> </td>
 		<td>	IP-6 <br/> IP-15 <br/> IP-31 <br/> IP-32 </td>
 		<td> 	MP-8 <br/> MP-20,<br/> MP-21 <br/> MP-22,<br/>MP-28 <br/> MP-29	</td>
@@ -38,7 +38,7 @@ title: Survey on MFA implementations for online banking services
 	<tr class="bank-row" id="commerzbank">
 		<td><a href="banks/de/commerzbank">Commerzbank</a>  </td>
 		<td>DE   </td>
-		<td><i class="fas fa-globe-americas"></i> </td><td> \auth{\aA}{}{I} <br/> \chanin{\opid{}}{o} \auth{\aR}{\ask}{O} \chanout{\otp{}}{h} <br/> <i class="fas fa-table"></i> <br/> \chanin{\otp{}}{m} <i class="fas fa-sim-card"></i>$^{\!\!\textnormal{\scalebox{1}{{\ask}}}}$ \chanout{\otp{}}{h} <br/> \chanin{\opid{}}{o} \auth{\aA}{\ask}{O} \chanout{\otp{}}{h} <br/> \chanin{\opid{}}{i} \auth{\aA}{\ask}{O} \chanout{\otp{}}{i} </td>
+		<td><i class="fas fa-globe-americas"></i> </td><td> \auth{\aA}{}{I} <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_o.png"  /> \auth{\aR}{\ask}{O} \chanout{\otp{}}{h} <br/> <i class="fas fa-table"></i> <br/> \chanin{\otp{}}{m} <i class="fas fa-sim-card"></i>$^{\!\!\textnormal{\scalebox{1}{{\ask}}}}$ \chanout{\otp{}}{h} <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_o.png"  /> \auth{\aA}{\ask}{O} \chanout{\otp{}}{h} <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_o.png"  /> \auth{\aA}{\ask}{O} \chanout{\otp{}}{i} </td>
 		<td><i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, -- <br/> <bold>E</bold>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>  <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>(\bS) <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>(\bS) </td>
 		<td>  IP-6 <br/> IP-11 <br/> IP-15 <br/> IP-21  </td>
 		<td>  MP-8 <br/> MP-19 <br/> MP-22 <br/> MP-27  </td>
@@ -68,7 +68,7 @@ title: Survey on MFA implementations for online banking services
 		<td><a href="banks/uk/lloyds-bank">LLoyds Bank</a></td>
 		<td>UK</td>
 		<td><i class="fas fa-university"></i>   </td>
-		<td>\aK <br/> \chanin{\otp{}}{h} <i class="fas fa-sim-card"></i> \chanout{\otp}{m} <br/> \chanin{\opid{}}{n} \auth{\aOOBS}{}{O,K} \chanout{\otp{}}{n} <br/> \chanin{\opid{}}{n} \auth{\aOOBS}{}{O,I} \chanout{\otp{}}{n} <br/> \auth{\aA}{}{I} <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> \auth{\aA}{}{O} \chanout{otp}{i}  </td>
+		<td>\aK <br/> \chanin{\otp{}}{h} <i class="fas fa-sim-card"></i> \chanout{\otp}{m} <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_n.png"  /> \auth{\aOOBS}{}{O,K} \chanout{\otp{}}{n} <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_n.png"  /> \auth{\aOOBS}{}{O,I} \chanout{\otp{}}{n} <br/> \auth{\aA}{}{I} <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> \auth{\aA}{}{O} \chanout{otp}{i}  </td>
 		<td><bold>E</bold>, <i class="fas fa-university"></i>, <i class="fas fa-university"></i> <br/> <bold>E</bold>,<i class="fas fa-university"></i>,<i class="fas fa-university"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> </td>
 		<td> IP-17 <br/> IP-29, <br/> IP-30 </td>
 		<td>MP-17 <br/> MP-26 </td>
@@ -78,7 +78,7 @@ title: Survey on MFA implementations for online banking services
 		<td><a href="banks/fr/bnp-paribas">BNP Paribas</a></td>
 		<td>FR </td>
 		<td><i class="fas fa-globe-americas"></i>   </td>
-		<td>\chanin{\otp}{m} <i class="fas fa-sim-card"></i> \chanout{\otp}{h}<br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_n.png"  /> \auth{\aOOBS}{\ask}{O,K} \chanout{\otp}{n} <br/> \chanin{\otp}{i} \auth{\aA}{}{O} \chanout{\otp}{i}  </td>
+		<td><span class="authr-data-obj">otp</span><img class="authr-img channel" src="res/img/channels/chanin_m.png"  /> <i class="fas fa-sim-card"></i> \chanout{\otp}{h}<br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_n.png"  /> \auth{\aOOBS}{\ask}{O,K} \chanout{\otp}{n} <br/> \chanin{\otp}{i} \auth{\aA}{}{O} \chanout{\otp}{i}  </td>
 		<td><bold>E</bold>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>(<i class="fas fa-sim-card"></i>) <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>(<i class="fas fa-sim-card"></i>)  </td>
 		<td> IP-14 <br/> IP-27 </td>
 		<td>MP-12,MP-20 </td>
@@ -98,7 +98,7 @@ title: Survey on MFA implementations for online banking services
 		<td><a href="banks/fr/societe-generale">Societe Generale</a></td>
 		<td>FR </td>
 		<td><i class="fas fa-globe-americas"></i>   </td>
-		<td>\chanin{\otp{}}{m} <i class="fas fa-sim-card"></i> \chanout{\otp}{h} <br/> \chanin{\opid{}}{i} \auth{\aA}{\ask}{O,K} \chanout{\otp}{i} <br/> \chanin{\opid{}}{n} \auth{\aOOBS}{\ask}{O,K} \chanout{\otp}{n}  </td>
+		<td>\chanin{\otp{}}{m} <i class="fas fa-sim-card"></i> \chanout{\otp}{h} <br/> \chanin{\opid{}}{i} \auth{\aA}{\ask}{O,K} \chanout{\otp}{i} <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_n.png"  /> \auth{\aOOBS}{\ask}{O,K} \chanout{\otp}{n}  </td>
 		<td><bold>E</bold>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>(<i class="fas fa-sim-card"></i>) <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>(<i class="fas fa-sim-card"></i>) </td>
 		<td> IP-14 <br/> IP-27</td>
 		<td> MP-20 </td>
@@ -138,7 +138,7 @@ title: Survey on MFA implementations for online banking services
 		<td><a href="banks/es/banco-santander">Banco Santander</a></td>
 		<td>ES	</td>
 		<td><i class="fas fa-globe-americas"></i>   </td>
-		<td>\aK <br/> \chanin{\otp}{m} <i class="fas fa-sim-card"></i> \chanout{\otp}{h}  </td>
+		<td>\aK <br/> <span class="authr-data-obj">otp</span><img class="authr-img channel" src="res/img/channels/chanin_m.png"  /> <i class="fas fa-sim-card"></i> \chanout{\otp}{h}  </td>
 		<td><bold>E</bold>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <bold>E</bold>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>  </td>
 		<td>IP-16</td>
 		<td>MP-14 </td>
@@ -148,7 +148,7 @@ title: Survey on MFA implementations for online banking services
 		<td><a href="banks/es/bbva">BBVA</a></td>
 		<td>ES</td>
 		<td><i class="fas fa-globe-americas"></i></td>
-		<td>\chanin{\otp}{m} <i class="fas fa-sim-card"></i>$^{\!\!\textnormal{\scalebox{1}{{\ask}}}}$ \chanout{\otp}{h} </td>
+		<td><span class="authr-data-obj">otp</span><img class="authr-img channel" src="res/img/channels/chanin_m.png"  /> <i class="fas fa-sim-card"></i>$^{\!\!\textnormal{\scalebox{1}{{\ask}}}}$ \chanout{\otp}{h} </td>
 		<td><bold>E</bold>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>  </td>
 		<td>IP-15 </td>
 		<td>MP-13 </td>
@@ -168,7 +168,7 @@ title: Survey on MFA implementations for online banking services
 		<td><a href="banks/nl/ing">ING</a></td>
 		<td>NL	</td>
 		<td><i class="fas fa-globe-americas"></i> </td>
-		<td><i class="fas fa-table"></i> <br/> \chanin{\otp}{m} <i class="fas fa-sim-card"></i>$^{\!\!\textnormal{\scalebox{1}{{\ask}}}}$ \chanout{\otp}{h} <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_n.png"  />\auth{\aOOBS{}}{\ask}{O,K} \chanout{\otp}{n} <br/> \auth{\aA}{}{I} <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> \auth{\aA{}}{\ask}{O} \chanout{\otp}{i} </td>
+		<td><i class="fas fa-table"></i> <br/> <span class="authr-data-obj">otp</span><img class="authr-img channel" src="res/img/channels/chanin_m.png"  /> <i class="fas fa-sim-card"></i>$^{\!\!\textnormal{\scalebox{1}{{\ask}}}}$ \chanout{\otp}{h} <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_n.png"  />\auth{\aOOBS{}}{\ask}{O,K} \chanout{\otp}{n} <br/> \auth{\aA}{}{I} <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> \auth{\aA{}}{\ask}{O} \chanout{\otp}{i} </td>
 		<td><bold>E</bold>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <bold>E</bold>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i> <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>(<i class="fas fa-sim-card"></i>) <br/> <i class="fas fa-globe-americas"></i>, <i class="fas fa-globe-americas"></i>, -- <br/> <i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>,<i class="fas fa-globe-americas"></i>(<i class="fas fa-sim-card"></i>) </td>
 		<td> IP-11 <br/> IP-15, <br/> IP-27  </td>
 		<td>MP-19 <br/> MP-27 </td>

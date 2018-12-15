@@ -4,7 +4,7 @@ title: Survey on MFA implementations for online banking services
 ---
 
 In this page, an overview on the MFA implementations adopted by each bank is given, reporting the enrollment procedure, the employed authenticators and the respective binding procedures, the employed MFA protocols (both for Internet
-and Mobile Payments) and the adoption of exemptions.
+and Mobile Payments), the adoption of exemptions and the compliance with a given set of requirements and best practices.
 
 <h2>EU Banks</h2>
 

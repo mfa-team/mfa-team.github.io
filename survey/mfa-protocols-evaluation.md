@@ -7,7 +7,7 @@ In this section, we evaluate the observed MFA protocols in terms of complexity (
 to the attacker models (namely Device Thief, Authenticator Duplicator, Shoulder Surfer, Eavesdropping Software, Social Engineer, Man in the Browser and Man in the Mobile)
 and their combinations.
 
-
+<div style="overflow:hidden;">
 <div id="ip-protocols-table-wrapper" style="overflow-x: auto;">
 <table id="ip-protocols-evaluation-table">
 <thead style="font-weight: bold; background-color: white;">
@@ -182,12 +182,7 @@ and their combinations.
 </tr>
 </table>
 </div>
-
+</div>
 <script>
-var $table = $(#ip-protocols-evaluation-table);
-$table.floatThead({
-    scrollContainer: function($table){
-        return $table.closest('#ip-protocols-table-wrapper');
-    }
-});
+$("#ip-protocols-evaluation-table").floatThead();
 </script>

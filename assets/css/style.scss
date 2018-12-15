@@ -3,22 +3,42 @@
 
 @import "{{ site.theme }}";
 
-.rotate {
+th.rotate {
+  /* Something you can count on */
+  height: 140px;
+  white-space: nowrap;
+}
 
-/* Safari */
--webkit-transform: rotate(-90deg);
+th.rotate > div {
+  transform: 
+    /* Magic Numbers */
+    translate(25px, 51px)
+    /* 45 is really 360 - 45 */
+    rotate(270deg);
+  width: 30px;
+}
 
-/* Firefox */
--moz-transform: rotate(-90deg);
+th.rotate > div > span {
+  padding: 5px 10px;
+}
 
-/* IE */
--ms-transform: rotate(-90deg);
+thead.rotate {
+  /* Something you can count on */
+  height: 140px;
+  white-space: nowrap;
+}
 
-/* Opera */
--o-transform: rotate(-90deg);
+thead.rotate > div {
+  transform: 
+    /* Magic Numbers */
+    translate(25px, 51px)
+    /* 45 is really 360 - 45 */
+    rotate(270deg);
+  width: 30px;
+}
 
-/* Internet Explorer */
-filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+thead.rotate > div > span {
+  padding: 5px 10px;
 }
 
 div.wrapper.full-page{

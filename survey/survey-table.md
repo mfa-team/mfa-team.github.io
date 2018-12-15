@@ -10,7 +10,7 @@ and Mobile Payments) and the adoption of exemptions.
 
 <div id="eu-banks-table-wrapper" style="overflow-x: scroll;">
 	<table id="eu-banks-table" style="color: black;">
-		<thead style="font-weight: bold; font-size: 12.5pt;">
+		<thead style="font-weight: bold; font-size: 12.5pt; background-color:white;">
 			<td>Bank name</td>
 			<td>C</td>
 			<td>Enr.</td>
@@ -280,7 +280,7 @@ and Mobile Payments) and the adoption of exemptions.
 
 <div id="eu-table-wrapper" style="overflow-x: scroll;">
 	<table id="non-eu-banks-table" style="color: black;">
-		<thead style="font-weight: bold; font-size: 12.5pt;">
+		<thead style="font-weight: bold; font-size: 12.5pt; background-color: white;">
 			<td>Bank name</td>
 			<td>C</td>
 			<td>Enr.</td>
@@ -407,5 +407,5 @@ and Mobile Payments) and the adoption of exemptions.
 <script>
 	var $table = $("#eu-banks-table");
 	$table.floatThead();
-	$("#non-eu-banks-tableeu-banks-table").floatThead();
+	$("#non-eu-banks-table").floatThead();
 </script>

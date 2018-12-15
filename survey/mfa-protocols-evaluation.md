@@ -11,7 +11,7 @@ and their combinations.
 <div id="ip-protocols-table-wrapper" style="overflow-x: auto;">
 <table id="ip-protocols-evaluation-table">
 <thead style="font-weight: bold; background-color: white;">
-<td>Protocol</td><td><p class="rotate">MEM</p></td><td><p class="rotate">OP</p></td><td><p class="rotate"> DEV </p></td><td><p class="rotate"> DT</p></td><td><p class="rotate">AD</p></td><td><p class="rotate">SS</p></td><td><p class="rotate">ES</p></td><td><p class="rotate">SE</p></td><td><p class="rotate">MB</p></td><td><p class="rotate">MM</p></td><td><p class="rotate">
+<td>Label</td><td>Protocol</td><td><p class="rotate">MEM</p></td><td><p class="rotate">OP</p></td><td><p class="rotate"> DEV </p></td><td><p class="rotate"> DT</p></td><td><p class="rotate">AD</p></td><td><p class="rotate">SS</p></td><td><p class="rotate">ES</p></td><td><p class="rotate">SE</p></td><td><p class="rotate">MB</p></td><td><p class="rotate">MM</p></td><td><p class="rotate">
 	 DT∘AD</p></td><td><p class="rotate">DT∘SS</p></td><td><p class="rotate">DT∘ES</p></td><td><p class="rotate">DT∘SE</p></td><td><p class="rotate">DT∘MB</p></td><td><p class="rotate">DT∘MM</p></td><td><p class="rotate">AD∘SS</p></td><td><p class="rotate">AD∘ES</p></td><td><p class="rotate">AD∘SE</p></td><td><p class="rotate">AD∘MB</p></td><td><p class="rotate">AD∘MM</p></td><td><p class="rotate">SS∘ES</p></td><td><p class="rotate">SS∘SE</p></td><td><p class="rotate">SS∘MB</p></td><td><p class="rotate">SS∘MM</p></td><td><p class="rotate">ES∘SE</p></td><td><p class="rotate">ES∘MB</p></td><td><p class="rotate">ES∘MM</p></td><td><p class="rotate">SE∘MB</p></td><td><p class="rotate">SE∘MM</p></td><td><p class="rotate">MB∘MM
 	 </p></td><td><p class="rotate">DT∘AD∘SS</p></td><td><p class="rotate">DT∘AD∘ES</p></td><td><p class="rotate">DT∘AD∘SE</p></td><td><p class="rotate">DT∘AD∘MB</p></td><td><p class="rotate">DT∘AD∘MM</p></td><td><p class="rotate">DT∘SS∘ES</p></td><td><p class="rotate">DT∘SS∘SE</p></td><td><p class="rotate">DT∘SS∘MB</p></td><td><p class="rotate">DT∘SS∘MM</p></td><td><p class="rotate">DT∘ES∘SE</p></td><td><p class="rotate">DT∘ES∘MB</p></td><td><p class="rotate">DT∘ES∘MM</p></td><td><p class="rotate">DT∘SE∘MB</p></td><td><p class="rotate">DT∘SE∘MM</p></td><td><p class="rotate">DT∘MB∘MM
 </p></td><td><p class="rotate">AD∘SS∘ES</p></td><td><p class="rotate">AD∘SS∘SE</p></td><td><p class="rotate">AD∘SS∘MB</p></td><td><p class="rotate">AD∘SS∘MM</p></td><td><p class="rotate">AD∘ES∘SE</p></td><td><p class="rotate">AD∘ES∘MB</p></td><td><p class="rotate">AD∘ES∘MM</p></td><td><p class="rotate">AD∘SE∘MB</p></td><td><p class="rotate">AD∘SE∘MM</p></td><td><p class="rotate">AD∘MB∘MM
@@ -184,5 +184,10 @@ and their combinations.
 </div>
 
 <script>
-	$("#ip-protocols-evaluation-table").floatThead();
+var $table = $(#ip-protocols-evaluation-table);
+$table.floatThead({
+    scrollContainer: function($table){
+        return $table.closest('#ip-protocols-table-wrapper');
+    }
+});
 </script>

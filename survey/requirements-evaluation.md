@@ -46,7 +46,9 @@ requirements extracted from the European regulations (the <a href="https://eur-l
 <hr/>
 
 <h2>EU Banks</h2>
-<table>
+
+<div id="eu-banks-table-wrapper" style="overflow-x: auto;">
+<table id="eu-banks-table">
 <thead style="font-weight: bold; font-size: 12.5pt;">
 <td>Bank Name</td>
 <td>Country</td>
@@ -156,14 +158,81 @@ requirements extracted from the European regulations (the <a href="https://eur-l
 <td> <i class="far fa-star"></i> </td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> </td><td> <i class="fa fa-star-half-alt"></i> </td>
 </tr>
 <tr id="svenska-handelsbanken">
-<td>Svenska Handelsb. </td>
+<td>Svenska Handelsbanken </td>
 <td> SW	</td>
 <td> <i class="far fa-star"></i> </td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> </td><td> <i class="fa fa-star-half-alt"></i> </td>
 </tr>
 <tr id="seb">
-<td>SEB	</td>
+<td>SEB</td>
 <td> SW	</td>
 <td> <i class="far fa-star"></i> </td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> </td><td> <i class="fa fa-star-half-alt"></i> </td>
 </tr>
-
 </table>
+</div>
+
+<div id="non-eu-banks-table-wrapper" style="overflow-x: auto;">
+<table id="non-eu-banks-table">
+<thead style="font-weight: bold; font-size: 12.5pt;">
+<td>Bank Name</td>
+<td>Country</td>
+<td>RL1</td>
+<td>RL2</td>
+<td>RL3</td>
+<td>RL4</td>
+<td>RL5</td>
+<td>RL6</td>
+<td>RL7</td>
+<td>RL8</td>
+<td>RL9</td>
+</thead>
+<tr id="icbc">
+<td>ICBC</td>
+<td> CN	</td>
+<td> <i class="far fa-star"></i> </td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i>  	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> </td><td> <i class="fa fa-star"></i> </td>
+</tr>
+<tr id="ccb">
+<td>CCB</td>
+<td> CN	</td>
+<td> <i class="far fa-star"></i> </td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> </td><td> <i class="fa fa-star"></i> </td>
+</tr>
+<tr id="abc">
+<td>ABC</td>
+<td> CN	</td><td> <i class="far fa-star"></i>	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td>  <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> </td><td> <i class="fa fa-star"></i> </td>
+</tr>
+<tr id="chase">
+<td>Chase	</td>
+<td> US	</td>
+<td> <i class="fa fa-star"></i> </td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="far fa-star"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="far fa-star"></i> </td><td> <i class="far fa-star"></i> </td>
+</tr>
+<tr id="bank-of-america">
+<td>Bank Of America	</td>
+<td> US	</td>
+<td> <i class="fa fa-star"></i> </td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="far fa-star"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="far fa-star"></i> </td><td> <i class="far fa-star"></i> </td>
+</tr>
+<tr id="wells-fargo">
+<td>Wells Fargo	</td>
+<td> US	</td>
+<td> <i class="fa fa-star"></i> </td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="far fa-star"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="far fa-star"></i> </td><td> <i class="far fa-star"></i> </td>
+</tr>
+<tr id="ubs">
+<td>UBS	</td>
+<td> CH	</td>
+<td> <i class="fa fa-star"></i> </td><td> <i class="fa fa-star"></i> </td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star-half-alt"></i>	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star"></i> </td><td> <i class="fa fa-star"></i> </td>
+</tr>
+<tr id="credit-suisse">
+<td>Credit Suisse</td>
+<td> CH	</td>
+<td> <i class="fa fa-star"></i> </td><td> 	<i class="fa fa-star"></i> </td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i>	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> </td><td> <i class="fa fa-star-half-alt"></i> </td>
+</tr>
+<tr id="raiffeisen">
+<td>Raiffeisen	</td>
+<td> CH	</td>
+<td> <i class="fa fa-star"></i> </td><td> 	<i class="fa fa-star"></i> </td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i>	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> </td><td> <i class="fa fa-star-half-alt"></i> </td>
+</tr>
+</table>
+</div>
+
+<script>
+	$("#eu-banks-table").floatThead();
+	$("#non-eu-banks-table").floatThead();
+</script>

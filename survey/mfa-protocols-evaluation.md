@@ -17,7 +17,7 @@ and their combinations.
 </span></td><td><span class="rotate">AD∘SS∘ES</span></td><td><span class="rotate">AD∘SS∘SE</span></td><td><span class="rotate">AD∘SS∘MB</span></td><td><span class="rotate">AD∘SS∘MM</span></td><td><span class="rotate">AD∘ES∘SE</span></td><td><span class="rotate">AD∘ES∘MB</span></td><td><span class="rotate">AD∘ES∘MM</span></td><td><span class="rotate">AD∘SE∘MB</span></td><td><span class="rotate">AD∘SE∘MM</span></td><td><span class="rotate">AD∘MB∘MM
 </span></td><td><span class="rotate">SS∘ES∘SE</span></td><td><span class="rotate">SS∘ES∘MB</span></td><td><span class="rotate">SS∘ES∘MM</span></td><td><span class="rotate">SS∘SE∘MB</span></td><td><span class="rotate">SS∘SE∘MM</span></td><td><span class="rotate">SS∘MB∘MM
 </span></td><td><span class="rotate">ES∘SE∘MB</span></td><td><span class="rotate">ES∘SE∘MM</span></td><td><span class="rotate">ES∘MB∘MM
-</span></td><td><span class="rotate">SE∘MB∘MM</td>
+</span></td><td><span class="rotate">SE∘MB∘MM</span></td>
 </thead>
 <tr id="IP-1">
 <td>IP-1 </td>

@@ -65,8 +65,8 @@ and Mobile Payments) and the adoption of exemptions.
 		<td> IP-2 <br/> IP-19 <br/> IP-20  </td>
 		<td> MP-15 <br/> MP-16 </td>
 		<td> <i class="fas fa-check-double"></i></td>
-		<td><a href="requirements-evaluation#">/9</a></td>
-		<td><a href="best-practices-evaluation#">/8</a></td>
+		<td><a href="requirements-evaluation#hsbc">7/9</a></td>
+		<td><a href="best-practices-evaluation#hsbc">6/8</a></td>
 	</tr>
 	<tr class="bank-row" id="barclays">
 		<td><a href="banks/uk/barclays">Barclays</a></td>
@@ -77,8 +77,8 @@ and Mobile Payments) and the adoption of exemptions.
 		<td> IP-2 <br/> IP-19 <br/> IP-20 </td>
 		<td></td>
 		<td><i class="fas fa-check-double"></i></td>
-		<td><a href="requirements-evaluation#">/9</a></td>
-		<td><a href="best-practices-evaluation#">/8</a></td>
+		<td><a href="requirements-evaluation#barclays">5/9</a></td>
+		<td><a href="best-practices-evaluation#barclays">5/8</a></td>
 	</tr>
 	<tr class="bank-row" id="lloyds-bank">
 		<td><a href="banks/uk/lloyds-bank">LLoyds Bank</a></td>
@@ -89,8 +89,8 @@ and Mobile Payments) and the adoption of exemptions.
 		<td> IP-17 <br/> IP-29, <br/> IP-30 </td>
 		<td>MP-17 <br/> MP-26 </td>
 		<td> <i class="fas fa-check-double"></i></td>
-		<td><a href="requirements-evaluation#">/9</a></td>
-		<td><a href="best-practices-evaluation#">/8</a></td>
+		<td><a href="requirements-evaluation#lloyds-bank">5/9</a></td>
+		<td><a href="best-practices-evaluation#lloyds-bank">5/8</a></td>
 	</tr>
 	<tr class="bank-row" id="bnp-paribas">
 		<td><a href="banks/fr/bnp-paribas">BNP Paribas</a></td>
@@ -101,8 +101,8 @@ and Mobile Payments) and the adoption of exemptions.
 		<td> IP-14 <br/> IP-27 </td>
 		<td>MP-12 <br/> MP-20 </td>
 		<td><i class="fas fa-check-double"></i></td>
-		<td><a href="requirements-evaluation#">/9</a></td>
-		<td><a href="best-practices-evaluation#">/8</a></td>
+		<td><a href="requirements-evaluation#bnp-paribas">5/9</a></td>
+		<td><a href="best-practices-evaluation#bnp-paribas">3/8</a></td>
 	</tr>
 	<tr class="bank-row" id="credit-agricole">
 		<td><a href="banks/fr/credit-agricole">Credit Agricole</a></td>
@@ -113,8 +113,8 @@ and Mobile Payments) and the adoption of exemptions.
 		<td>IP-14 </td>
 		<td> </td>
 		<td><i class="fas fa-check-double"></i></td>
-		<td><a href="requirements-evaluation#">/9</a></td>
-		<td><a href="best-practices-evaluation#">/8</a></td>
+		<td><a href="requirements-evaluation#credit-agricole">4/9</a></td>
+		<td><a href="best-practices-evaluation#credit-agricole">1/8</a></td>
 	</tr>
 	<tr class="bank-row" id="societe-generale">
 		<td><a href="banks/fr/societe-generale">Societe Generale</a></td>
@@ -125,8 +125,8 @@ and Mobile Payments) and the adoption of exemptions.
 		<td> IP-14 <br/> IP-27</td>
 		<td> MP-20 </td>
 		<td><i class="fas fa-check"></i></td>
-		<td><a href="requirements-evaluation#">/9</a></td>
-		<td><a href="best-practices-evaluation#">/8</a></td>
+		<td><a href="requirements-evaluation#societe-generale">5/9</a></td>
+		<td><a href="best-practices-evaluation#societe-generale">3/8</a></td>
 	</tr>
 	<tr class="bank-row" id="unicredit">
 		<td><a href="banks/it/unicredit">Unicredit</a></td>
@@ -137,8 +137,8 @@ and Mobile Payments) and the adoption of exemptions.
 		<td>  IP-1 <br/> IP-11 <br/> IP-24 <br/> IP-25  </td>
 		<td> MP-20 <br/> MP-21 </td>
 		<td><i class="fas fa-check-double"></i></td>
-		<td><a href="requirements-evaluation#">/9</a></td>
-		<td><a href="best-practices-evaluation#">/8</a></td>
+		<td><a href="requirements-evaluation#unicredit">5/9</a></td>
+		<td><a href="best-practices-evaluation#unicredit">6/8</a></td>
 	</tr>
 	<tr class="bank-row" id="banca-intesa">
 		<td><a href="banks/it/banca-intesa">Banca Intesa</a></td>
@@ -149,8 +149,8 @@ and Mobile Payments) and the adoption of exemptions.
 		<td> IP-1 <br/> IP-27 <br/> IP-28  </td>
 		<td> MP-1 <br/> MP-20 <br/> MP-21  </td>
 		<td><i class="fas fa-check-double"></i> </td>
-		<td><a href="requirements-evaluation#">/9</a></td>
-		<td><a href="best-practices-evaluation#">/8</a></td>
+		<td><a href="requirements-evaluation#banca-intesa">7/9</a></td>
+		<td><a href="best-practices-evaluation#banca-intesa">6/8</a></td>
 	</tr>
 	<tr class="bank-row" id="banco-bpm">
 		<td><a href="banks/it/banco-bpm">Banco BPM</a></td>
@@ -161,8 +161,8 @@ and Mobile Payments) and the adoption of exemptions.
 		<td>IP-1 <br/> IP-2 <br/> IP-18 <br/> IP-27  </td>
 		<td>MP-1 <br/> MP-20 </td>
 		<td><i class="fas fa-check"></i> </td>
-		<td><a href="requirements-evaluation#">/9</a></td>
-		<td><a href="best-practices-evaluation#">/8</a></td>
+		<td><a href="requirements-evaluation#banco-bpm">7/9</a></td>
+		<td><a href="best-practices-evaluation#banco-bpm">6/8</a></td>
 	</tr>
 	<tr class="bank-row" id="banco-santander">
 		<td><a href="banks/es/banco-santander">Banco Santander</a></td>
@@ -173,8 +173,8 @@ and Mobile Payments) and the adoption of exemptions.
 		<td>IP-16</td>
 		<td>MP-14 </td>
 		<td><i class="fas fa-check-double"></i></td>
-		<td><a href="requirements-evaluation#">/9</a></td>
-		<td><a href="best-practices-evaluation#">/8</a></td>
+		<td><a href="requirements-evaluation#banco-santander">5/9</a></td>
+		<td><a href="best-practices-evaluation#banco-santander">1/8</a></td>
 	</tr>
 	<tr class="bank-row" id="bbva">
 		<td><a href="banks/es/bbva">BBVA</a></td>
@@ -185,8 +185,8 @@ and Mobile Payments) and the adoption of exemptions.
 		<td>IP-15 </td>
 		<td>MP-13 </td>
 		<td><i class="fas fa-check"></i></td>
-		<td><a href="requirements-evaluation#">/9</a></td>
-		<td><a href="best-practices-evaluation#">/8</a></td>
+		<td><a href="requirements-evaluation#bbva">6/9</a></td>
+		<td><a href="best-practices-evaluation#bbva">1/8</a></td>
 	</tr>
 	<tr class="bank-row" id="la-caixa">
 		<td><a href="banks/es/la-caixa">La Caixa</a></td>
@@ -197,8 +197,8 @@ and Mobile Payments) and the adoption of exemptions.
 		<td>IP-11<br/> IP-26 </td>
 		<td>MP-19</td>
 		<td><i class="fas fa-check-double"></i></td>
-		<td><a href="requirements-evaluation#">/9</a></td>
-		<td><a href="best-practices-evaluation#">/8</a></td>
+		<td><a href="requirements-evaluation#la-caixa">6/9</a></td>
+		<td><a href="best-practices-evaluation#la-caixa">4/8</a></td>
 	</tr>
 	<tr class="bank-row" id="ing">
 		<td><a href="banks/nl/ing">ING</a></td>
@@ -209,8 +209,8 @@ and Mobile Payments) and the adoption of exemptions.
 		<td> IP-11 <br/> IP-15 <br/> IP-27  </td>
 		<td>MP-19 <br/> MP-27 </td>
 		<td><i class="fas fa-check"></i></td>
-		<td><a href="requirements-evaluation#">/9</a></td>
-		<td><a href="best-practices-evaluation#">/8</a></td>
+		<td><a href="requirements-evaluation#ing">2/9</a></td>
+		<td><a href="best-practices-evaluation#ing">3/8</a></td>
 	</tr>
 	<tr class="bank-row" id="rabobank">
 		<td><a href="banks/nl/rabobank">Rabobank</a></td>
@@ -221,8 +221,8 @@ and Mobile Payments) and the adoption of exemptions.
 		<td>IP-7 <br/> IP-10 </td>
 		<td>MP-9 <br/> MP-24 </td>
 		<td> <i class="fas fa-check-double"></i> </td>
-		<td><a href="requirements-evaluation#">/9</a></td>
-		<td><a href="best-practices-evaluation#">/8</a></td>
+		<td><a href="requirements-evaluation#rabobank">7/9</a></td>
+		<td><a href="best-practices-evaluation#rabobank">3/8</a></td>
 	</tr>
 	<tr class="bank-row" id="abn-amro">
 		<td><a href="banks/nl/abn-amro">ABN AMRO</a></td>
@@ -233,8 +233,8 @@ and Mobile Payments) and the adoption of exemptions.
 		<td>IP-5 <br/> IP-10 </td>
 		<td> MP-5 <br/> MP-5, <br/> MP-23 <br/> MP-23  </td>
 		<td><i class="fas fa-check-double"></i></td>
-		<td><a href="requirements-evaluation#">/9</a></td>
-		<td><a href="best-practices-evaluation#">/8</a></td>
+		<td><a href="requirements-evaluation#abn-amro">6/9</a></td>
+		<td><a href="best-practices-evaluation#abn-amro">2/8</a></td>
 	</tr>
 	<tr class="bank-row" id="nordea">
 		<td><a href="banks/sw/nordea">Nordea</a></td>
@@ -245,8 +245,8 @@ and Mobile Payments) and the adoption of exemptions.
 		<td> IP-5 <br/> IP-8 <br/> IP-13 <br/> IP-27 <br/> IP-28  </td>
 		<td> MP-3 <br/> MP-20 <br/>MP-21  </td>
 		<td><i class="fas fa-check-double"></i></td>
-		<td><a href="requirements-evaluation#">/9</a></td>
-		<td><a href="best-practices-evaluation#">/8</a></td>
+		<td><a href="requirements-evaluation#nordea">4/9</a></td>
+		<td><a href="best-practices-evaluation#nordea">4/8</a></td>
 	</tr>
 	<tr class="bank-row" id="svenska-handelsbanken">
 		<td><a href="banks/sw/svenska-handelsbanken">Svenska<br/>Handelsbanken</a></td>
@@ -257,8 +257,8 @@ and Mobile Payments) and the adoption of exemptions.
 		<td> IP-5 <br/> IP-8 <br/> IP-11 <br/> IP-13<br/>IP-27 <br/> IP-28 </td>
 		<td> MP-3 <br/> MP-10 <br/> MP-20 <br/> MP-21 </td>
 		<td><i class="fas fa-times"></i></td>
-		<td><a href="requirements-evaluation#">/9</a></td>
-		<td><a href="best-practices-evaluation#">/8</a></td>
+		<td><a href="requirements-evaluation#svenska-handelsbanken">4/9</a></td>
+		<td><a href="best-practices-evaluation#svenska-handelsbanken">4/8</a></td>
 	</tr>
 	<tr class="bank-row" id="seb">
 		<td><a href="banks/sw/seb">SEB</a></td>
@@ -269,8 +269,8 @@ and Mobile Payments) and the adoption of exemptions.
 		<td> IP-5 <br/> IP-8<br/> IP-27 <br/> IP-28 </td>
 		<td> MP-3 <br/> MP-20 <br/> MP-21 </td>
 		<td> <i class="fas fa-times"></i></td>
-		<td><a href="requirements-evaluation#">/9</a></td>
-		<td><a href="best-practices-evaluation#">/8</a></td>
+		<td><a href="requirements-evaluation#seb">4/9</a></td>
+		<td><a href="best-practices-evaluation#seb">3/8</a></td>
 	</tr>
 </table>
 
@@ -298,8 +298,8 @@ and Mobile Payments) and the adoption of exemptions.
 		<td>  IP-2 <br/> IP-3 <br/> IP-11 <br/> IP-15   </td>
 		<td>  MP-2 <br/> MP-6 <br/> MP-10  </td>
 		<td> <i class="fas fa-check"></i> </td>
-		<td><a href="requirements-evaluation#">/9</a></td>
-		<td><a href="best-practices-evaluation#">/8</a></td>
+		<td><a href="requirements-evaluation#icbc">6/9</a></td>
+		<td><a href="best-practices-evaluation#icbc">4/8</a></td>
 	</tr>
 	<tr class="bank-row" id="ccb">
 		<td><a href="banks/cn/ccb">CCB</a></td>
@@ -310,8 +310,8 @@ and Mobile Payments) and the adoption of exemptions.
 		<td>IP-3 <br/> IP-11 <br/> IP-15  </td>
 		<td> MP-6 <br/> MP-10 <br/> MP-13  </td>
 		<td><i class="fas fa-check"></i></td>
-		<td><a href="requirements-evaluation#">/9</a></td>
-		<td><a href="best-practices-evaluation#">/8</a></td>
+		<td><a href="requirements-evaluation#ccb">6/9</a></td>
+		<td><a href="best-practices-evaluation#ccb">4/8</a></td>
 	</tr>
 	<tr class="bank-row" id="abc">
 		<td><a href="banks/cn/abc">ABC</a></td>
@@ -322,8 +322,8 @@ and Mobile Payments) and the adoption of exemptions.
 		<td> IP-4 <br/> IP-9 <br/> IP-12  </td>
 		<td> MP-4 <br/> MP-7 <br/> MP-11 </td>
 		<td><i class="fas fa-check"></i></td>
-		<td><a href="requirements-evaluation#">/9</a></td>
-		<td><a href="best-practices-evaluation#">/8</a></td>
+		<td><a href="requirements-evaluation#abc">6/9</a></td>
+		<td><a href="best-practices-evaluation#abc">5/8</a></td>
 	</tr>
 	<tr class="bank-row" id="chase">
 		<td><a href="banks/us/chase">Chase</a></td>
@@ -334,8 +334,8 @@ and Mobile Payments) and the adoption of exemptions.
 		<td>IP-14 </td>
 		<td></td>
 		<td><i class="fas fa-check-double"></i></td>
-		<td><a href="requirements-evaluation#">/9</a></td>
-		<td><a href="best-practices-evaluation#">/8</a></td>
+		<td><a href="requirements-evaluation#chase">2/9</a></td>
+		<td><a href="best-practices-evaluation#chase">2/8</a></td>
 	</tr>
 	<tr class="bank-row" id="bank-of-america">
 		<td><a href="banks/us/bank-of-america">Bank of America</a></td>
@@ -346,8 +346,8 @@ and Mobile Payments) and the adoption of exemptions.
 		<td>IP-14 </td>
 		<td></td>
 		<td><i class="fas fa-check-double"></i></td>
-		<td><a href="requirements-evaluation#">/9</a></td>
-		<td><a href="best-practices-evaluation#">/8</a></td>
+		<td><a href="requirements-evaluation#bank-of-america">2/9</a></td>
+		<td><a href="best-practices-evaluation#bank-of-america">1/8</a></td>
 	</tr>
 	<tr class="bank-row" id="wells-fargo">
 		<td><a href="banks/us/wells-fargo">Wells Fargo</a></td>
@@ -358,8 +358,8 @@ and Mobile Payments) and the adoption of exemptions.
 		<td>IP-14</td>
 		<td></td>
 		<td><i class="fas fa-check-double"></i></td>
-		<td><a href="requirements-evaluation#">/9</a></td>
-		<td><a href="best-practices-evaluation#">/8</a></td>
+		<td><a href="requirements-evaluation#wells-fargo">2/9</a></td>
+		<td><a href="best-practices-evaluation#wells-fargo">2/8</a></td>
 	</tr>
 	<tr class="bank-row" id="ubs">
 		<td><a href="banks/ch/ubs">UBS</a></td>
@@ -371,8 +371,8 @@ and Mobile Payments) and the adoption of exemptions.
 		<td> IP-3 <br/> IP-8 <br/> IP-8 <br/> IP-22 </td>
 		<td> MP-3 <br/> MP-3 <br/> MP-20 <br/> MP-28 </td>
 		<td> <i class="fas fa-check-double"></i></td>
-		<td><a href="requirements-evaluation#">/9</a></td>
-		<td><a href="best-practices-evaluation#">/8</a></td>
+		<td><a href="requirements-evaluation#ubs">6/9</a></td>
+		<td><a href="best-practices-evaluation#ubs">4/8</a></td>
 	</tr>
 	<tr class="bank-row" id="credit-suisse">
 		<td><a href="banks/ch/credit-suisse">Credit Suisse</a></td>
@@ -383,8 +383,8 @@ and Mobile Payments) and the adoption of exemptions.
 		<td>IP-1 <br/> IP-14  <br/> IP-22</td>
 		<td>MP-18</td>
 		<td><i class="fas fa-check-double"></i></td>
-		<td><a href="requirements-evaluation#">/9</a></td>
-		<td><a href="best-practices-evaluation#">/8</a></td>
+		<td><a href="requirements-evaluation#credit-suisse">4/9</a></td>
+		<td><a href="best-practices-evaluation#credit-suisse">2/8</a></td>
 	</tr>
 	<tr class="bank-row" id="raiffeisen">
 		<td><a href="banks/ch/raiffeisen">Raiffeisen</a></td>
@@ -395,7 +395,7 @@ and Mobile Payments) and the adoption of exemptions.
 		<td>IP-6<br/> IP-11 <br/> IP-14<br/> IP-23 </td>
 		<td>MP-12 <br/> MP-20 </td>
 		<td> <i class="fas fa-times"></i> </td>
-		<td><a href="requirements-evaluation#">/9</a></td>
-		<td><a href="best-practices-evaluation#">/8</a></td>
+		<td><a href="requirements-evaluation#raiffeisen">4/9</a></td>
+		<td><a href="best-practices-evaluation#raiffeisen">1/8</a></td>
 	</tr>
 </table>

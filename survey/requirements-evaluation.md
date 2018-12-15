@@ -49,7 +49,7 @@ requirements extracted from the European regulations (the <a href="https://eur-l
 
 <div id="eu-banks-table-wrapper" style="overflow-x: auto;">
 <table id="eu-banks-table">
-<thead style="font-weight: bold; font-size: 12.5pt;">
+<thead style="font-weight: bold; font-size: 12.5pt;background-color: white;">
 <td>Bank Name</td>
 <td>Country</td>
 <td>RL1</td>
@@ -173,7 +173,7 @@ requirements extracted from the European regulations (the <a href="https://eur-l
 <h2>Non-EU Banks</h2>
 <div id="non-eu-banks-table-wrapper" style="overflow-x: auto;">
 <table id="non-eu-banks-table">
-<thead style="font-weight: bold; font-size: 12.5pt;">
+<thead style="font-weight: bold; font-size: 12.5pt; background-color: white;">
 <td>Bank Name</td>
 <td>Country</td>
 <td>RL1</td>

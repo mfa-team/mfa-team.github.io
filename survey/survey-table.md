@@ -404,9 +404,11 @@ and Mobile Payments) and the adoption of exemptions.
 	</table>
 </div>
 
-var $table = $('#eu-banks-table');
-$table.floatThead({
-    scrollContainer: function($table){
-        return $table.closest('#eu-banks-table-wrapper');
-    }
-});
+<script>
+	var $table = $('#eu-banks-table');
+	$table.floatThead({
+		scrollContainer: function($table){
+			return $table.closest('#eu-banks-table-wrapper');
+		}
+	});
+</script>

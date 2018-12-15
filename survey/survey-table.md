@@ -8,7 +8,7 @@ and Mobile Payments) and the adoption of exemptions.
 
 <h2>EU Banks</h2>
 
-<div id="eu-banks-table-wrapper">
+<div id="eu-banks-table-wrapper" style="overflow-x: scroll;">
 	<table id="eu-banks-table" style="color: black;">
 		<thead style="font-weight: bold; font-size: 12.5pt;">
 			<td>Bank name</td>
@@ -278,7 +278,7 @@ and Mobile Payments) and the adoption of exemptions.
 
 <h2>Non-EU Banks</h2>
 
-<div id="eu-table-wrapper">
+<div id="eu-table-wrapper" style="overflow-x: scroll;">
 	<table id="non-eu-banks-table" style="color: black;">
 		<thead style="font-weight: bold; font-size: 12.5pt;">
 			<td>Bank name</td>

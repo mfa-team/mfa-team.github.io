@@ -406,9 +406,6 @@ and Mobile Payments) and the adoption of exemptions.
 
 <script>
 	var $table = $("#eu-banks-table");
-	$table.floatThead({
-		scrollContainer: function($table){
-			return $table.closest('#eu-banks-table-wrapper');
-		}
-	});
+	$table.floatThead();
+	$("#non-eu-banks-tableeu-banks-table").floatThead();
 </script>

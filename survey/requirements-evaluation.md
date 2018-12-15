@@ -10,7 +10,7 @@ requirements extracted from the European regulations (the <a href="https://eur-l
 <h2>Requirements definition</h2>
 
 <table>
-<thead style="font-weight: bold; font-size: 12.5pt;">
+<thead style="font-weight: bold; font-size: 12.5pt; background-color: white;">
 <td>Req. Number</td>
 <td>Definition</td>
 </thead>

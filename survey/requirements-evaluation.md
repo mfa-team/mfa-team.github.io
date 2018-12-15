@@ -170,6 +170,7 @@ requirements extracted from the European regulations (the <a href="https://eur-l
 </table>
 </div>
 
+<h2>Non-EU Banks</h2>
 <div id="non-eu-banks-table-wrapper" style="overflow-x: auto;">
 <table id="non-eu-banks-table">
 <thead style="font-weight: bold; font-size: 12.5pt;">

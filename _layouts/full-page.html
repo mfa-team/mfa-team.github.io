@@ -20,7 +20,7 @@
 			alert(target+" with tag "+tagname);
 			if((tagname == "tr")){
 				var parent = target.parent();
-				while ((parent.prop("tagName").toLowerCase().indexOf("table") < 0)&&(parent.prop("tagName").toLowerCase().indexOf("html") < 0){
+				while ((parent.prop("tagName").toLowerCase().indexOf("table") < 0)&&(parent.prop("tagName").toLowerCase().indexOf("html") < 0)){
 					parent = parent.parent();
 				}
 				var offset = parent.find("thead").height();

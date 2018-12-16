@@ -15,6 +15,10 @@
     <![endif]-->
 	<script>
 		jQuery(document).ready(function(){
+			$("head").append('<style type="text/css"></style>');
+			var newStyleElement = $("head").children(':last');
+			newStyleElement.html('.table-wrapper {max-height: '+$(window).height()-250+'px ;}');
+
 			var $target = jQuery(window.location.hash);
 			var tagname = $target.prop("tagName").toLowerCase();
 			if((tagname == "tr")){

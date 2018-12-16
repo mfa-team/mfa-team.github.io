@@ -29,10 +29,13 @@
 					while (($wrapper_parent.attr('class').toLowerCase().indexOf("table-wrapper") < 0)&&($wrapper_parent.prop("tagName").toLowerCase().indexOf("html") < 0)){
 						$wrapper_parent = $wrapper_parent.parent();
 					}
-					$wrapper_parent.scrollTop($wrapper_parent.position().top + $target.position().top);
 					jQuery('html,body').animate({
-						scrollTop: wrapper_parent.scrollTop() + $target.position().top-offset
+						scrollTop: wrapper_parent.scrollTop()
 					}, 400, 'swing');
+					$wrapper_parent.animate({
+						scrollTop: $wrapper_parent.position().top + $target.position().top-offset-$target.height()
+						}, 400, 'swing');
+	
 				}else{
 					jQuery('html,body').animate({
 						scrollTop: jQuery(window.location.hash).offset().top-offset

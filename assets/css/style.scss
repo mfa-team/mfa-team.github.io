@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+.afs-cancel{
+ text-decoration: line-through;
+}
+
 th.rotate {
   /* Something you can count on */
   height: 80px;

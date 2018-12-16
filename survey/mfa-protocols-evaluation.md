@@ -8,7 +8,7 @@ to the attacker models (namely Device Thief, Authenticator Duplicator, Shoulder 
 and their combinations.
 
 <div style="overflow:hidden;">
-<div id="ip-protocols-table-wrapper" style="overflow-x: auto; overflow-y: auto; max-height: 800px;">
+<div class="table-wrapper" id="ip-protocols-table-wrapper" style="overflow-x: auto; overflow-y: auto; max-height: 800px;">
 <table class="mfa-protocols-table" id="ip-protocols-evaluation-table" style="text-align: center;">
 <thead style="font-weight: bold; background-color: white;">
 <th class="rotate">Label</th><th class="rotate">Protocol</th><th class="rotate"><div><span>MEM</span></div></th><th class="rotate"><div><span>OP</span></div></th><th class="rotate"><div><span> DEV </span></div></th><th class="rotate"><div><span> DT</span></div></th><th class="rotate"><div><span>AD</span></div></th><th class="rotate"><div><span>SS</span></div></th><th class="rotate"><div><span>ES</span></div></th><th class="rotate"><div><span>SE</span></div></th><th class="rotate"><div><span>MB</span></div></th><th class="rotate"><div><span>MM</span></div></th><th class="rotate"><div><span>
@@ -183,5 +183,10 @@ and their combinations.
 </div>
 </div>
 <script>
-$("#ip-protocols-evaluation-table").floatThead();
+var $table = $("#ip-protocols-evaluation-table");
+$table.floatThead({
+    scrollContainer: function($table){
+        return $table.closest('.table-wrapper');
+    }
+});
 </script>

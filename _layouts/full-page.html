@@ -29,7 +29,6 @@
 				}
 				var offset = $parent.find("thead").height();
 				if ($parent.parents('.table-wrapper').length) {
-					alert("a wrapper!");
 					var $wrapper_parent = $parent.parent();
 					while (($wrapper_parent.attr('class').toLowerCase().indexOf("table-wrapper") < 0)&&($wrapper_parent.prop("tagName").toLowerCase().indexOf("html") < 0)){
 						$wrapper_parent = $wrapper_parent.parent();

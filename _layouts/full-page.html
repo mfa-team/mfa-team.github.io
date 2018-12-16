@@ -19,11 +19,11 @@
 			var tagname = $target.prop("tagName").toLowerCase();
 			if((tagname == "tr")){
 				var $parent = $target.parent();
-				while ((parent.prop("tagName").toLowerCase().indexOf("table") < 0)&&(parent.prop("tagName").toLowerCase().indexOf("html") < 0)){
+				while (($parent.prop("tagName").toLowerCase().indexOf("table") < 0)&&($parent.prop("tagName").toLowerCase().indexOf("html") < 0)){
 					$parent = $parent.parent();
 				}
 				var offset = $parent.find("thead").height();
-				if (parent.parents('.table-wrapper').length) {
+				if ($parent.parents('.table-wrapper').length) {
 					$parent.scrollTop($parent.scrollTop() + $target.position().top-offset);
 				}else{
 					jQuery('html,body').animate({

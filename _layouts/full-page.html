@@ -19,7 +19,11 @@
 			var tagname = jQuery(target).prop("tagName").toLowerCase();
 			alert(target+" with tag "+tagname);
 			if((tagname == "tr")){
-				var offset = target.parent().find("thead").height();
+				var parent = target.parent();
+				while ((parent.prop("tagName").toLowerCase().indexOf("table") < 0)&&(parent.prop("tagName").toLowerCase().indexOf("html") < 0){
+					parent = parent.parent();
+				}
+				var offset = parent.find("thead").height();
 				alert("offset:"+offset);
 				jQuery('html,body').animate({
 					scrollTop: jQuery(window.location.hash).offset().top-offset

@@ -25,9 +25,13 @@
 				var offset = $parent.find("thead").height();
 				if ($parent.parents('.table-wrapper').length) {
 					alert("a wrapper!");
-					$parent.scrollTop($parent.position().top + $target.position().offset().top);
+					var $wrapper_parent = $parent.parent();
+					while (($wrapper_parent.attr('class').toLowerCase().indexOf("table-wrapper") < 0)&&($wrapper_parent.prop("tagName").toLowerCase().indexOf("html") < 0)){
+						$wrapper_parent = $wrapper_parent.parent();
+					}
+					$wrapper_parent.scrollTop($wrapper_parent.position().top + $target.position().offset().top);
 					jQuery('html,body').animate({
-						scrollTop: $parent.scrollTop() + $target.position().top-offset
+						scrollTop: wrapper_parent.scrollTop() + $target.position().top-offset
 					}, 400, 'swing');
 				}else{
 					jQuery('html,body').animate({

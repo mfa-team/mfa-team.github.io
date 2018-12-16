@@ -24,6 +24,7 @@
 				}
 				var offset = $parent.find("thead").height();
 				if ($parent.parents('.table-wrapper').length) {
+					alert("a wrapper!");
 					$parent.scrollTop($parent.scrollTop() + $target.position().top-offset);
 				}else{
 					jQuery('html,body').animate({

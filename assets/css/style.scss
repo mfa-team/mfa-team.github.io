@@ -7,6 +7,14 @@
  text-decoration: line-through;
 }
 
+table.mfa-protocols-table td{
+  text-align: center;
+}
+
+table.mfa-protocols-table th{
+  text-align: center;
+}
+
 th.rotate {
   /* Something you can count on */
   height: 80px;

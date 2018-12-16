@@ -30,10 +30,10 @@
 						$wrapper_parent = $wrapper_parent.parent();
 					}
 					jQuery('html,body').animate({
-						scrollTop: wrapper_parent.scrollTop()
+						scrollTop: $wrapper_parent.offset().top
 					}, 400, 'swing');
 					$wrapper_parent.animate({
-						scrollTop: $wrapper_parent.position().top + $target.position().top-offset-$target.height()
+						scrollTop: $wrapper_parent.position().top + $target.offset().top-offset
 						}, 400, 'swing');
 	
 				}else{

@@ -15,17 +15,21 @@
     <![endif]-->
 	<script>
 		jQuery(document).ready(function(){
-			var target = window.location.hash;
-			var tagname = jQuery(target).prop("tagName").toLowerCase();
+			var $target = jQuery(window.location.hash);
+			var tagname = $target.prop("tagName").toLowerCase();
 			if((tagname == "tr")){
-				var parent = $(target).parent();
+				var $parent = $(target).parent();
 				while ((parent.prop("tagName").toLowerCase().indexOf("table") < 0)&&(parent.prop("tagName").toLowerCase().indexOf("html") < 0)){
-					parent = parent.parent();
+					$parent = $parent.parent();
 				}
-				var offset = parent.find("thead").height();
-				jQuery('html,body').animate({
-					scrollTop: jQuery(window.location.hash).offset().top-offset
-				}, 400, 'swing');
+				var offset = $parent.find("thead").height();
+				if (parent.parents('.table-wrapper').length) {
+					$parent.scrollTop($parent.scrollTop() + $target.position().top-offset);
+				}else{
+					jQuery('html,body').animate({
+						scrollTop: jQuery(window.location.hash).offset().top-offset
+					}, 400, 'swing');
+				}
 			}
 		});
 		

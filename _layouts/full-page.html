@@ -19,8 +19,7 @@
 			$(".table-wrapper.protocols").height(table_height);
 		});
 	
-		jQuery(document).ready(function(){
-			
+		function locateTarget(){
 			var $target = jQuery(window.location.hash);
 			var tagname = $target.prop("tagName").toLowerCase();
 			if((tagname == "tr")){
@@ -47,6 +46,11 @@
 					}, 400, 'swing');
 				}
 			}
+		}
+		
+		jQuery(document).ready(function(){
+			setTimeout(locateTarget, 2000);
+			
 			var table_height = $(window).height()-250;
 			$(".table-wrapper.protocols").height(table_height);
 		});

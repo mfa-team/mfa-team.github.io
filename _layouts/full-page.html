@@ -25,7 +25,7 @@
 				var offset = $parent.find("thead").height();
 				if ($parent.parents('.table-wrapper').length) {
 					alert("a wrapper!");
-					$parent.scrollTop($parent.scrollTop() + $target.position().top);
+					$parent.scrollTop($parent.position().top + $target.position().offset().top);
 					jQuery('html,body').animate({
 						scrollTop: $parent.scrollTop() + $target.position().top-offset
 					}, 400, 'swing');

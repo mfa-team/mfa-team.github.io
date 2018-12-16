@@ -187,6 +187,6 @@ var $table = $("#ip-protocols-evaluation-table");
 $table.floatThead({
     scrollContainer: function($table){
         return $table.closest('.table-wrapper');
-    
-);
+    }
+});
 </script>

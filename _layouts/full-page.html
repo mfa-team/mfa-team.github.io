@@ -20,6 +20,7 @@
 			alert(target+" with tag "+tagname);
 			if((tagname == "tr")){
 				var offset = target.parent().find("thead").height();
+				alert("offset:"+offset);
 				jQuery('html,body').animate({
 					scrollTop: jQuery(window.location.hash).offset().top-offset
 				}, 400, 'swing');

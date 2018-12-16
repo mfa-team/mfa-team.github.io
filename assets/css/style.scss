@@ -15,6 +15,10 @@ table.mfa-protocols-table td{
   text-align: center;
 }
 
+table.mfa-protocols-table td.protocol-column{
+ white-space: nowrap;
+}
+
 table.mfa-protocols-table th{
   text-align: center;
 }

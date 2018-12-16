@@ -14,6 +14,11 @@
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
 	<script>
+		jQuery( window ).resize(function() {
+			var table_height = $(window).height()-250;
+			$(".table-wrapper.protocols").height(table_height);
+		});
+	
 		jQuery(document).ready(function(){
 			var table_height = $(window).height()-250;
 			$(".table-wrapper.protocols").height(table_height);

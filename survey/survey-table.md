@@ -9,7 +9,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 
 <h2>EU Banks</h2>
 
-<div class="table-wrapper protocols" id="eu-banks-table-wrapper" style="overflow-x: auto; overflow-y: auto; max-height: 800px;">
+<div class="table-wrapper protocols shadow" id="eu-banks-table-wrapper" style="overflow-x: auto; overflow-y: auto; max-height: 800px;">
 	<table id="eu-banks-table" style="color: black;">
 		<thead style="font-weight: bold; font-size: 12.5pt; background-color:white;">
 			<td>Bank name</td>

@@ -8,7 +8,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 
 <h2>EU Banks</h2>
 
-<div id="eu-banks-table-wrapper" style="overflow-x: auto;">
+<div class="table-wrapper protocols" id="eu-banks-table-wrapper" style="overflow-x: auto; overflow-y: auto; max-height: 800px;">
 	<table id="eu-banks-table" style="color: black;">
 		<thead style="font-weight: bold; font-size: 12.5pt; background-color:white;">
 			<td>Bank name</td>
@@ -279,7 +279,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 
 <h2>Non-EU Banks</h2>
 
-<div id="eu-table-wrapper" style="overflow-x: auto;">
+<div class="table-wrapper protocols" id="non-eu-banks-table-wrapper" style="overflow-x: auto; overflow-y: auto; max-height: 800px;">
 	<table id="non-eu-banks-table" style="color: black;">
 		<thead style="font-weight: bold; font-size: 12.5pt; background-color: white;">
 			<td>Bank name</td>
@@ -407,6 +407,14 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 
 <script>
 	var $table = $("#eu-banks-table");
-	$table.floatThead();
-	$("#non-eu-banks-table").floatThead();
+	$table.floatThead({
+		scrollContainer: function($table){
+			return $table.closest('.table-wrapper');
+		}
+	});
+	$("#non-eu-banks-table").floatThead({
+		scrollContainer: function($table){
+			return $table.closest('.table-wrapper');
+		}
+	});
 </script>

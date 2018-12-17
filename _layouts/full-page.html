@@ -16,6 +16,9 @@
 	<script>
 		jQuery( window ).resize(function() {
 			var table_height = $(window).height()-250;
+			if (table_height < 200){
+				table_height = 200;
+			}
 			$(".table-wrapper.protocols").height(table_height);
 		});
 	
@@ -51,8 +54,11 @@
 		
 		jQuery(document).ready(function(){
 			var table_height = $(window).height()-250;
+			if (table_height < 200){
+				table_height = 200;
+			}
 			$(".table-wrapper.protocols").height(table_height);
-			setTimeout(locateTarget, 300);
+			setTimeout(locateTarget, 100);
 		});
 		
 	</script>

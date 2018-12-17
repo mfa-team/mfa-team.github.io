@@ -277,7 +277,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 	</table>
 </div>
 
-<h2>Non-EU Banks</h2>
+<h2 style="margin-top: 20px;">Non-EU Banks</h2>
 
 <div class="table-wrapper protocols" id="non-eu-banks-table-wrapper" style="overflow-x: auto; overflow-y: auto; max-height: 800px;">
 	<table id="non-eu-banks-table" style="color: black;">

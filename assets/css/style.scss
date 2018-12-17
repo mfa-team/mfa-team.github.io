@@ -19,6 +19,10 @@ table.mfa-protocols-table td.protocol-column{
  white-space: nowrap;
 }
 
+table td.authenticator-spec{
+ white-space: nowrap;
+}
+
 table.mfa-protocols-table th{
   text-align: center;
 }
@@ -97,4 +101,12 @@ table img.mfap-pict {
 
 :target{
   background-color: #60a7fb75;
+}
+
+.loading-blur{
+  z-index: 2000;
+ width: 100%;
+ height: 100%;
+ position: fixed;
+ background-color:#ffffffb5;
 }

@@ -190,3 +190,5 @@ $table.floatThead({
     }
 });
 </script>
+
+<div class="loading-blur"><img src="/assets/img/loading.gif" /></div>

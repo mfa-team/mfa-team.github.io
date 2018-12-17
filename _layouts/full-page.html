@@ -42,12 +42,12 @@
 					}, 400, 'swing');
 					$wrapper_parent.animate({
 						scrollTop: $wrapper_parent.scrollTop() + $target.position().top-offset
-					}, 400, 'swing');
+					}, 400, 'swing', loadingOver());
 	
 				}else{
 					jQuery('html,body').animate({
 						scrollTop: jQuery(window.location.hash).offset().top-offset
-					}, 400, 'swing');
+					}, 400, 'swing', loadingOver());
 				}
 			}
 		}
@@ -60,6 +60,12 @@
 			$(".table-wrapper.protocols").height(table_height);
 			setTimeout(locateTarget, 100);
 		});
+		
+		function loadingOver(){
+			if ($(document).find('.loading-blur').length) {
+				$('.loading-blur').hide();
+			}
+		}	
 		
 	</script>
   </head>

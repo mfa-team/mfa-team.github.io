@@ -36,8 +36,6 @@
 					jQuery('html,body').animate({
 						scrollTop: $wrapper_parent.offset().top
 					}, 400, 'swing');
-					alert($target.scrollTop());
-					alert($target.position().top);
 					$wrapper_parent.scrollTop(0);
 					$wrapper_parent.animate({
 						scrollTop: $wrapper_parent.scrollTop() + $target.position().top-offset

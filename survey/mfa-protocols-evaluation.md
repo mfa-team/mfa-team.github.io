@@ -2,6 +2,7 @@
 layout: full-page
 title: Evaluation of observed MFA protocols
 ---
+<div class="loading-blur"><img src="/assets/img/loading.gif" /></div>
 
 In this section, we evaluate the observed MFA protocols in terms of complexity (with the three values related to memory, manual operations and extra devices) and resistance
 to the attacker models (namely Device Thief, Authenticator Duplicator, Shoulder Surfer, Eavesdropping Software, Social Engineer, Man in the Browser and Man in the Mobile)
@@ -191,4 +192,3 @@ $table.floatThead({
 });
 </script>
 
-<div class="loading-blur"><img src="/assets/img/loading.gif" /></div>

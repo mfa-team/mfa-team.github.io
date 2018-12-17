@@ -104,9 +104,13 @@ table img.mfap-pict {
 }
 
 .loading-blur{
-  z-index: 2000;
- width: 100%;
- height: 100%;
- position: fixed;
- background-color:#ffffffb5;
+    z-index: 2000;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding-top: 80px;
+    background-color: #fcfefced;
+    text-align: center;
 }

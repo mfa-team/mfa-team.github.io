@@ -33,10 +33,10 @@
 					while (($wrapper_parent.attr('class').toLowerCase().indexOf("table-wrapper") < 0)&&($wrapper_parent.prop("tagName").toLowerCase().indexOf("html") < 0)){
 						$wrapper_parent = $wrapper_parent.parent();
 					}
+					$wrapper_parent.scrollTop(0);
 					jQuery('html,body').animate({
 						scrollTop: $wrapper_parent.offset().top
 					}, 400, 'swing');
-					$wrapper_parent.scrollTop(0);
 					$wrapper_parent.animate({
 						scrollTop: $wrapper_parent.scrollTop() + $target.position().top-offset
 					}, 400, 'swing');
@@ -52,7 +52,7 @@
 		jQuery(document).ready(function(){
 			var table_height = $(window).height()-250;
 			$(".table-wrapper.protocols").height(table_height);
-			setTimeout(locateTarget, 600);
+			setTimeout(locateTarget, 300);
 		});
 		
 	</script>

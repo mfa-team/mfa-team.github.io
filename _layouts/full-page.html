@@ -38,6 +38,7 @@
 					}, 400, 'swing');
 					alert($target.scrollTop());
 					alert($target.position().top);
+					$wrapper_parent.scrollTop(0);
 					$wrapper_parent.animate({
 						scrollTop: $wrapper_parent.scrollTop() + $target.position().top-offset
 					}, 400, 'swing');

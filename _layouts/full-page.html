@@ -58,7 +58,11 @@
 				table_height = 200;
 			}
 			$(".table-wrapper.protocols").height(table_height);
-			setTimeout(locateTarget, 100);
+			if (urlHasTarget()){
+				setTimeout(locateTarget, 100);
+			}else{
+				loadingOver();
+			}
 		});
 		
 		function loadingOver(){
@@ -66,6 +70,15 @@
 				$('.loading-blur').fadeOut(400);
 			}
 		}	
+		
+		function urlHasTarget(){
+			if(jQuery(window.location.hash).length > 0){
+				return true;
+			}
+			else{
+				return false;
+			}
+		}
 		
 	</script>
   </head>

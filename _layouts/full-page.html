@@ -36,9 +36,9 @@
 					jQuery('html,body').animate({
 						scrollTop: $wrapper_parent.offset().top
 					}, 400, 'swing');
-					alert($target.scrollTop());
+					alert($target.offset().top);
 					$wrapper_parent.animate({
-						scrollTop: $wrapper_parent.scrollTop() + $target.scrollTop()-offset
+						scrollTop: $wrapper_parent.scrollTop() + $target.offset().top-offset
 					}, 400, 'swing');
 	
 				}else{

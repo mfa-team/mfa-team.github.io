@@ -2,6 +2,7 @@
 layout: full-page
 title: Survey on MFA implementations for online banking services
 ---
+<div class="loading-blur"><img src="/assets/img/loading.gif" /></div>
 
 In this page, we present the compliance of EU and non-EU banks with the
 requirements extracted from the European regulations (the <a href="https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32015L2366" target="_blank">Payments Service Directive 2</a> and the related <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:

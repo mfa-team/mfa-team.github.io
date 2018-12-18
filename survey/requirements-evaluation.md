@@ -234,6 +234,8 @@ requirements extracted from the European regulations (the <a href="https://eur-l
 </table>
 </div>
 
+<div class="back-hook"><div class="left"><i class="fas fa-arrow-circle-left"></i></div><div class="right">Back to survey table</div></div>
+
 <script>
 	$("#eu-banks-table").floatThead();
 	$("#non-eu-banks-table").floatThead();

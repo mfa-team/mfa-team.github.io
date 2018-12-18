@@ -347,6 +347,8 @@ and their combinations.
 </div>
 </div>
 
+<div class="back-hook"><div class="left"><i class="fas fa-arrow-circle-left"></i></div><div class="right">Back to survey table</div></div>
+
 <script>
 var $table = $("#ip-protocols-evaluation-table");
 $table.floatThead({

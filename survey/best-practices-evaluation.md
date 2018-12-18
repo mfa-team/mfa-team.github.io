@@ -184,47 +184,47 @@ extracted from several guidelines [3, 4, 5, 6, 7].
 <tr id="icbc">
 <td>ICBC</td>
 <td> CN	</td>
-<td> -- & <i class="far fa-star"></i>	& <i class="fa fa-star"></i> 	& <i class="fa fa-star-half-alt"></i> 	& <i class="fa fa-star"></i> 	& <i class="fa fa-star"></i> 	& <i class="fa fa-star-half-alt"></i> 	& <i class="fa fa-star"></i>  </td>
+<td> -- </td><td> <i class="far fa-star"></i>	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star"></i>  </td>
 </tr>
 <tr id="ccb">
 <td>CCB</td>
 <td> CN	</td>
-<td> -- & <i class="far fa-star"></i> 	& <i class="fa fa-star"></i> 	& <i class="fa fa-star-half-alt"></i> 	& <i class="fa fa-star"></i> 	& <i class="fa fa-star"></i> 	& <i class="fa fa-star-half-alt"></i> 	& <i class="fa fa-star"></i>  </td>
+<td> -- </td><td> <i class="far fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star"></i>  </td>
 </tr>
 <tr id="abc">
 <td>ABC</td>
 <td> CN	</td>
-<td> -- & <i class="far fa-star"></i> & <i class="fa fa-star"></i> 	& <i class="fa fa-star"></i> 	& <i class="fa fa-star"></i> 	& <i class="fa fa-star"></i> 	& <i class="fa fa-star-half-alt"></i> 	& <i class="fa fa-star"></i>  </td>
+<td> -- </td><td> <i class="far fa-star"></i> </td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star"></i>  </td>
 </tr>
 <tr id="chase">
 <td>Chase	</td>
 <td> US	</td>
-<td> -- &  <i class="fa fa-star"></i> & <i class="fa fa-star"></i> 	& <i class="far fa-star"></i> 	& <i class="fa fa-star-half-alt"></i> 	& <i class="far fa-star"></i> 	& <i class="far fa-star"></i>	& <i class="far fa-star"></i>  </td>
+<td> -- </td><td>  <i class="fa fa-star"></i> </td><td> <i class="fa fa-star"></i> 	</td><td> <i class="far fa-star"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="far fa-star"></i> 	</td><td> <i class="far fa-star"></i>	</td><td> <i class="far fa-star"></i>  </td>
 </tr>
 <tr id="bank-of-america">
 <td>Bank Of America	</td>
 <td> US	</td>
-<td> -- & <i class="fa fa-star-half-alt"></i> & <i class="fa fa-star"></i> 	& <i class="far fa-star"></i> 	& <i class="fa fa-star-half-alt"></i> 	& <i class="far fa-star"></i> 	& <i class="far fa-star"></i>	& <i class="far fa-star"></i></td>
+<td> -- </td><td> <i class="fa fa-star-half-alt"></i> </td><td> <i class="fa fa-star"></i> 	</td><td> <i class="far fa-star"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="far fa-star"></i> 	</td><td> <i class="far fa-star"></i>	</td><td> <i class="far fa-star"></i></td>
 </tr>
 <tr id="wells-fargo">
 <td>Wells Fargo	</td>
 <td> US	</td>
-<td> -- & <i class="fa fa-star"></i> & <i class="fa fa-star"></i> 	& <i class="far fa-star"></i> 	& <i class="fa fa-star-half-alt"></i> 	& <i class="far fa-star"></i>	& <i class="far fa-star"></i>	& <i class="far fa-star"></i>  </td>
+<td> -- </td><td> <i class="fa fa-star"></i> </td><td> <i class="fa fa-star"></i> 	</td><td> <i class="far fa-star"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="far fa-star"></i>	</td><td> <i class="far fa-star"></i>	</td><td> <i class="far fa-star"></i>  </td>
 </tr>
 <tr id="ubs">
 <td>UBS	</td>
 <td> CH	</td>
-<td> <i class="far fa-star"></i> & <i class="fa fa-star-half-alt"></i>	& <i class="fa fa-star"></i> 	& <i class="fa fa-star"></i> 		& <i class="fa fa-star-half-alt"></i> 	& <i class="fa fa-star"></i> 	& <i class="fa fa-star-half-alt"></i> 	& <i class="fa fa-star"></i>  </td>
+<td> <i class="far fa-star"></i> </td><td> <i class="fa fa-star-half-alt"></i>	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i> 		</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star"></i>  </td>
 </tr>
 <tr id="credit-suisse">
 <td>Credit Suisse</td>
 <td> CH	</td>
-<td> <i class="far fa-star"></i> & <i class="fa fa-star-half-alt"></i> 	& <i class="fa fa-star"></i> 	& <i class="fa fa-star-half-alt"></i> 	& <i class="fa fa-star-half-alt"></i> 	& <i class="fa fa-star-half-alt"></i> 	& <i class="fa fa-star-half-alt"></i> 	& <i class="fa fa-star"></i> </td>
+<td> <i class="far fa-star"></i> </td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star"></i> </td>
 </tr>
 <tr id="raiffeisen">
 <td>Raiffeisen	</td>
 <td> CH	</td>
-<td> <i class="far fa-star"></i> & <i class="fa fa-star-half-alt"></i> 	& <i class="far fa-star"></i> 	& <i class="fa fa-star-half-alt"></i> 	& <i class="fa fa-star-half-alt"></i> 	& <i class="fa fa-star-half-alt"></i> 	& <i class="fa fa-star-half-alt"></i> 	& <i class="fa fa-star"></i>  </td>
+<td> <i class="far fa-star"></i> </td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="far fa-star"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star"></i>  </td>
 </tr>
 </table>
 </div>

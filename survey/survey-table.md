@@ -448,6 +448,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 	$('a.bps-anchor').each(function() { 
 		var url = $(this).attr("href");
 		var bankid = url.substring(url.indexOf("#")+1,url.length);
+		alert($(this).text().trim().charAt(0));
 		var chart = new CanvasJS.Chart("bps-chart-container-"+bankid, {
 		animationEnabled: true,
 		axisX: {

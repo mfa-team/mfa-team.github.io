@@ -413,7 +413,8 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			return $table.closest('.table-wrapper');
 		}
 	});
-	$("#non-eu-banks-table").floatThead({
+	$table = $("#non-eu-banks-table")
+	$table.floatThead({
 		scrollContainer: function($table){
 			return $table.closest('.table-wrapper');
 		}

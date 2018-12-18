@@ -8,7 +8,6 @@ In this page, we present the compliance of EU and non-EU banks with the
 requirements extracted from the European regulations (the <a href="https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32015L2366" target="_blank">Payments Service Directive 2</a> and the related <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:
 32018R0389&from=EN" target="_blank">Regulatory Technical Standard</a>).
 
-<span style="font-size: 13pt; font-weight: bold;">Legend: </span> Requirements can be <i class="fa fa-star"></i> fulfilled, <i class="fa fa-star-half-alt"></i> partially violated or <i class="fa fa-star"></i> violated.
 
 <h2>Requirements definition</h2>
 
@@ -44,6 +43,7 @@ requirements extracted from the European regulations (the <a href="https://eur-l
 <tr id="RL9">
 <td><bold>RL9</bold> </td><td class="def"> Every remotely delivered authenticator must be activated before its usage</td>
 </tr>
+<tr><td colspan="8"><span style="font-size: 13pt; font-weight: bold;">Legend: </span> requirements can be <i class="fa fa-star"></i> fulfilled, <i class="fa fa-star-half-alt"></i> partially violated or <i class="fa fa-star"></i> violated.</td></tr>
 </table>
 
 <hr/>
@@ -233,6 +233,7 @@ requirements extracted from the European regulations (the <a href="https://eur-l
 <td> CH	</td>
 <td> <i class="fa fa-star"></i> </td><td> 	<i class="fa fa-star"></i> </td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i>	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> </td><td> <i class="fa fa-star-half-alt"></i> </td>
 </tr>
+<tr><td colspan="8"><span style="font-size: 13pt; font-weight: bold;">Legend: </span> requirements can be <i class="fa fa-star"></i> fulfilled, <i class="fa fa-star-half-alt"></i> partially violated or <i class="fa fa-star"></i> violated.</td></tr>
 </table>
 </div>
 

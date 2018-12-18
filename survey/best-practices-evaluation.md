@@ -234,7 +234,7 @@ extracted from several guidelines [3, 4, 5, 6, 7].
 	$("#non-eu-banks-table").floatThead();
 	
 	$('.bp-header').each(function() {
-		var def = ("#"+$(this).text().trim()+".def").text();
+		var def = $("#"+$(this).text().trim()+".def").text();
 		$(this).qtip({ 
 			content: def,
 			style: { 

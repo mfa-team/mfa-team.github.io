@@ -24,7 +24,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td>BPs</td>
 		</thead>
 		<tr class="bank-row" id="deutsche-bank">
-			<td><a href="banks/de/deutsche-bank">Deutsche Bank</a> 	</td>
+			<td><a class="bank-anchor" href="banks/de/deutsche-bank">Deutsche Bank</a> 	</td>
 			<td> DE	</td>
 			<td> <i class="fas fa-university"></i> </td>
 			<td class="authenticator-spec"> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><span class="authr-afs">[I]</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_o.png"  /> <i class="fas fa-calculator"></i><sup class="authr-info">?</sup><span class="authr-afs">[O]</span> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> <br/> <i class="fas fa-table"></i> <br/> <i class="fas fa-sim-card"></i><sup class="authr-info">?</sup> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_o.png"  /> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><sup class="authr-info">?</sup><span class="authr-afs">[O]</span> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><sup class="authr-info">?</sup><span class="authr-afs">[O]</span> <img class="authr-img channel" src="res/img/channels/chanout_i.png"  /><span class="authr-data-obj">otp</span> </td>
@@ -36,7 +36,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a href="best-practices-evaluation#deutsche-bank">3/8</a></td>
 		</tr>
 		<tr class="bank-row" id="vr-bank">
-			<td><a href="banks/de/vr-bank">VR Bank</a> </td>
+			<td><a class="bank-anchor" href="banks/de/vr-bank">VR Bank</a> </td>
 			<td> DE	</td>
 			<td><i class="fas fa-university"></i> </td>
 			<td class="authenticator-spec"><img class="authr-img obj" src="res/img/authenticators/sw.png"  /><span class="authr-afs">[I]</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_o.png"  /> <i class="fas fa-calculator"></i><sup class="authr-info">?</sup><span class="authr-afs">[O]</span> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">otp</span><img class="authr-img channel" src="res/img/channels/chanin_m.png"  /> <i class="fas fa-sim-card"></i><sup class="authr-info">?</sup> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><sup class="authr-info">?</sup><span class="authr-afs">[O,K]</span> <img class="authr-img channel" src="res/img/channels/chanout_i.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_n.png"  /> <i class="fas fa-mobile-alt"></i><sup class="authr-info">?</sup><span class="authr-afs">[O,K]</span> <img class="authr-img channel" src="res/img/channels/chanout_n.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><sup class="authr-info">?</sup><span class="authr-afs">[O,I]</span> <img class="authr-img channel" src="res/img/channels/chanout_i.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_n.png"  /> <i class="fas fa-mobile-alt"></i><sup class="authr-info">?</sup><span class="authr-afs">[O,I]</span> <img class="authr-img channel" src="res/img/channels/chanout_n.png"  /><span class="authr-data-obj">otp</span> </td>
@@ -48,7 +48,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a href="best-practices-evaluation#vr-bank">3/8</a></td>
 		</tr>
 		<tr class="bank-row" id="commerzbank">
-			<td><a href="banks/de/commerzbank">Commerzbank</a></td>
+			<td><a class="bank-anchor" href="banks/de/commerzbank">Commerzbank</a></td>
 			<td>DE </td>
 			<td><i class="fas fa-globe-americas"></i> </td>
 			<td class="authenticator-spec"> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><span class="authr-afs">[I]</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_o.png"  /> <i class="fas fa-calculator"></i><sup class="authr-info">?</sup><span class="authr-afs">[O]</span> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> <br/> <i class="fas fa-table"></i> <br/> <span class="authr-data-obj">otp</span><img class="authr-img channel" src="res/img/channels/chanin_m.png"  /> <i class="fas fa-sim-card"></i><sup class="authr-info">?</sup> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_o.png"  /> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><sup class="authr-info">?</sup><span class="authr-afs">[O]</span> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><sup class="authr-info">?</sup><span class="authr-afs">[O]</span> <img class="authr-img channel" src="res/img/channels/chanout_i.png"  /><span class="authr-data-obj">otp</span> </td>
@@ -60,7 +60,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a href="best-practices-evaluation#commerzbank">2/8</a></td>
 		</tr>
 		<tr class="bank-row" id="hsbc">
-			<td><a href="banks/uk/hsbc">HSBC</a></td>
+			<td><a class="bank-anchor" href="banks/uk/hsbc">HSBC</a></td>
 			<td>UK	</td>
 			<td><i class="fas fa-university"></i>  </td>
 			<td class="authenticator-spec"><i class="fas fa-calculator"></i><span class="authr-afs">[O,K]</span> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> <br/> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><span class="authr-afs">[O,K]</span> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> <br/> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><span class="authr-afs">[O,I]</span> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> <br/> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><span class="authr-afs">[O,K]</span> <img class="authr-img channel" src="res/img/channels/chanout_i.png"  /><span class="authr-data-obj">otp</span> <br/> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><span class="authr-afs">[O,I]</span> <img class="authr-img channel" src="res/img/channels/chanout_i.png"  /><span class="authr-data-obj">otp</span> </td>
@@ -72,7 +72,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a href="best-practices-evaluation#hsbc">6/8</a></td>
 		</tr>
 		<tr class="bank-row" id="barclays">
-			<td><a href="banks/uk/barclays">Barclays</a></td>
+			<td><a class="bank-anchor" href="banks/uk/barclays">Barclays</a></td>
 			<td>UK	</td>
 			<td> <i class="fas fa-university"></i>  </td>
 			<td class="authenticator-spec"><img class="authr-img obj" src="res/img/authenticators/knowledge.png"  /> <br/> <i class="fas fa-calculator"></i><span class="authr-afs">[O,K]</span> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> <br/> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><span class="authr-afs">[O,K]</span> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> <br/> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><span class="authr-afs">[O,I]</span> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span>  </td>
@@ -84,7 +84,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a href="best-practices-evaluation#barclays">5/8</a></td>
 		</tr>
 		<tr class="bank-row" id="lloyds-bank">
-			<td><a href="banks/uk/lloyds-bank">LLoyds Bank</a></td>
+			<td><a class="bank-anchor" href="banks/uk/lloyds-bank">LLoyds Bank</a></td>
 			<td>UK</td>
 			<td><i class="fas fa-university"></i>   </td>
 			<td class="authenticator-spec"><img class="authr-img obj" src="res/img/authenticators/knowledge.png"  /> <br/> <span class="authr-data-obj">otp</span><img class="authr-img channel" src="res/img/channels/chanin_h.png"  /> <i class="fas fa-sim-card"></i> <img class="authr-img channel" src="res/img/channels/chanout_m.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_n.png"  /> <i class="fas fa-mobile-alt"></i><span class="authr-afs">[O,K]</span> <img class="authr-img channel" src="res/img/channels/chanout_n.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_n.png"  /> <i class="fas fa-mobile-alt"></i><span class="authr-afs">[O,I]</span> <img class="authr-img channel" src="res/img/channels/chanout_n.png"  /><span class="authr-data-obj">otp</span> <br/> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><span class="authr-afs">[I]</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><span class="authr-afs">[O]</span> <img class="authr-img channel" src="res/img/channels/chanout_i.png"  /><span class="authr-data-obj">otp</span>  </td>
@@ -96,7 +96,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a href="best-practices-evaluation#lloyds-bank">5/8</a></td>
 		</tr>
 		<tr class="bank-row" id="bnp-paribas">
-			<td><a href="banks/fr/bnp-paribas">BNP Paribas</a></td>
+			<td><a class="bank-anchor" href="banks/fr/bnp-paribas">BNP Paribas</a></td>
 			<td>FR </td>
 			<td><i class="fas fa-globe-americas"></i>   </td>
 			<td class="authenticator-spec"><span class="authr-data-obj">otp</span><img class="authr-img channel" src="res/img/channels/chanin_m.png"  /> <i class="fas fa-sim-card"></i> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span><br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_n.png"  /> <i class="fas fa-mobile-alt"></i><sup class="authr-info">?</sup><span class="authr-afs">[O,K]</span> <img class="authr-img channel" src="res/img/channels/chanout_n.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><span class="authr-afs">[O]</span> <img class="authr-img channel" src="res/img/channels/chanout_i.png"  /><span class="authr-data-obj">otp</span>  </td>
@@ -108,7 +108,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a href="best-practices-evaluation#bnp-paribas">3/8</a></td>
 		</tr>
 		<tr class="bank-row" id="credit-agricole">
-			<td><a href="banks/fr/credit-agricole">Credit Agricole</a></td>
+			<td><a class="bank-anchor" href="banks/fr/credit-agricole">Credit Agricole</a></td>
 			<td>FR </td>
 			<td> <i class="fas fa-globe-americas"></i>  </td>
 			<td class="authenticator-spec"><span class="authr-data-obj">otp</span><img class="authr-img channel" src="res/img/channels/chanin_m.png"  /> <i class="fas fa-sim-card"></i> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> </td>
@@ -120,7 +120,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a href="best-practices-evaluation#credit-agricole">1/8</a></td>
 		</tr>
 		<tr class="bank-row" id="societe-generale">
-			<td><a href="banks/fr/societe-generale">Societe Generale</a></td>
+			<td><a class="bank-anchor" href="banks/fr/societe-generale">Societe Generale</a></td>
 			<td>FR </td>
 			<td><i class="fas fa-globe-americas"></i>   </td>
 			<td class="authenticator-spec"><span class="authr-data-obj">otp</span><img class="authr-img channel" src="res/img/channels/chanin_m.png"  /> <i class="fas fa-sim-card"></i> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><sup class="authr-info">?</sup><span class="authr-afs">[O,K]</span> <img class="authr-img channel" src="res/img/channels/chanout_i.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_n.png"  /> <i class="fas fa-mobile-alt"></i><sup class="authr-info">?</sup><span class="authr-afs">[O,K]</span> <img class="authr-img channel" src="res/img/channels/chanout_n.png"  /><span class="authr-data-obj">otp</span>  </td>
@@ -132,7 +132,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a href="best-practices-evaluation#societe-generale">3/8</a></td>
 		</tr>
 		<tr class="bank-row" id="unicredit">
-			<td><a href="banks/it/unicredit">Unicredit</a></td>
+			<td><a class="bank-anchor" href="banks/it/unicredit">Unicredit</a></td>
 			<td>IT </td>
 			<td><i class="fas fa-university"></i>   </td>
 			<td class="authenticator-spec"><i class="fas fa-calculator"></i><span class="authr-afs">[O]</span> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> <br/> <i class="fas fa-table"></i> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_h.png"  /> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><sup class="authr-info">?</sup><span class="authr-afs">[O,K]</span> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_h.png"  /> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><sup class="authr-info">?</sup><span class="authr-afs">[O,I]</span> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><sup class="authr-info">?</sup><span class="authr-afs">[O,K]</span> <img class="authr-img channel" src="res/img/channels/chanout_i.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><sup class="authr-info">?</sup><span class="authr-afs">[O,K]</span> <img class="authr-img channel" src="res/img/channels/chanout_i.png"  /><span class="authr-data-obj">otp</span> </td>
@@ -144,7 +144,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a href="best-practices-evaluation#unicredit">6/8</a></td>
 		</tr>
 		<tr class="bank-row" id="banca-intesa">
-			<td><a href="banks/it/banca-intesa">Banca Intesa</a></td>
+			<td><a class="bank-anchor" href="banks/it/banca-intesa">Banca Intesa</a></td>
 			<td>IT </td>
 			<td><i class="fas fa-university"></i>   </td>
 			<td class="authenticator-spec"><i class="fas fa-calculator"></i><span class="authr-afs">[O]</span> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_n.png"  /> <i class="fas fa-mobile-alt"></i><sup class="authr-info">?</sup><span class="authr-afs">[O,K]</span> <img class="authr-img channel" src="res/img/channels/chanout_n.png"  /><span class="authr-data-obj">otp</span><br/>  <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_n.png"  /> <i class="fas fa-mobile-alt"></i><sup class="authr-info">?</sup><span class="authr-afs">[O,I]</span> <img class="authr-img channel" src="res/img/channels/chanout_n.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><sup class="authr-info">?</sup><span class="authr-afs">[O,K]</span> <img class="authr-img channel" src="res/img/channels/chanout_i.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><sup class="authr-info">?</sup><span class="authr-afs">[O,I]</span> <img class="authr-img channel" src="res/img/channels/chanout_i.png"  /><span class="authr-data-obj">otp</span>  </td>
@@ -156,7 +156,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a href="best-practices-evaluation#banca-intesa">6/8</a></td>
 		</tr>
 		<tr class="bank-row" id="banco-bpm">
-			<td><a href="banks/it/banco-bpm">Banco BPM</a></td>
+			<td><a class="bank-anchor" href="banks/it/banco-bpm">Banco BPM</a></td>
 			<td>IT </td>
 			<td><i class="fas fa-university"></i>   </td>
 			<td class="authenticator-spec"><i class="fas fa-calculator"></i><span class="authr-afs">[O]</span> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> <br/> <i class="fas fa-calculator"></i><span class="authr-afs">[O,K]</span> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> <br/>  <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><span class="authr-afs">[O]</span> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span><br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_n.png"  /> <i class="fas fa-mobile-alt"></i><sup class="authr-info">?</sup><span class="authr-afs">[O,K]</span> <img class="authr-img channel" src="res/img/channels/chanout_n.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><sup class="authr-info">?</sup><span class="authr-afs">[O,K]</span>  <img class="authr-img channel" src="res/img/channels/chanout_i.png"  /><span class="authr-data-obj">otp</span> </td>
@@ -168,7 +168,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a href="best-practices-evaluation#banco-bpm">6/8</a></td>
 		</tr>
 		<tr class="bank-row" id="banco-santander">
-			<td><a href="banks/es/banco-santander">Banco Santander</a></td>
+			<td><a class="bank-anchor" href="banks/es/banco-santander">Banco Santander</a></td>
 			<td>ES	</td>
 			<td><i class="fas fa-globe-americas"></i>   </td>
 			<td class="authenticator-spec"><img class="authr-img obj" src="res/img/authenticators/knowledge.png"  /> <br/> <span class="authr-data-obj">otp</span><img class="authr-img channel" src="res/img/channels/chanin_m.png"  /> <i class="fas fa-sim-card"></i> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span>  </td>
@@ -180,7 +180,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a href="best-practices-evaluation#banco-santander">1/8</a></td>
 		</tr>
 		<tr class="bank-row" id="bbva">
-			<td><a href="banks/es/bbva">BBVA</a></td>
+			<td><a class="bank-anchor" href="banks/es/bbva">BBVA</a></td>
 			<td>ES</td>
 			<td><i class="fas fa-globe-americas"></i></td>
 			<td class="authenticator-spec"><span class="authr-data-obj">otp</span><img class="authr-img channel" src="res/img/channels/chanin_m.png"  /> <i class="fas fa-sim-card"></i><sup class="authr-info">?</sup> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> </td>
@@ -192,7 +192,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a href="best-practices-evaluation#bbva">1/8</a></td>
 		</tr>
 		<tr class="bank-row" id="la-caixa">
-			<td><a href="banks/es/la-caixa">La Caixa</a></td>
+			<td><a class="bank-anchor" href="banks/es/la-caixa">La Caixa</a></td>
 			<td>ES </td>
 			<td><i class="fas fa-globe-americas"></i> </td>
 			<td class="authenticator-spec"><i class="fas fa-table"></i> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_n.png"  /> <i class="fas fa-mobile-alt"></i><sup class="authr-info">?</sup><span class="authr-afs">[O]</span> <img class="authr-img channel" src="res/img/channels/chanout_n.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><sup class="authr-info">?</sup><span class="authr-afs">[O]</span> <img class="authr-img channel" src="res/img/channels/chanout_i.png"  /><span class="authr-data-obj">otp</span> </td>
@@ -204,7 +204,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a href="best-practices-evaluation#la-caixa">4/8</a></td>
 		</tr>
 		<tr class="bank-row" id="ing">
-			<td><a href="banks/nl/ing">ING</a></td>
+			<td><a class="bank-anchor" href="banks/nl/ing">ING</a></td>
 			<td>NL	</td>
 			<td><i class="fas fa-globe-americas"></i> </td>
 			<td class="authenticator-spec"><i class="fas fa-table"></i> <br/> <span class="authr-data-obj">otp</span><img class="authr-img channel" src="res/img/channels/chanin_m.png"  /> <i class="fas fa-sim-card"></i><sup class="authr-info">?</sup> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_n.png"  /><i class="fas fa-mobile-alt"></i><sup class="authr-info">?</sup><span class="authr-afs">[O,K]</span> <img class="authr-img channel" src="res/img/channels/chanout_n.png"  /><span class="authr-data-obj">otp</span> <br/> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><span class="authr-afs">[I]</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><sup class="authr-info">?</sup><span class="authr-afs">[O]</span> <img class="authr-img channel" src="res/img/channels/chanout_i.png"  /><span class="authr-data-obj">otp</span> </td>
@@ -216,7 +216,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a href="best-practices-evaluation#ing">3/8</a></td>
 		</tr>
 		<tr class="bank-row" id="rabobank">
-			<td><a href="banks/nl/rabobank">Rabobank</a></td>
+			<td><a class="bank-anchor" href="banks/nl/rabobank">Rabobank</a></td>
 			<td>NL	</td>
 			<td><i class="fas fa-globe-americas"></i> </td>
 			<td class="authenticator-spec"><span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_o.png"  /> <i class="fas fa-calculator"></i><sup class="authr-info">?</sup><span class="authr-afs">[O,K]</span> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_h.png"  /> <i class="fas fa-calculator"></i><sup class="authr-info">?</sup><span class="authr-afs">[O,K]</span> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> <br/> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><span class="authr-afs">[I]</span>  </td>
@@ -228,7 +228,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a href="best-practices-evaluation#rabobank">3/8</a></td>
 		</tr>
 		<tr class="bank-row" id="abn-amro">
-			<td><a href="banks/nl/abn-amro">ABN AMRO</a></td>
+			<td><a class="bank-anchor" href="banks/nl/abn-amro">ABN AMRO</a></td>
 			<td>NL	</td>
 			<td><i class="fas fa-globe-americas"></i> </td>
 			<td class="authenticator-spec"><span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> <i class="fas fa-calculator"></i><sup class="authr-info">?</sup><span class="authr-afs">[O,K]</span> <img class="authr-img channel" src="res/img/channels/chanout_i.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_h.png"  /> <i class="fas fa-calculator"></i><sup class="authr-info">?</sup><span class="authr-afs">[O,K]</span> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> <br/> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><span class="authr-afs">[I]</span>  </td>
@@ -240,7 +240,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a href="best-practices-evaluation#abn-amro">2/8</a></td>
 		</tr>
 		<tr class="bank-row" id="nordea">
-			<td><a href="banks/sw/nordea">Nordea</a></td>
+			<td><a class="bank-anchor" href="banks/sw/nordea">Nordea</a></td>
 			<td>SW	</td>
 			<td><i class="fas fa-globe-americas"></i> </td>
 			<td class="authenticator-spec"><span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_h.png"  /> <i class="fas fa-calculator"></i><span class="authr-afs">[O,K]</span> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> <i class="fas fa-calculator"></i><sup class="authr-info">?</sup><span class="authr-afs">[O,K]</span> <img class="authr-img channel" src="res/img/channels/chanout_i.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><sup class="authr-info">?</sup><span class="authr-afs">[O,K]</span> <img class="authr-img channel" src="res/img/channels/chanout_i.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_n.png"  /> <i class="fas fa-mobile-alt"></i><sup class="authr-info">?</sup><span class="authr-afs">[O,K]</span> <img class="authr-img channel" src="res/img/channels/chanout_n.png"  /><span class="authr-data-obj">otp</span><br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_n.png"  /> <i class="fas fa-mobile-alt"></i><sup class="authr-info">?</sup><span class="authr-afs">[O,I]</span> <img class="authr-img channel" src="res/img/channels/chanout_n.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><sup class="authr-info">?</sup><span class="authr-afs">[O,K]</span> <img class="authr-img channel" src="res/img/channels/chanout_i.png"  /><span class="authr-data-obj">otp</span><br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><sup class="authr-info">?</sup><span class="authr-afs">[O,I]</span> <img class="authr-img channel" src="res/img/channels/chanout_i.png"  /><span class="authr-data-obj">otp</span> </td>
@@ -252,7 +252,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a href="best-practices-evaluation#nordea">4/8</a></td>
 		</tr>
 		<tr class="bank-row" id="svenska-handelsbanken">
-			<td><a href="banks/sw/svenska-handelsbanken">Svenska<br/>Handelsbanken</a></td>
+			<td><a class="bank-anchor" href="banks/sw/svenska-handelsbanken">Svenska<br/>Handelsbanken</a></td>
 			<td>SW	</td>
 			<td><i class="fas fa-university"></i> </td>
 			<td class="authenticator-spec"><i class="fas fa-table"></i> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_h.png"  /> <i class="fas fa-calculator"></i><span class="authr-afs">[O,K]</span> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> <i class="fas fa-calculator"></i><sup class="authr-info">?</sup><span class="authr-afs">[O,K]</span> <img class="authr-img channel" src="res/img/channels/chanout_i.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><sup class="authr-info">?</sup><span class="authr-afs">[O,K]</span> <img class="authr-img channel" src="res/img/channels/chanout_i.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_n.png"  /> <i class="fas fa-mobile-alt"></i><sup class="authr-info">?</sup><span class="authr-afs">[O,K]</span> <img class="authr-img channel" src="res/img/channels/chanout_n.png"  /><span class="authr-data-obj">otp</span><br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_n.png"  /> <i class="fas fa-mobile-alt"></i><sup class="authr-info">?</sup><span class="authr-afs">[O,I]</span> <img class="authr-img channel" src="res/img/channels/chanout_n.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><sup class="authr-info">?</sup><span class="authr-afs">[O,K]</span> <img class="authr-img channel" src="res/img/channels/chanout_i.png"  /><span class="authr-data-obj">otp</span><br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><sup class="authr-info">?</sup><span class="authr-afs">[O,I]</span> <img class="authr-img channel" src="res/img/channels/chanout_i.png"  /><span class="authr-data-obj">otp</span>  </td>
@@ -264,7 +264,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a href="best-practices-evaluation#svenska-handelsbanken">4/8</a></td>
 		</tr>
 		<tr class="bank-row" id="seb">
-			<td><a href="banks/sw/seb">SEB</a></td>
+			<td><a class="bank-anchor" href="banks/sw/seb">SEB</a></td>
 			<td>SW	</td>
 			<td><i class="fas fa-globe-americas"></i> </td>
 			<td class="authenticator-spec"><span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_h.png"  /> <i class="fas fa-calculator"></i><span class="authr-afs">[O,K]</span> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> <i class="fas fa-calculator"></i><sup class="authr-info">?</sup><span class="authr-afs">[O,K]</span> <img class="authr-img channel" src="res/img/channels/chanout_i.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_n.png"  /> <i class="fas fa-mobile-alt"></i><sup class="authr-info">?</sup><span class="authr-afs">[O,K]</span> <img class="authr-img channel" src="res/img/channels/chanout_n.png"  /><span class="authr-data-obj">otp</span><br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_n.png"  /> <i class="fas fa-mobile-alt"></i><sup class="authr-info">?</sup><span class="authr-afs">[O,I]</span> <img class="authr-img channel" src="res/img/channels/chanout_n.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><sup class="authr-info">?</sup><span class="authr-afs">[O,K]</span> <img class="authr-img channel" src="res/img/channels/chanout_i.png"  /><span class="authr-data-obj">otp</span><br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><sup class="authr-info">?</sup><span class="authr-afs">[O,I]</span> <img class="authr-img channel" src="res/img/channels/chanout_i.png"  /><span class="authr-data-obj">otp</span> </td>
@@ -295,7 +295,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td>BPs</td>
 		</thead>
 		<tr class="bank-row" id="icbc">
-			<td><a href="banks/cn/icbc">ICBC</a></td>
+			<td><a class="bank-anchor" href="banks/cn/icbc">ICBC</a></td>
 			<td>CN</td>
 			<td> <i class="fas fa-university"></i> </td>
 			<td class="authenticator-spec">  <i class="fas fa-calculator"></i><span class="authr-afs">[O,K]</span>  <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  />  <i class="fas fa-calculator"></i><sup class="authr-info">?</sup><span class="authr-afs">[O]</span>  <img class="authr-img channel" src="res/img/channels/chanout_i.png"  /><span class="authr-data-obj">otp</span> <br/> <i class="fas fa-table"></i> <br/> <span class="authr-data-obj">otp</span><img class="authr-img channel" src="res/img/channels/chanin_m.png"  /> <i class="fas fa-sim-card"></i><sup class="authr-info">?</sup> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> </td>
@@ -307,7 +307,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a href="best-practices-evaluation#icbc">4/8</a></td>
 		</tr>
 		<tr class="bank-row" id="ccb">
-			<td><a href="banks/cn/ccb">CCB</a></td>
+			<td><a class="bank-anchor" href="banks/cn/ccb">CCB</a></td>
 			<td>CN</td>
 			<td><i class="fas fa-university"></i></td>
 			<td class="authenticator-spec"> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_h.png"  /> <i class="fas fa-calculator"></i><sup class="authr-info">?</sup><span class="authr-afs">[O,K]</span>  <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> <br/> <i class="fas fa-table"></i> <br/> <span class="authr-data-obj">otp</span><img class="authr-img channel" src="res/img/channels/chanin_m.png"  /> <i class="fas fa-sim-card"></i><sup class="authr-info">?</sup> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span>  </td>
@@ -319,7 +319,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a href="best-practices-evaluation#ccb">4/8</a></td>
 		</tr>
 		<tr class="bank-row" id="abc">
-			<td><a href="banks/cn/abc">ABC</a></td>
+			<td><a class="bank-anchor" href="banks/cn/abc">ABC</a></td>
 			<td>CN</td>
 			<td><i class="fas fa-university"></i></td>
 			<td class="authenticator-spec"> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_h.png"  /> <i class="fas fa-calculator"></i><span class="authr-afs">[O,K]</span>  <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  />  <i class="fas fa-calculator"></i><sup class="authr-info">?</sup><span class="authr-afs">[O]</span>  <img class="authr-img channel" src="res/img/channels/chanout_i.png"  /><span class="authr-data-obj">otp</span>  <br/> <i class="fas fa-table"></i> <br/> <img class="authr-img obj" src="res/img/authenticators/knowledge.png"  />   </td>
@@ -331,7 +331,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a href="best-practices-evaluation#abc">5/8</a></td>
 		</tr>
 		<tr class="bank-row" id="chase">
-			<td><a href="banks/us/chase">Chase</a></td>
+			<td><a class="bank-anchor" href="banks/us/chase">Chase</a></td>
 			<td>USA</td>
 			<td><i class="fas fa-globe-americas"></i> </td>
 			<td class="authenticator-spec"><span class="authr-data-obj">otp</span><img class="authr-img channel" src="res/img/channels/chanin_m.png"  /> <i class="fas fa-sim-card"></i> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> </td>
@@ -343,7 +343,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a href="best-practices-evaluation#chase">2/8</a></td>
 		</tr>
 		<tr class="bank-row" id="bank-of-america">
-			<td><a href="banks/us/bank-of-america">Bank of America</a></td>
+			<td><a class="bank-anchor" href="banks/us/bank-of-america">Bank of America</a></td>
 			<td>USA</td>
 			<td><i class="fas fa-globe-americas"></i></td>
 			<td class="authenticator-spec"><span class="authr-data-obj">otp</span><img class="authr-img channel" src="res/img/channels/chanin_m.png"  /> <i class="fas fa-sim-card"></i> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> </td>
@@ -355,7 +355,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a href="best-practices-evaluation#bank-of-america">1/8</a></td>
 		</tr>
 		<tr class="bank-row" id="wells-fargo">
-			<td><a href="banks/us/wells-fargo">Wells Fargo</a></td>
+			<td><a class="bank-anchor" href="banks/us/wells-fargo">Wells Fargo</a></td>
 			<td>USA</td>
 			<td><i class="fas fa-globe-americas"></i> </td>
 			<td class="authenticator-spec"><span class="authr-data-obj">otp</span><img class="authr-img channel" src="res/img/channels/chanin_m.png"  /> <i class="fas fa-sim-card"></i> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> </td>
@@ -367,7 +367,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a href="best-practices-evaluation#wells-fargo">2/8</a></td>
 		</tr>
 		<tr class="bank-row" id="ubs">
-			<td><a href="banks/ch/ubs">UBS</a></td>
+			<td><a class="bank-anchor" href="banks/ch/ubs">UBS</a></td>
 			<td>CH</td>
 			<td><i class="fas fa-globe-americas"></i></td>
 			<td class="authenticator-spec"><span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_h.png"  /> <i class="fas fa-calculator"></i><span class="authr-afs">[O,K]</span>  <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_h.png"  /> <i class="fas fa-calculator"></i><span class="authr-afs">[O,K]</span>  <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> <i class="fas fa-calculator"></i><sup class="authr-info">?</sup><span class="authr-afs">[O]</span>  <img class="authr-img channel" src="res/img/channels/chanout_i.png"  /><span class="authr-data-obj">otp</span> <br/> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><span class="authr-afs">[I]</span>  <br/>	<span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_o.png"  /> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><sup class="authr-info">?</sup><span class="authr-afs">[O,K]</span>  <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> <br/>
@@ -380,7 +380,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a href="best-practices-evaluation#ubs">4/8</a></td>
 		</tr>
 		<tr class="bank-row" id="credit-suisse">
-			<td><a href="banks/ch/credit-suisse">Credit Suisse</a></td>
+			<td><a class="bank-anchor" href="banks/ch/credit-suisse">Credit Suisse</a></td>
 			<td>CH</td>
 			<td><i class="fas fa-globe-americas"></i></td>
 			<td class="authenticator-spec"><i class="fas fa-calculator"></i><span class="authr-afs">[O]</span>  <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">otp</span><img class="authr-img channel" src="res/img/channels/chanin_m.png"  /> <i class="fas fa-sim-card"></i> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span><br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_o.png"  /> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><span class="authr-afs">[O,K]</span>  <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><span class="authr-afs">[O,K]</span>  <img class="authr-img channel" src="res/img/channels/chanout_i.png"  /><span class="authr-data-obj">otp</span> </td>
@@ -392,7 +392,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a href="best-practices-evaluation#credit-suisse">2/8</a></td>
 		</tr>
 		<tr class="bank-row" id="raiffeisen">
-			<td><a href="banks/ch/raiffeisen">Raiffeisen</a></td>
+			<td><a class="bank-anchor" href="banks/ch/raiffeisen">Raiffeisen</a></td>
 			<td>CH</td>
 			<td><i class="fas fa-globe-americas"></i></td>
 			<td class="authenticator-spec"><i class="fas fa-table"></i> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_o.png"  /> <i class="fas fa-calculator"></i><sup class="authr-info">?</sup><span class="authr-afs">[O]</span>  <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">otp</span><img class="authr-img channel" src="res/img/channels/chanin_m.png"  /> <i class="fas fa-sim-card"></i> <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_o.png"  /> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><sup class="authr-info">?</sup><span class="authr-afs">[O,K]</span>  <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span> <br/> <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  /> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><sup class="authr-info">?</sup><span class="authr-afs">[O,K]</span>  <img class="authr-img channel" src="res/img/channels/chanout_i.png"  /><span class="authr-data-obj">otp</span>   </td> 
@@ -431,6 +431,14 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 	$('.MFAP-link-MP').each(function() { // Grab all elements with a title attribute,and set "this"
 		$(this).qtip({ 
 			content: '<img src="protocols-representations/pictograms/mp/'+$(this).text().trim()+'.png" height="50"  />',
+			style: { 
+				classes: 'qtip-blue' 
+			}
+		});
+	});
+	$('a.bank-anchor').each(function() { 
+		$(this).qtip({ 
+			content: 'Click to see references and data sources',
 			style: { 
 				classes: 'qtip-blue' 
 			}

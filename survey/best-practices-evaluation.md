@@ -5,7 +5,16 @@ title: Survey on MFA implementations for online banking services
 <div class="loading-blur"><img src="/assets/img/loading.gif" /></div>
 
 In this page, we present the compliance of EU and non-EU banks with the best practices
-extracted from several guidelines [3, 4, 5, 6, 7].
+extracted from several guidelines: <a target="_blank" href="https://pages.nist.gov/800-63-3/">NIST - Digital Identity Guidelines</a>, 
+<a target="_blank" href="https://blog.centrify.com/mfa-best-practices/">Centrify - Best Practices for Multi-factor Authentication</a>, 
+<a target="_blank" href="https://www.pcisecuritystandards.org/pdfs/Multi-Factor-Authentication-Guidance-v1.pdf">PCI Security Standards Council - Information Supplement - Multi-
+Factor Authentication,</a>,
+<a target="_blank" href="http://www2.gemalto.com/email/2011/authsomethingstronger/whitepaper/Authentication_Best_Practices_WP(EN)_A4_web.pdf">Gemalto - Authentication BestPractices: Put control where it belongs</a>,
+<a target="_blank" href="https://www.pingidentity.com/content/dam/ping-6-2-assets/Assets/white-papers/en/mfa-best-practices-securing-modern-digital-enterprise-3001.pdf?id=b6322a80-f285-11e3-ac10-0800200c9a66">PingIdentity - Multi-Factor Authentication: Best Practices for Securing
+the Modern Digital Enterprise</a>.
+
+<span style="font-size: 13pt; font-weight: bold;">Legend: </span> best practices can be <i class="fa fa-star"></i> fulfilled, <i class="fa fa-star-half-alt"></i> partially violated or <i class="fa fa-star"></i> violated.
+
 
 <h2>Best Practices definition</h2>
 

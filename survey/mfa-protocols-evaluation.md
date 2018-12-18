@@ -10,8 +10,8 @@ and their combinations.
 
 
 <span style="font-size: 14pt; font-weight: bold;">Legend: </span> the symbol <i class="fas fa-skull"></i> indicates that a given attacker (or combination of attacker) can successfully compromise the protocol.
-If an attacker is not able to totally compromise a protocol, the compromised factors are reported with a strikethrough text.
-Finally, the symbol <i class="fas fa-check-circle"></i> indicates that a subset of the given combination can alredy successfully compromise the protocol.
+If an attacker is not able to totally compromise a protocol, the compromised factors are reported with a <span class="afs-cancel">strikethrough text</span>.
+Finally, the symbol <i class="fas fa-check-circle"></i> indicates that a subset of the given combination can successfully compromise the protocol.
 
 
 <h2>Internet Payments</h2>

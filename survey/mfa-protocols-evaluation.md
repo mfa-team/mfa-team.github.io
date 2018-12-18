@@ -198,7 +198,6 @@ and their combinations.
 </span></div></th><th class="rotate"><div><span>SS∘ES∘SE</span></div></th><th class="rotate"><div><span>SS∘ES∘MB</span></div></th><th class="rotate"><div><span>SS∘ES∘MM</span></div></th><th class="rotate"><div><span>SS∘SE∘MB</span></div></th><th class="rotate"><div><span>SS∘SE∘MM</span></div></th><th class="rotate"><div><span>SS∘MB∘MM
 </span></div></th><th class="rotate"><div><span>ES∘SE∘MB</span></div></th><th class="rotate"><div><span>ES∘SE∘MM</span></div></th><th class="rotate"><div><span>ES∘MB∘MM</span></div></th><th class="rotate"><div><span>SE∘MB∘MM</span></div></th>
 </thead>
-<tbody>
 <tr id="MP-1">
 <td>MP-1 </td>
 <td class="protocol-column"><img class="authr-img obj" src="res/img/authenticators/knowledge.png"  />; <i class="fas fa-calculator"></i><span class="authr-afs">[O]</span>  <img class="authr-img channel" src="res/img/channels/chanout_h.png"  /><span class="authr-data-obj">otp</span></td>  
@@ -344,7 +343,6 @@ and their combinations.
 <td class="protocol-column"> <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><span class="authr-afs">[I]</span>; <span class="authr-data-obj">opid</span><img class="authr-img channel" src="res/img/channels/chanin_i.png"  />  <img class="authr-img obj" src="res/img/authenticators/sw.png"  /><sup class="authr-info">?</sup><span class="authr-afs">[O,I]</span>  <img class="authr-img channel" src="res/img/channels/chanout_i.png"  /><span class="authr-data-obj">otp</span></td> 
 <td> 0 </td><td> 0 </td><td> 0 </td><td> <span class="afs-cancel">O</span> </td><td> <span class="afs-cancel">O</span> </td><td> -- </td><td> -- </td><td> <span class="afs-cancel">I</span> </td><td> -- </td><td> <i class="fas fa-skull"></i> </td><td> <span class="afs-cancel">O</span> </td><td> <span class="afs-cancel">O</span> </td><td> <span class="afs-cancel">O</span> </td><td> <span class="afs-cancel">O</span><span class="afs-cancel">I</span> </td><td> <span class="afs-cancel">O</span> </td><td> <i class="fas fa-check-circle"></i> </td><td> <span class="afs-cancel">O</span> </td><td> <span class="afs-cancel">O</span> </td><td> <span class="afs-cancel">O</span><span class="afs-cancel">I</span> </td><td> <span class="afs-cancel">O</span> </td><td> <i class="fas fa-check-circle"></i> </td><td> -- </td><td> <span class="afs-cancel">I</span> </td><td> -- </td><td> <i class="fas fa-check-circle"></i> </td><td> <span class="afs-cancel">I</span> </td><td> -- </td><td> <i class="fas fa-check-circle"></i> </td><td> <span class="afs-cancel">I</span> </td><td> <i class="fas fa-check-circle"></i> </td><td> <i class="fas fa-check-circle"></i> </td><td> <span class="afs-cancel">O</span> </td><td> <span class="afs-cancel">O</span> </td><td> <span class="afs-cancel">O</span><span class="afs-cancel">I</span> </td><td> <span class="afs-cancel">O</span> </td><td> <i class="fas fa-check-circle"></i> </td><td> <span class="afs-cancel">O</span> </td><td> <span class="afs-cancel">O</span><span class="afs-cancel">I</span> </td><td> <span class="afs-cancel">O</span> </td><td> <i class="fas fa-check-circle"></i> </td><td> <span class="afs-cancel">O</span><span class="afs-cancel">I</span> </td><td> <span class="afs-cancel">O</span> </td><td> <i class="fas fa-check-circle"></i> </td><td> <span class="afs-cancel">O</span><span class="afs-cancel">I</span> </td><td> <i class="fas fa-check-circle"></i> </td><td> <i class="fas fa-check-circle"></i> </td><td> <span class="afs-cancel">O</span> </td><td> <span class="afs-cancel">O</span><span class="afs-cancel">I</span> </td><td> <span class="afs-cancel">O</span> </td><td> <i class="fas fa-check-circle"></i> </td><td> <span class="afs-cancel">O</span><span class="afs-cancel">I</span> </td><td> <span class="afs-cancel">O</span> </td><td> <i class="fas fa-check-circle"></i> </td><td> <span class="afs-cancel">O</span><span class="afs-cancel">I</span> </td><td> <i class="fas fa-check-circle"></i> </td><td> <i class="fas fa-check-circle"></i> </td><td> <span class="afs-cancel">I</span> </td><td> -- </td><td> <i class="fas fa-check-circle"></i> </td><td> <span class="afs-cancel">I</span> </td><td> <i class="fas fa-check-circle"></i> </td><td> <i class="fas fa-check-circle"></i> </td><td> <span class="afs-cancel">I</span> </td><td> <i class="fas fa-check-circle"></i> </td><td> <i class="fas fa-check-circle"></i> </td><td> <i class="fas fa-check-circle"></i></td>
 </tr>
-<tbody>
 </table>
 </div>
 </div>
@@ -353,13 +351,13 @@ and their combinations.
 var $table = $("<i class="fas fa-check-circle"></i>ip-protocols-evaluation-table");
 $table.floatThead({
     scrollContainer: function($table){
-        return $table.closest('.table-wrapper');
+        return $('#ip-protocols-table-wrapper');
     }
 });
 $table = $("<i class="fas fa-check-circle"></i>mp-protocols-evaluation-table");
 $table.floatThead({
     scrollContainer: function($table){
-        return $table.closest('.table-wrapper');
+        return $('#mp-protocols-table-wrapper');
     }
 });
 </script>

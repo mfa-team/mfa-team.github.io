@@ -241,7 +241,7 @@ extracted from several guidelines [3, 4, 5, 6, 7].
 				classes: 'qtip-blue' 
 			},
 			position: {
-				my: 'left center'
+				at: 'bottom center'
 			}
 		});
 	});

@@ -348,13 +348,13 @@ and their combinations.
 </div>
 
 <script>
-var $table = $("<i class="fas fa-check-circle"></i>ip-protocols-evaluation-table");
+var $table = $("#ip-protocols-evaluation-table");
 $table.floatThead({
     scrollContainer: function($table){
         return $('#ip-protocols-table-wrapper');
     }
 });
-$table = $("<i class="fas fa-check-circle"></i>mp-protocols-evaluation-table");
+$table = $("#mp-protocols-evaluation-table");
 $table.floatThead({
     scrollContainer: function($table){
         return $('#mp-protocols-table-wrapper');

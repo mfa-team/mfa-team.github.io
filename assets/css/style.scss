@@ -133,11 +133,13 @@ div.back-hook:hover{
   cursor: pointer;
 }
 
-div.back-hook left{
+div.back-hook .left{
   display:inline-block;
   text-align: center;
+  color: #5597ec;
+  font-size: 20pt;
 }
 
-div.back-hook right{
+div.back-hook .right{
   display:inline-block;
 }

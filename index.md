@@ -14,7 +14,7 @@ objects, called authenticators.
 
 During the last years, MFA has been widely adopted, with a notable variety of offered MFA protocols, authenticators and authentication factors.
 
-<div style="font size:16pt">
+<div style="font-size:16pt">
 We executed a survey on real-world MFA implementations adopted by banks all over the world.
-The results are available [in this page](survey/survey-table.md).
+The results are available <a href="survey/survey-table">in this page</a>.
 </div>

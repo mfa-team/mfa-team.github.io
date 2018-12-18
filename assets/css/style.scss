@@ -120,3 +120,24 @@ table img.mfap-pict {
     background-color: #fcfefced;
     text-align: center;
 }
+
+div.back-hook{
+  position: fixed;
+  right: 0px;
+  top: 50px;
+  width: 140px;
+  background-color: #fafbfc;
+}
+
+div.back-hook:hover{
+  cursor: pointer;
+}
+
+div.back-hook left{
+  display:inline-block;
+  text-align: center;
+}
+
+div.back-hook right{
+  display:inline-block;
+}

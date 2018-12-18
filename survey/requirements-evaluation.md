@@ -15,32 +15,32 @@ requirements extracted from the European regulations (the <a href="https://eur-l
 <td>Req. Number</td>
 <td>Definition</td>
 </thead>
-<tr>
-<td><bold>RL1</bold> </td><td> If a software authenticator or an authentication code is used through a multi-purpose device, the integrity of the device must be checked </td>
+<tr id="RL1">
+<td><bold>RL1</bold> </td><td class="def"> If a software authenticator or an authentication code is used through a multi-purpose device, the integrity of the device must be checked </td>
 </tr>
-<tr> 
-<td><bold>RL2</bold> </td><td> MFA protocols must be always employed when the user performs risky operations </td>
+<tr id="RL2">
+<td><bold>RL2</bold> </td><td class="def"> MFA protocols must be always employed when the user performs risky operations </td>
 </tr>
-<tr>
-<td><bold>RL3</bold> </td><td> Every MFA protocol must employ at least two different types of Authentication Factors </td>
+<tr id="RL3">
+<td><bold>RL3</bold> </td><td class="def"> Every MFA protocol must employ at least two different types of Authentication Factors </td>
 </tr>
-<tr>
-<td><bold>RL4</bold> </td><td> Every MFA protocol must employ at least two independent Authentication Factors </td>
+<tr id="RL4">
+<td><bold>RL4</bold> </td><td class="def"> Every MFA protocol must employ at least two independent Authentication Factors </td>
 </tr>
-<tr>
-<td><bold>RL5</bold> </td><td> Every MFA protocol must result in the generation of an authentication code that is unique, dynamically linked to a specific operation and accepted only once. </td>
+<tr id="RL5">
+<td><bold>RL5</bold> </td><td class="def"> Every MFA protocol must result in the generation of an authentication code that is unique, dynamically linked to a specific operation and accepted only once. </td>
 </tr>
-<tr>
-<td><bold>RL6 </bold> </td><td> Every MFA protocol must make the user aware of crucial information on the operation she is going to authorize </td>
+<tr id="RL6">
+<td><bold>RL6 </bold> </td><td class="def"> Every MFA protocol must make the user aware of crucial information on the operation she is going to authorize </td>
 </tr>
-<tr> 
-<td><bold>RL7</bold> </td><td> Identity proofing must be performed with a high level of confidence </td>
+<tr id="RL7"> 
+<td><bold>RL7</bold> </td><td class="def"> Identity proofing must be performed with a high level of confidence </td>
 </tr>
-<tr>
-<td><bold>RL8</bold> </td><td> The binding procedure for every authenticator must be executed in a secure manner </td>
+<tr id="RL8">
+<td><bold>RL8</bold> </td><td class="def"> The binding procedure for every authenticator must be executed in a secure manner </td>
 </tr>
-<tr>
-<td><bold>RL9</bold> </td><td> Every remotely delivered authenticator must be activated before its usage</td>
+<tr id="RL9">
+<td><bold>RL9</bold> </td><td class="def"> Every remotely delivered authenticator must be activated before its usage</td>
 </tr>
 </table>
 
@@ -53,15 +53,15 @@ requirements extracted from the European regulations (the <a href="https://eur-l
 <thead style="font-weight: bold; font-size: 12.5pt;background-color: white;">
 <td>Bank Name</td>
 <td>Country</td>
-<td>RL1</td>
-<td>RL2</td>
-<td>RL3</td>
-<td>RL4</td>
-<td>RL5</td>
-<td>RL6</td>
-<td>RL7</td>
-<td>RL8</td>
-<td>RL9</td>
+<td class="rl-header">RL1</td>
+<td class="rl-header">RL2</td>
+<td class="rl-header">RL3</td>
+<td class="rl-header">RL4</td>
+<td class="rl-header">RL5</td>
+<td class="rl-header">RL6</td>
+<td class="rl-header">RL7</td>
+<td class="rl-header">RL8</td>
+<td class="rl-header">RL9</td>
 </thead>
 <tr id="deutsche-bank">
 <td>Deutsche Bank 	</td>
@@ -177,15 +177,15 @@ requirements extracted from the European regulations (the <a href="https://eur-l
 <thead style="font-weight: bold; font-size: 12.5pt; background-color: white;">
 <td>Bank Name</td>
 <td>Country</td>
-<td>RL1</td>
-<td>RL2</td>
-<td>RL3</td>
-<td>RL4</td>
-<td>RL5</td>
-<td>RL6</td>
-<td>RL7</td>
-<td>RL8</td>
-<td>RL9</td>
+<td class="rl-header">RL1</td>
+<td class="rl-header">RL2</td>
+<td class="rl-header">RL3</td>
+<td class="rl-header">RL4</td>
+<td class="rl-header">RL5</td>
+<td class="rl-header">RL6</td>
+<td class="rl-header">RL7</td>
+<td class="rl-header">RL8</td>
+<td class="rl-header">RL9</td>
 </thead>
 <tr id="icbc">
 <td>ICBC</td>
@@ -237,4 +237,17 @@ requirements extracted from the European regulations (the <a href="https://eur-l
 <script>
 	$("#eu-banks-table").floatThead();
 	$("#non-eu-banks-table").floatThead();
+	
+	$('.rl-header').each(function() {
+		var def = $("#"+$(this).text().trim()).find(".def").text();
+		$(this).qtip({ 
+			content: def,
+			style: { 
+				classes: 'qtip-blue' 
+			},
+			position: {
+				at: 'bottom center'
+			}
+		});
+	});
 </script>

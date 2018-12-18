@@ -229,7 +229,7 @@ extracted from several guidelines [3, 4, 5, 6, 7].
 </table>
 </div>
 
-<div class="back-hook" onclick="location.href='survey-table'"><div class="left"><i class="fas fa-arrow-circle-left"></i></div><div class="right">Back to survey table</div></div>
+<div class="back-hook shadow" onclick="location.href='survey-table'"><div class="left"><i class="fas fa-arrow-circle-left"></i></div><div class="right">Back to survey table</div></div>
 
 <script>
 	$("#eu-banks-table").floatThead();

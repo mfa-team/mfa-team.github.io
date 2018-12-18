@@ -347,7 +347,7 @@ and their combinations.
 </div>
 </div>
 
-<div class="back-hook" onclick="location.href='survey-table'"><div class="left"><i class="fas fa-arrow-circle-left"></i></div><div class="right">Back to survey table</div></div>
+<div class="back-hook shadow" onclick="location.href='survey-table'"><div class="left"><i class="fas fa-arrow-circle-left"></i></div><div class="right">Back to survey table</div></div>
 
 <script>
 var $table = $("#ip-protocols-evaluation-table");

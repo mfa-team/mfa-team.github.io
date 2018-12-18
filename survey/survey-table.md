@@ -423,6 +423,9 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 	$('.MFAP-link-IP').each(function() { // Grab all elements with a title attribute,and set "this"
 		$(this).qtip({ 
 			content: '<img src="protocols-representations/pictograms/ip/'+$(this).text().trim()+'.png" height="50"  />'
+			style: { 
+				classes: 'qtip-blue' 
+			}
 		});
 	});
 </script>

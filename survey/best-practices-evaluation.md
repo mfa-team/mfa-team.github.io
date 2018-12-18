@@ -15,28 +15,28 @@ extracted from several guidelines [3, 4, 5, 6, 7].
 <td>Definition</td>
 </thead>
 <tr id="BP1">
-<td><bold>BP1</td><td class="def"> A software authenticator should be integrated in the mobile banking application (if any) </td>
+<td><bold>BP1</bold></td><td class="def"> A software authenticator should be integrated in the mobile banking application (if any) </td>
 </tr>
 <tr id="BP2">
-<td><bold>BP2</td><td class="def"> MFA protocols should rely on standard solutions</td>
+<td><bold>BP2</bold></td><td class="def"> MFA protocols should rely on standard solutions</td>
 </tr>
 <tr id="BP3">
-<td><bold>BP3</td><td class="def"> Step-up authentication should be adopted </td>
+<td><bold>BP3</bold></td><td class="def"> Step-up authentication should be adopted </td>
 </tr>
 <tr id="BP4">
-<td><bold>BP4</td><td class="def"> MFA protocols should limit SMS reception as much as possible </td>
+<td><bold>BP4</bold></td><td class="def"> MFA protocols should limit SMS reception as much as possible </td>
 </tr>
 <tr id="BP5">
-<td><bold>BP5</td><td class="def"> Identity proofing should be executed with high level of confidence </td>
+<td><bold>BP5</bold></td><td class="def"> Identity proofing should be executed with high level of confidence </td>
 </tr>
 <tr id="BP6">
-<td><bold>BP6</td><td class="def"> The binding procedure should be executed in a secure manner </td>
+<td><bold>BP6</bold></td><td class="def"> The binding procedure should be executed in a secure manner </td>
 </tr>
 <tr id="BP7">
-<td><bold>BP7</td><td class="def"> Two authenticators attesting ownership factors should be bound after the enrollment</td>
+<td><bold>BP7</bold></td><td class="def"> Two authenticators attesting ownership factors should be bound after the enrollment</td>
 </tr>
 <tr id="BP8">
-<td><bold>BP8</td><td class="def"> The user should be offered with multiple authenticators of different types </td>
+<td><bold>BP8</bold></td><td class="def"> The user should be offered with multiple authenticators of different types </td>
 </tr>
 </table>
 

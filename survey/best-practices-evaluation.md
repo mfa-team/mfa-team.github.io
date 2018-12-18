@@ -172,7 +172,7 @@ the Modern Digital Enterprise</a>.
 <td> SW	</td>
 <td><i class="far fa-star"></i>	</td><td> <i class="fa fa-star-half-alt"></i>	</td><td> <i class="far fa-star"></i>	</td><td> <i class="fa fa-star"></i>	</td><td> <i class="fa fa-star-half-alt"></i>	</td><td> <i class="fa fa-star-half-alt"></i>	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i>    </td>
 </tr>
-<tr><td colspan="8"><span style="font-size: 13pt; font-weight: bold;">Legend: </span> best practices can be <i class="fa fa-star"></i> fulfilled, <i class="fa fa-star-half-alt"></i> partially violated or <i class="fa fa-star"></i> violated.</td></tr>
+<tr><td colspan="8"><span style="font-size: 13pt; font-weight: bold;">Legend: </span> best practices can be <i class="fa fa-star"></i> fulfilled, <i class="fa fa-star-half-alt"></i> partially violated or <i class="far fa-star"></i> violated.</td></tr>
 </table>
 </div>
 
@@ -236,7 +236,7 @@ the Modern Digital Enterprise</a>.
 <td> CH	</td>
 <td> <i class="far fa-star"></i> </td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="far fa-star"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="fa fa-star"></i>  </td>
 </tr>
-<tr><td colspan="8"><span style="font-size: 13pt; font-weight: bold;">Legend: </span> best practices can be <i class="fa fa-star"></i> fulfilled, <i class="fa fa-star-half-alt"></i> partially violated or <i class="fa fa-star"></i> violated.</td></tr>
+<tr><td colspan="8"><span style="font-size: 13pt; font-weight: bold;">Legend: </span> best practices can be <i class="fa fa-star"></i> fulfilled, <i class="fa fa-star-half-alt"></i> partially violated or <i class="far fa-star"></i> violated.</td></tr>
 </table>
 </div>
 

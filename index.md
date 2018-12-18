@@ -7,14 +7,17 @@ title: MFA Dataset
 ---
 
 **Multi-factor authentication** (mfa) is a form of digital authentication affering strong security guarantees.
+
 MFA is based on the so-called MFA Protocols, i.e. security protocols that integrate traditional identity proofs (user credentials) with additional ones, called *authentication factors*.
+
 Authentication factors are based on either *knowledge*, *possession* or *inherence*. 
+
 During the execution of an MFA protocol, authentication factors are provided through specific
-objects, called authenticators.
+objects, called *authenticators*.
 
 During the last years, MFA has been widely adopted, with a notable variety of offered MFA protocols, authenticators and authentication factors.
 
-<div style="font-size:16pt">
+<div style="font-size:16pt; margin-top: 40px; border-left: 3px solid #6d9ff5;padding: 5px;">
 We executed a survey on real-world MFA implementations adopted by banks all over the world.
 The results are available <a href="survey/survey-table">in this page</a>.
 </div>

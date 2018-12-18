@@ -126,6 +126,7 @@ div.back-hook{
   right: 0px;
   top: 50px;
   width: 140px;
+  display: table;
   background-color: #fafbfc;
   border-top-left-radius: 3px;
   border-bottom-left-radius: 3px;
@@ -137,12 +138,16 @@ div.back-hook:hover{
 }
 
 div.back-hook .left{
-  display:inline-block;
-  text-align: center;
-  color: #5597ec;
-  font-size: 20pt;
+    text-align: center;
+    color: #5597ec;
+    font-size: 20pt;
+    display: table-cell;
+    padding: 5px;
+    vertical-align: middle;
 }
 
 div.back-hook .right{
-  display:inline-block;
+  display: table-cell;
+  vertical-align: middle;
+  padding: 5px;
 }

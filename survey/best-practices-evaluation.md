@@ -141,27 +141,27 @@ extracted from several guidelines [3, 4, 5, 6, 7].
 <tr id="rabobank">
 <td>Rabobank	</td>
 <td> NL	</td>
-<td> -- 		</td><td> <i class="fa fa-star-half-alt"></i>	</td><td> <i class="fa fa-star"></i>	</td><td> <i class="fa fa-star"></i>	</td><td> <i class="fa fa-star-half-alt"></i>	</td><td> <i class="fa fa-star"></i>	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="far fa-star"></i>    
+<td> -- 		</td><td> <i class="fa fa-star-half-alt"></i>	</td><td> <i class="fa fa-star"></i>	</td><td> <i class="fa fa-star"></i>	</td><td> <i class="fa fa-star-half-alt"></i>	</td><td> <i class="fa fa-star"></i>	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="far fa-star"></i></td>    
 </tr>
 <tr id="abn-amro">
 <td>ABN AMRO</td>
 <td> NL	</td>
-<td> -- 		</td><td> <i class="fa fa-star-half-alt"></i>	</td><td> <i class="fa fa-star"></i>	</td><td> <i class="fa fa-star"></i>	</td><td> <i class="fa fa-star-half-alt"></i>	</td><td> <i class="far fa-star"></i>	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="far fa-star"></i>    
+<td> -- 		</td><td> <i class="fa fa-star-half-alt"></i>	</td><td> <i class="fa fa-star"></i>	</td><td> <i class="fa fa-star"></i>	</td><td> <i class="fa fa-star-half-alt"></i>	</td><td> <i class="far fa-star"></i>	</td><td> <i class="fa fa-star-half-alt"></i> 	</td><td> <i class="far fa-star"></i>   </td>
 </tr>
 <tr id="nordea">
 <td>Nordea	</td>
 <td> SW	</td>
-<td><i class="far fa-star"></i>	</td><td> <i class="fa fa-star-half-alt"></i>	</td><td> <i class="fa fa-star"></i>	</td><td> <i class="fa fa-star"></i>	</td><td> <i class="fa fa-star-half-alt"></i>	</td><td> <i class="fa fa-star-half-alt"></i>	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i>    
+<td><i class="far fa-star"></i>	</td><td> <i class="fa fa-star-half-alt"></i>	</td><td> <i class="fa fa-star"></i>	</td><td> <i class="fa fa-star"></i>	</td><td> <i class="fa fa-star-half-alt"></i>	</td><td> <i class="fa fa-star-half-alt"></i>	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i>  </td>  
 </tr>
 <tr id="svenska-handelsbanken">
 <td>Svenska Handelsbanken </td>
 <td> SW	</td>
-<td><i class="far fa-star"></i>	</td><td> <i class="fa fa-star-half-alt"></i>	</td><td> <i class="far fa-star"></i>	</td><td> <i class="fa fa-star"></i>	</td><td> <i class="fa fa-star"></i>	</td><td> <i class="fa fa-star-half-alt"></i>	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i>    
+<td><i class="far fa-star"></i>	</td><td> <i class="fa fa-star-half-alt"></i>	</td><td> <i class="far fa-star"></i>	</td><td> <i class="fa fa-star"></i>	</td><td> <i class="fa fa-star"></i>	</td><td> <i class="fa fa-star-half-alt"></i>	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i>  </td>  
 </tr>
 <tr id="seb">
 <td>SEB</td>
 <td> SW	</td>
-<td><i class="far fa-star"></i>	</td><td> <i class="fa fa-star-half-alt"></i>	</td><td> <i class="far fa-star"></i>	</td><td> <i class="fa fa-star"></i>	</td><td> <i class="fa fa-star-half-alt"></i>	</td><td> <i class="fa fa-star-half-alt"></i>	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i>    
+<td><i class="far fa-star"></i>	</td><td> <i class="fa fa-star-half-alt"></i>	</td><td> <i class="far fa-star"></i>	</td><td> <i class="fa fa-star"></i>	</td><td> <i class="fa fa-star-half-alt"></i>	</td><td> <i class="fa fa-star-half-alt"></i>	</td><td> <i class="fa fa-star"></i> 	</td><td> <i class="fa fa-star"></i>    </td>
 </tr>
 </table>
 </div>

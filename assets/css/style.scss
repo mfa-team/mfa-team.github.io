@@ -127,6 +127,9 @@ div.back-hook{
   top: 50px;
   width: 140px;
   background-color: #fafbfc;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+  z-index:2000;
 }
 
 div.back-hook:hover{

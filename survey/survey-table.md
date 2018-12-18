@@ -406,6 +406,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 	</table>
 </div>
 
+<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
 <script>
 	var $table = $("#eu-banks-table");
 	$table.floatThead({
@@ -487,4 +488,3 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 
 	});
 </script>
-<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>

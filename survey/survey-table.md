@@ -33,7 +33,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-10"> MP-10</a> <br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-19"> MP-19</a><br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-25"> MP-25 </a><br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-27"> MP-27 </a> </td>
 			<td> <i class="fas fa-check"></i> </td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#deutsche-bank">4/9</a></td>
-			<td><a class="bps-anchor" href="best-practices-evaluation#deutsche-bank"><div class="chart-container" height=80 width=40  id="bps-chart-container-deutsche-bank"></div>3/8</a></td>
+			<td><a class="bps-anchor" href="best-practices-evaluation#deutsche-bank"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-deutsche-bank"></canvas>3/8</a></td>
 			<td><a href="requirements-evaluation#deutsche-bank">4/9</a></td>
 			<td><a href="best-practices-evaluation#deutsche-bank">3/8</a></td>
 		</tr>
@@ -47,7 +47,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td> 	<a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-8"> MP-8</a> <br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-20"> MP-20</a> <br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-21"> MP-21</a> <br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-22"> MP-22</a> <br/><a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-28"> MP-28 </a> <br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-29"> MP-29 </a>	</td>
 			<td> <i class="fas fa-check"></i> </td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#vr-bank">6/9</a></td>
-			<td><a class="bps-anchor" href="best-practices-evaluation#vr-bank"><div class="chart-container" height=80 width=40  id="bps-chart-container-vr-bank"></div>3/8</a></td>
+			<td><a class="bps-anchor" href="best-practices-evaluation#vr-bank"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-vr-bank"></canvas>3/8</a></td>
 			<td><a href="requirements-evaluation#vr-bank">6/9</a></td>
 			<td><a href="best-practices-evaluation#vr-bank">3/8</a></td>
 		</tr>
@@ -61,7 +61,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td>  <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-8"> MP-8</a> <br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-19"> MP-19</a> <br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-22"> MP-22</a> <br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-27"> MP-27 </a>  </td>
 			<td> <i class="fas fa-check"></i> </td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#commerzbank">3/9</a></td>
-			<td><a class="bps-anchor" href="best-practices-evaluation#commerzbank"><div class="chart-container" height=80 width=40  id="bps-chart-container-commerzbank"></div>2/8</a></td>
+			<td><a class="bps-anchor" href="best-practices-evaluation#commerzbank"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-commerzbank"></canvas>2/8</a></td>
 			<td><a href="requirements-evaluation#commerzbank">3/9</a></td>
 			<td><a href="best-practices-evaluation#commerzbank">2/8</a></td>
 		</tr>
@@ -75,7 +75,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-15"> MP-15</a> <br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-16"> MP-16</a> </td>
 			<td> <i class="fas fa-check-double"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#hsbc">7/9</a></td>
-			<td><a class="bps-anchor" href="best-practices-evaluation#hsbc"><div class="chart-container" height=80 width=40  id="bps-chart-container-hsbc"></div>6/8</a></td>
+			<td><a class="bps-anchor" href="best-practices-evaluation#hsbc"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-hsbc"></canvas>6/8</a></td>
 			<td><a href="requirements-evaluation#hsbc">7/9</a></td>
 			<td><a href="best-practices-evaluation#hsbc">6/8</a></td>
 		</tr>
@@ -89,7 +89,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td></td>
 			<td><i class="fas fa-check-double"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#barclays">5/9</a></td>
-			<td><a class="bps-anchor" href="best-practices-evaluation#barclays"><div class="chart-container" height=80 width=40  id="bps-chart-container-barclays"></div>5/8</a></td>
+			<td><a class="bps-anchor" href="best-practices-evaluation#barclays"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-barclays"></canvas>5/8</a></td>
 			<td><a href="requirements-evaluation#barclays">5/9</a></td>
 			<td><a href="best-practices-evaluation#barclays">5/8</a></td>
 		</tr>
@@ -103,7 +103,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-17"> MP-17</a> <br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-26"> MP-26 </a> </td>
 			<td> <i class="fas fa-check-double"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#lloyds-bank">5/9</a></td>
-			<td><a class="bps-anchor" href="best-practices-evaluation#lloyds-bank"><div class="chart-container" height=80 width=40  id="bps-chart-container-lloyds-bank"></div>5/8</a></td>
+			<td><a class="bps-anchor" href="best-practices-evaluation#lloyds-bank"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-lloyds-bank"></canvas>5/8</a></td>
 			<td><a href="requirements-evaluation#lloyds-bank">5/9</a></td>
 			<td><a href="best-practices-evaluation#lloyds-bank">5/8</a></td>
 		</tr>
@@ -117,7 +117,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-12"> MP-12</a> <br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-20"> MP-20</a> </td>
 			<td><i class="fas fa-check-double"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#bnp-paribas">5/9</a></td>
-			<td><a class="bps-anchor" href="best-practices-evaluation#bnp-paribas"><div class="chart-container" height=80 width=40  id="bps-chart-container-bnp-paribas"></div>3/8</a></td>
+			<td><a class="bps-anchor" href="best-practices-evaluation#bnp-paribas"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-bnp-paribas"></canvas>3/8</a></td>
 			<td><a href="requirements-evaluation#bnp-paribas">5/9</a></td>
 			<td><a href="best-practices-evaluation#bnp-paribas">3/8</a></td>
 		</tr>
@@ -131,7 +131,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td> </td>
 			<td><i class="fas fa-check-double"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#credit-agricole">4/9</a></td>
-			<td><a class="bps-anchor" href="best-practices-evaluation#credit-agricole"><div class="chart-container" height=80 width=40  id="bps-chart-container-credit-agricole"></div>1/8</a></td>
+			<td><a class="bps-anchor" href="best-practices-evaluation#credit-agricole"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-credit-agricole"></canvas>1/8</a></td>
 			<td><a href="requirements-evaluation#credit-agricole">4/9</a></td>
 			<td><a href="best-practices-evaluation#credit-agricole">1/8</a></td>
 		</tr>
@@ -145,7 +145,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-20"> MP-20</a> </td>
 			<td><i class="fas fa-check"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#societe-generale">5/9</a></td>
-			<td><a class="bps-anchor" href="best-practices-evaluation#societe-generale"><div class="chart-container" height=80 width=40  id="bps-chart-container-societe-generale"></div>3/8</a></td>
+			<td><a class="bps-anchor" href="best-practices-evaluation#societe-generale"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-societe-generale"></canvas>3/8</a></td>
 			<td><a href="requirements-evaluation#societe-generale">5/9</a></td>
 			<td><a href="best-practices-evaluation#societe-generale">3/8</a></td>
 		</tr>
@@ -159,7 +159,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-20"> MP-20</a> <br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-21"> MP-21</a> </td>
 			<td><i class="fas fa-check-double"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#unicredit">5/9</a></td>
-			<td><a class="bps-anchor" href="best-practices-evaluation#unicredit"><div class="chart-container" height=80 width=40  id="bps-chart-container-unicredit"></div>6/8</a></td>
+			<td><a class="bps-anchor" href="best-practices-evaluation#unicredit"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-unicredit"></canvas>6/8</a></td>
 			<td><a href="requirements-evaluation#unicredit">5/9</a></td>
 			<td><a href="best-practices-evaluation#unicredit">6/8</a></td>
 		</tr>
@@ -173,7 +173,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-1"> MP-1</a><br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-20"> MP-20</a> <br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-21"> MP-21</a>  </td>
 			<td><i class="fas fa-check-double"></i> </td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#banca-intesa">7/9</a></td>
-			<td><a class="bps-anchor" href="best-practices-evaluation#banca-intesa"><div class="chart-container" height=80 width=40  id="bps-chart-container-banca-intesa"></div>6/8</a></td>
+			<td><a class="bps-anchor" href="best-practices-evaluation#banca-intesa"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-banca-intesa"></canvas>6/8</a></td>
 			<td><a href="requirements-evaluation#banca-intesa">7/9</a></td>
 			<td><a href="best-practices-evaluation#banca-intesa">6/8</a></td>
 		</tr>
@@ -187,7 +187,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-1"> MP-1</a><br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-20"> MP-20</a> </td>
 			<td><i class="fas fa-check"></i> </td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#banco-bpm">7/9</a></td>
-			<td><a class="bps-anchor" href="best-practices-evaluation#banco-bpm"><div class="chart-container" height=80 width=40  id="bps-chart-container-banco-bpm"></div>6/8</a></td>
+			<td><a class="bps-anchor" href="best-practices-evaluation#banco-bpm"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-banco-bpm"></canvas>6/8</a></td>
 			<td><a href="requirements-evaluation#banco-bpm">7/9</a></td>
 			<td><a href="best-practices-evaluation#banco-bpm">6/8</a></td>
 		</tr>
@@ -201,7 +201,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-14"> MP-14</a> </td>
 			<td><i class="fas fa-check-double"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#banco-santander">5/9</a></td>
-			<td><a class="bps-anchor" href="best-practices-evaluation#banco-santander"><div class="chart-container" height=80 width=40  id="bps-chart-container-banco-santander"></div>1/8</a></td>
+			<td><a class="bps-anchor" href="best-practices-evaluation#banco-santander"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-banco-santander"></canvas>1/8</a></td>
 			<td><a href="requirements-evaluation#banco-santander">5/9</a></td>
 			<td><a href="best-practices-evaluation#banco-santander">1/8</a></td>
 		</tr>
@@ -215,7 +215,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-13"> MP-13</a> </td>
 			<td><i class="fas fa-check"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#bbva">6/9</a></td>
-			<td><a class="bps-anchor" href="best-practices-evaluation#bbva"><div class="chart-container" height=80 width=40  id="bps-chart-container-bbva"></div>1/8</a></td>
+			<td><a class="bps-anchor" href="best-practices-evaluation#bbva"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-bbva"></canvas>1/8</a></td>
 			<td><a href="requirements-evaluation#bbva">6/9</a></td>
 			<td><a href="best-practices-evaluation#bbva">1/8</a></td>
 		</tr>
@@ -229,7 +229,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-19"> MP-19</a></td>
 			<td><i class="fas fa-check-double"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#la-caixa">6/9</a></td>
-			<td><a class="bps-anchor" href="best-practices-evaluation#la-caixa"><div class="chart-container" height=80 width=40  id="bps-chart-container-la-caixa"></div>4/8</a></td>
+			<td><a class="bps-anchor" href="best-practices-evaluation#la-caixa"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-la-caixa"></canvas>4/8</a></td>
 			<td><a href="requirements-evaluation#la-caixa">6/9</a></td>
 			<td><a href="best-practices-evaluation#la-caixa">4/8</a></td>
 		</tr>
@@ -243,7 +243,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-19"> MP-19</a> <br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-27"> MP-27 </a> </td>
 			<td><i class="fas fa-check"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#ing">2/9</a></td>
-			<td><a class="bps-anchor" href="best-practices-evaluation#ing"><div class="chart-container" height=80 width=40  id="bps-chart-container-ing"></div>3/8</a></td>
+			<td><a class="bps-anchor" href="best-practices-evaluation#ing"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-ing"></canvas>3/8</a></td>
 			<td><a href="requirements-evaluation#ing">2/9</a></td>
 			<td><a href="best-practices-evaluation#ing">3/8</a></td>
 		</tr>
@@ -257,7 +257,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-9"> MP-9</a> <br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-24"> MP-24 </a> </td>
 			<td> <i class="fas fa-check-double"></i> </td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#rabobank">7/9</a></td>
-			<td><a class="bps-anchor" href="best-practices-evaluation#rabobank"><div class="chart-container" height=80 width=40  id="bps-chart-container-rabobank"></div>3/8</a></td>
+			<td><a class="bps-anchor" href="best-practices-evaluation#rabobank"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-rabobank"></canvas>3/8</a></td>
 			<td><a href="requirements-evaluation#rabobank">7/9</a></td>
 			<td><a href="best-practices-evaluation#rabobank">3/8</a></td>
 		</tr>
@@ -271,7 +271,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-5"> MP-5</a> <br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-5"> MP-5</a> <br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-23"> MP-23</a> <br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-23"> MP-23</a>  </td>
 			<td><i class="fas fa-check-double"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#abn-amro">6/9</a></td>
-			<td><a class="bps-anchor" href="best-practices-evaluation#abn-amro"><div class="chart-container" height=80 width=40  id="bps-chart-container-abn-amro"></div>2/8</a></td>
+			<td><a class="bps-anchor" href="best-practices-evaluation#abn-amro"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-abn-amro"></canvas>2/8</a></td>
 			<td><a href="requirements-evaluation#abn-amro">6/9</a></td>
 			<td><a href="best-practices-evaluation#abn-amro">2/8</a></td>
 		</tr>
@@ -285,7 +285,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-3"> MP-3</a><br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-20"> MP-20</a> <br/><a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-21"> MP-21</a>  </td>
 			<td><i class="fas fa-check-double"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#nordea">4/9</a></td>
-			<td><a class="bps-anchor" href="best-practices-evaluation#nordea"><div class="chart-container" height=80 width=40  id="bps-chart-container-nordea"></div>4/8</a></td>
+			<td><a class="bps-anchor" href="best-practices-evaluation#nordea"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-nordea"></canvas>4/8</a></td>
 			<td><a href="requirements-evaluation#nordea">4/9</a></td>
 			<td><a href="best-practices-evaluation#nordea">4/8</a></td>
 		</tr>
@@ -299,7 +299,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-3"> MP-3</a><br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-10"> MP-10</a> <br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-20"> MP-20</a> <br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-21"> MP-21</a> </td>
 			<td><i class="fas fa-times"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#svenska-handelsbanken">4/9</a></td>
-			<td><a class="bps-anchor" href="best-practices-evaluation#svenska-handelsbanken"><div class="chart-container" height=80 width=40  id="bps-chart-container-svenska-handelsbanken"></div>4/8</a></td>
+			<td><a class="bps-anchor" href="best-practices-evaluation#svenska-handelsbanken"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-svenska-handelsbanken"></canvas>4/8</a></td>
 			<td><a href="requirements-evaluation#svenska-handelsbanken">4/9</a></td>
 			<td><a href="best-practices-evaluation#svenska-handelsbanken">4/8</a></td>
 		</tr>
@@ -313,7 +313,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-3"> MP-3</a><br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-20"> MP-20</a> <br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-21"> MP-21</a> </td>
 			<td> <i class="fas fa-times"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#seb">4/9</a></td>
-			<td><a class="bps-anchor" href="best-practices-evaluation#seb"><div class="chart-container" height=80 width=40  id="bps-chart-container-seb"></div>3/8</a></td>
+			<td><a class="bps-anchor" href="best-practices-evaluation#seb"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-seb"></canvas>3/8</a></td>
 			<td><a href="requirements-evaluation#seb">4/9</a></td>
 			<td><a href="best-practices-evaluation#seb">3/8</a></td>
 		</tr>
@@ -346,7 +346,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td>  <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-2"> MP-2</a><br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-6"> MP-6</a> <br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-10"> MP-10</a>  </td>
 			<td> <i class="fas fa-check"></i> </td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#icbc">6/9</a></td>
-			<td><a class="bps-anchor" href="best-practices-evaluation#icbc"><div class="chart-container" height=80 width=40  id="bps-chart-container-"></div>4/8</a></td>
+			<td><a class="bps-anchor" href="best-practices-evaluation#icbc"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-"></canvas>4/8</a></td>
 			<td><a href="requirements-evaluation#icbc">6/9</a></td>
 			<td><a href="best-practices-evaluation#icbc">4/8</a></td>
 		</tr>
@@ -360,7 +360,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-6"> MP-6</a> <br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-10"> MP-10</a> <br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-13"> MP-13</a>  </td>
 			<td><i class="fas fa-check"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#ccb">6/9</a></td>
-			<td><a class="bps-anchor" href="best-practices-evaluation#ccb"><div class="chart-container" height=80 width=40  id="bps-chart-container-"></div>4/8</a></td>
+			<td><a class="bps-anchor" href="best-practices-evaluation#ccb"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-"></canvas>4/8</a></td>
 			<td><a href="requirements-evaluation#ccb">6/9</a></td>
 			<td><a href="best-practices-evaluation#ccb">4/8</a></td>
 		</tr>
@@ -374,7 +374,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-4"> MP-4</a> <br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-7"> MP-7</a> <br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-11"> MP-11</a> </td>
 			<td><i class="fas fa-check"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#abc">6/9</a></td>
-			<td><a class="bps-anchor" href="best-practices-evaluation#abc"><div class="chart-container" height=80 width=40  id="bps-chart-container-"></div>5/8</a></td>
+			<td><a class="bps-anchor" href="best-practices-evaluation#abc"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-"></canvas>5/8</a></td>
 			<td><a href="requirements-evaluation#abc">6/9</a></td>
 			<td><a href="best-practices-evaluation#abc">5/8</a></td>
 		</tr>
@@ -388,7 +388,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td></td>
 			<td><i class="fas fa-check-double"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#chase">2/9</a></td>
-			<td><a class="bps-anchor" href="best-practices-evaluation#chase"><div class="chart-container" height=80 width=40  id="bps-chart-container-"></div>2/8</a></td>
+			<td><a class="bps-anchor" href="best-practices-evaluation#chase"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-"></canvas>2/8</a></td>
 			<td><a href="requirements-evaluation#chase">2/9</a></td>
 			<td><a href="best-practices-evaluation#chase">2/8</a></td>
 		</tr>
@@ -402,7 +402,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td></td>
 			<td><i class="fas fa-check-double"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#bank-of-america">2/9</a></td>
-			<td><a class="bps-anchor" href="best-practices-evaluation#bank-of-america"><div class="chart-container" height=80 width=40  id="bps-chart-container-bank-of-america"></div>1/8</a></td>
+			<td><a class="bps-anchor" href="best-practices-evaluation#bank-of-america"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-bank-of-america"></canvas>1/8</a></td>
 			<td><a href="requirements-evaluation#bank-of-america">2/9</a></td>
 			<td><a href="best-practices-evaluation#bank-of-america">1/8</a></td>
 		</tr>
@@ -416,7 +416,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td></td>
 			<td><i class="fas fa-check-double"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#wells-fargo">2/9</a></td>
-			<td><a class="bps-anchor" href="best-practices-evaluation#wells-fargo"><div class="chart-container" height=80 width=40  id="bps-chart-container-wells-fargo"></div>2/8</a></td>
+			<td><a class="bps-anchor" href="best-practices-evaluation#wells-fargo"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-wells-fargo"></canvas>2/8</a></td>
 			<td><a href="requirements-evaluation#wells-fargo">2/9</a></td>
 			<td><a href="best-practices-evaluation#wells-fargo">2/8</a></td>
 		</tr>
@@ -431,7 +431,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-3"> MP-3</a><br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-3"> MP-3</a><br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-20"> MP-20</a> <br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-28"> MP-28 </a> </td>
 			<td> <i class="fas fa-check-double"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#ubs">6/9</a></td>
-			<td><a class="bps-anchor" href="best-practices-evaluation#ubs"><div class="chart-container" height=80 width=40  id="bps-chart-container-ubs"></div>4/8</a></td
+			<td><a class="bps-anchor" href="best-practices-evaluation#ubs"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-ubs"></canvas>4/8</a></td
 			<td><a href="requirements-evaluation#ubs">6/9</a></td>
 			<td><a href="best-practices-evaluation#ubs">4/8</a></td>
 		</tr>
@@ -445,7 +445,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-18"> MP-18</a></td>
 			<td><i class="fas fa-check-double"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#credit-suisse">4/9</a></td>
-			<td><a class="bps-anchor" href="best-practices-evaluation#credit-suisse"><div class="chart-container" height=80 width=40 id="bps-chart-container-credit-suisse"></div>2/8</a></td>
+			<td><a class="bps-anchor" href="best-practices-evaluation#credit-suisse"><canvas class="chart-container" height="80" width="40" id="bps-chart-container-credit-suisse"></canvas>2/8</a></td>
 			<td><a href="requirements-evaluation#credit-suisse">4/9</a></td>
 			<td><a href="best-practices-evaluation#credit-suisse">2/8</a></td>
 		</tr>
@@ -458,8 +458,8 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a class="MFAP-link-IP" href="mfa-protocols-evaluation#IP-6"> IP-6 </a><br/> <a class="MFAP-link-IP" href="mfa-protocols-evaluation#IP-11"> IP-11 </a> <br/> <a class="MFAP-link-IP" href="mfa-protocols-evaluation#IP-14"> IP-14 </a><br/> <a class="MFAP-link-IP" href="mfa-protocols-evaluation#IP-23"> IP-23 </a> </td>
 			<td><a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-12"> MP-12</a> <br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-20"> MP-20</a> </td>
 			<td> <i class="fas fa-times"></i> </td>
-			<td><a class="reqs-anchor" href="requirements-evaluation#raiffeisen"><div id="reqs-chart-container-"></div>4/9</a></td>
-			<td><a class="bps-anchor" href="best-practices-evaluation#raiffeisen"><div class="chart-container" height=80 width=40  id="bps-chart-container-raiffeisen"></div>1/8</a></td>
+			<td><a class="reqs-anchor" href="requirements-evaluation#raiffeisen"><div id="reqs-chart-container-"></canvas>4/9</a></td>
+			<td><a class="bps-anchor" href="best-practices-evaluation#raiffeisen"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-raiffeisen"></div>1/8</a></td>
 			<td><a href="requirements-evaluation#raiffeisen">4/9</a></td>
 			<td><a href="best-practices-evaluation#raiffeisen">1/8</a></td>
 		</tr>

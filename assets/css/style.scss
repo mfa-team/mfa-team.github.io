@@ -27,15 +27,19 @@ table.mfa-protocols-table td.protocol-column{
  padding: 5px 15px;
 }
 
-table td.prot-cplx-mem{
+table tr.upper-labels td{
+  border-bottom: 1px transparent;
+}
+
+table .prot-cplx-mem{
   background-color: #f9f9f978;
 }
 
-table td.prot-cplx-op{
+table .prot-cplx-op{
   background-color: #f9f9f978;
 }
 
-table td.prot-cplx-dev{
+table .prot-cplx-dev{
   border-right: solid 1px #555;
   background-color: #f9f9f978;
 }

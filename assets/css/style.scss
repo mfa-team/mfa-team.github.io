@@ -23,7 +23,12 @@ table.mfa-protocols-table td{
 
 table.mfa-protocols-table td.protocol-column{
  white-space: nowrap;
- border-right: solid 1px #f00;
+ border-right: solid 1px #555;
+ padding: 5px 15px;
+}
+
+table td.prot-cplx-dev{
+  border-right: solid 1px #555;
 }
 
 table td.authenticator-spec{

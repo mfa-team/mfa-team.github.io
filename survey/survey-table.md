@@ -14,12 +14,12 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 		<thead style="font-weight: bold; font-size: 12.5pt; background-color:white;">
 			<td>Bank name</td>
 			<td>C</td>
-			<td>Enr.</td>
-			<td>Authenticators</td>
-			<td>Binding</td>
-			<td>IPs</td>
-			<td>MPs</td>
-			<td>Ex.</td>
+			<td class="enrollment-header">>Enr.</td>
+			<td class="authrs-header">Authenticators<sup class="hint"><i class="fas fa-question-circle"></i></sup></td>
+			<td class="binding-header">Binding<sup class="hint"><i class="fas fa-question-circle"></i></sup></td>
+			<td class="payments-header">IPs<sup class="hint"><i class="fas fa-question-circle"></i></sup></td>
+			<td class="payments-header">MPs<sup class="hint"><i class="fas fa-question-circle"></i></sup></td>
+			<td class="exempt-header">Ex.<sup class="hint"><i class="fas fa-question-circle"></i></sup></td>
 			<td>RLs</td>
 			<td>BPs</td>
 		</thead>
@@ -285,12 +285,12 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 		<thead style="font-weight: bold; font-size: 12.5pt; background-color: white;">
 			<td>Bank name</td>
 			<td>C</td>
-			<td>Enr.</td>
-			<td>Authenticators</td>
-			<td>Binding</td>
-			<td>IPs</td>
-			<td>MPs</td>
-			<td>Ex.</td>
+			<td class="enrollment-header">>Enr.</td>
+			<td class="authrs-header">Authenticators<sup class="hint"><i class="fas fa-question-circle"></i></sup></td>
+			<td class="authrs-header">Binding<sup class="hint"><i class="fas fa-question-circle"></i></sup></td>
+			<td class="payments-header">IPs<sup class="hint"><i class="fas fa-question-circle"></i></sup></td>
+			<td class="payments-header">MPs<sup class="hint"><i class="fas fa-question-circle"></i></sup></td>
+			<td class="exempt-header">Ex.<sup class="hint"><i class="fas fa-question-circle"></i></sup></td>
 			<td>RLs</td>
 			<td>BPs</td>
 		</thead>
@@ -440,6 +440,46 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 	$('a.bank-anchor').each(function() { 
 		$(this).qtip({ 
 			content: 'Click to see references and data sources',
+			style: { 
+				classes: 'qtip-blue' 
+			}
+		});
+	});
+	$('.enrollment-header').each(function() { 
+		$(this).qtip({ 
+			content: 'The definition of the enrollment phase is available in Section 2 of the Manuscript',
+			style: { 
+				classes: 'qtip-blue' 
+			}
+		});
+	});
+	$('.payments-header').each(function() { 
+		$(this).qtip({ 
+			content: 'The column reports the adopted MFA protocols. Pass the pointer over the label to see a representation. Click each label to see the performances against different attacker models',
+			style: { 
+				classes: 'qtip-blue' 
+			}
+		});
+	});
+	$('.authrs-header').each(function() { 
+		$(this).qtip({ 
+			content: 'The definition of authenticators and their specifications can be found in Section 4.2.2 of the Manuscript',
+			style: { 
+				classes: 'qtip-blue' 
+			}
+		});
+	});
+	$('.binding-header').each(function() { 
+		$(this).qtip({ 
+			content: 'The definition of binding can be found in Section 4.2.2 of the Manuscript',
+			style: { 
+				classes: 'qtip-blue' 
+			}
+		});
+	});
+	$('.exempt-header').each(function() { 
+		$(this).qtip({ 
+			content: 'The definition of exemptions can be found in Section 4.2.2 of the Manuscript',
 			style: { 
 				classes: 'qtip-blue' 
 			}

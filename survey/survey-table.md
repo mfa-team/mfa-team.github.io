@@ -453,7 +453,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			var value = $(this).text().trim().charAt(0);
 			var chart = document.getElementById("bps-chart-container-"+bankid);
 			alert("Element bps-chart-container-"+bankid+" is a "+$(chart).prop("tagName"));
-			var myChart = new Chart(chart, {
+			var myChart = new Chart($(chart), {
 				type: 'bar',
 				data: {
 					labels: ["BP"],

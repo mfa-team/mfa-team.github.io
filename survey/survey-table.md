@@ -34,8 +34,6 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td> <i class="fas fa-check"></i> </td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#deutsche-bank">4/9</a></td>
 			<td><a class="bps-anchor" href="best-practices-evaluation#deutsche-bank"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-deutsche-bank"></canvas>3/8</a></td>
-			<td><a href="requirements-evaluation#deutsche-bank">4/9</a></td>
-			<td><a href="best-practices-evaluation#deutsche-bank">3/8</a></td>
 		</tr>
 		<tr class="bank-row" id="vr-bank">
 			<td><a class="bank-anchor" href="banks/de/vr-bank">VR Bank</a> </td>
@@ -48,8 +46,6 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td> <i class="fas fa-check"></i> </td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#vr-bank">6/9</a></td>
 			<td><a class="bps-anchor" href="best-practices-evaluation#vr-bank"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-vr-bank"></canvas>3/8</a></td>
-			<td><a href="requirements-evaluation#vr-bank">6/9</a></td>
-			<td><a href="best-practices-evaluation#vr-bank">3/8</a></td>
 		</tr>
 		<tr class="bank-row" id="commerzbank">
 			<td><a class="bank-anchor" href="banks/de/commerzbank">Commerzbank</a></td>
@@ -62,8 +58,6 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td> <i class="fas fa-check"></i> </td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#commerzbank">3/9</a></td>
 			<td><a class="bps-anchor" href="best-practices-evaluation#commerzbank"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-commerzbank"></canvas>2/8</a></td>
-			<td><a href="requirements-evaluation#commerzbank">3/9</a></td>
-			<td><a href="best-practices-evaluation#commerzbank">2/8</a></td>
 		</tr>
 		<tr class="bank-row" id="hsbc">
 			<td><a class="bank-anchor" href="banks/uk/hsbc">HSBC</a></td>
@@ -76,8 +70,6 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td> <i class="fas fa-check-double"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#hsbc">7/9</a></td>
 			<td><a class="bps-anchor" href="best-practices-evaluation#hsbc"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-hsbc"></canvas>6/8</a></td>
-			<td><a href="requirements-evaluation#hsbc">7/9</a></td>
-			<td><a href="best-practices-evaluation#hsbc">6/8</a></td>
 		</tr>
 		<tr class="bank-row" id="barclays">
 			<td><a class="bank-anchor" href="banks/uk/barclays">Barclays</a></td>
@@ -90,8 +82,6 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><i class="fas fa-check-double"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#barclays">5/9</a></td>
 			<td><a class="bps-anchor" href="best-practices-evaluation#barclays"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-barclays"></canvas>5/8</a></td>
-			<td><a href="requirements-evaluation#barclays">5/9</a></td>
-			<td><a href="best-practices-evaluation#barclays">5/8</a></td>
 		</tr>
 		<tr class="bank-row" id="lloyds-bank">
 			<td><a class="bank-anchor" href="banks/uk/lloyds-bank">LLoyds Bank</a></td>
@@ -104,8 +94,6 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td> <i class="fas fa-check-double"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#lloyds-bank">5/9</a></td>
 			<td><a class="bps-anchor" href="best-practices-evaluation#lloyds-bank"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-lloyds-bank"></canvas>5/8</a></td>
-			<td><a href="requirements-evaluation#lloyds-bank">5/9</a></td>
-			<td><a href="best-practices-evaluation#lloyds-bank">5/8</a></td>
 		</tr>
 		<tr class="bank-row" id="bnp-paribas">
 			<td><a class="bank-anchor" href="banks/fr/bnp-paribas">BNP Paribas</a></td>
@@ -118,8 +106,6 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><i class="fas fa-check-double"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#bnp-paribas">5/9</a></td>
 			<td><a class="bps-anchor" href="best-practices-evaluation#bnp-paribas"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-bnp-paribas"></canvas>3/8</a></td>
-			<td><a href="requirements-evaluation#bnp-paribas">5/9</a></td>
-			<td><a href="best-practices-evaluation#bnp-paribas">3/8</a></td>
 		</tr>
 		<tr class="bank-row" id="credit-agricole">
 			<td><a class="bank-anchor" href="banks/fr/credit-agricole">Credit Agricole</a></td>
@@ -132,8 +118,6 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><i class="fas fa-check-double"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#credit-agricole">4/9</a></td>
 			<td><a class="bps-anchor" href="best-practices-evaluation#credit-agricole"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-credit-agricole"></canvas>1/8</a></td>
-			<td><a href="requirements-evaluation#credit-agricole">4/9</a></td>
-			<td><a href="best-practices-evaluation#credit-agricole">1/8</a></td>
 		</tr>
 		<tr class="bank-row" id="societe-generale">
 			<td><a class="bank-anchor" href="banks/fr/societe-generale">Societe Generale</a></td>
@@ -146,8 +130,6 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><i class="fas fa-check"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#societe-generale">5/9</a></td>
 			<td><a class="bps-anchor" href="best-practices-evaluation#societe-generale"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-societe-generale"></canvas>3/8</a></td>
-			<td><a href="requirements-evaluation#societe-generale">5/9</a></td>
-			<td><a href="best-practices-evaluation#societe-generale">3/8</a></td>
 		</tr>
 		<tr class="bank-row" id="unicredit">
 			<td><a class="bank-anchor" href="banks/it/unicredit">Unicredit</a></td>
@@ -160,8 +142,6 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><i class="fas fa-check-double"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#unicredit">5/9</a></td>
 			<td><a class="bps-anchor" href="best-practices-evaluation#unicredit"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-unicredit"></canvas>6/8</a></td>
-			<td><a href="requirements-evaluation#unicredit">5/9</a></td>
-			<td><a href="best-practices-evaluation#unicredit">6/8</a></td>
 		</tr>
 		<tr class="bank-row" id="banca-intesa">
 			<td><a class="bank-anchor" href="banks/it/banca-intesa">Banca Intesa</a></td>
@@ -174,8 +154,6 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><i class="fas fa-check-double"></i> </td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#banca-intesa">7/9</a></td>
 			<td><a class="bps-anchor" href="best-practices-evaluation#banca-intesa"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-banca-intesa"></canvas>6/8</a></td>
-			<td><a href="requirements-evaluation#banca-intesa">7/9</a></td>
-			<td><a href="best-practices-evaluation#banca-intesa">6/8</a></td>
 		</tr>
 		<tr class="bank-row" id="banco-bpm">
 			<td><a class="bank-anchor" href="banks/it/banco-bpm">Banco BPM</a></td>
@@ -188,8 +166,6 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><i class="fas fa-check"></i> </td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#banco-bpm">7/9</a></td>
 			<td><a class="bps-anchor" href="best-practices-evaluation#banco-bpm"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-banco-bpm"></canvas>6/8</a></td>
-			<td><a href="requirements-evaluation#banco-bpm">7/9</a></td>
-			<td><a href="best-practices-evaluation#banco-bpm">6/8</a></td>
 		</tr>
 		<tr class="bank-row" id="banco-santander">
 			<td><a class="bank-anchor" href="banks/es/banco-santander">Banco Santander</a></td>
@@ -202,8 +178,6 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><i class="fas fa-check-double"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#banco-santander">5/9</a></td>
 			<td><a class="bps-anchor" href="best-practices-evaluation#banco-santander"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-banco-santander"></canvas>1/8</a></td>
-			<td><a href="requirements-evaluation#banco-santander">5/9</a></td>
-			<td><a href="best-practices-evaluation#banco-santander">1/8</a></td>
 		</tr>
 		<tr class="bank-row" id="bbva">
 			<td><a class="bank-anchor" href="banks/es/bbva">BBVA</a></td>
@@ -216,8 +190,6 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><i class="fas fa-check"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#bbva">6/9</a></td>
 			<td><a class="bps-anchor" href="best-practices-evaluation#bbva"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-bbva"></canvas>1/8</a></td>
-			<td><a href="requirements-evaluation#bbva">6/9</a></td>
-			<td><a href="best-practices-evaluation#bbva">1/8</a></td>
 		</tr>
 		<tr class="bank-row" id="la-caixa">
 			<td><a class="bank-anchor" href="banks/es/la-caixa">La Caixa</a></td>
@@ -230,8 +202,6 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><i class="fas fa-check-double"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#la-caixa">6/9</a></td>
 			<td><a class="bps-anchor" href="best-practices-evaluation#la-caixa"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-la-caixa"></canvas>4/8</a></td>
-			<td><a href="requirements-evaluation#la-caixa">6/9</a></td>
-			<td><a href="best-practices-evaluation#la-caixa">4/8</a></td>
 		</tr>
 		<tr class="bank-row" id="ing">
 			<td><a class="bank-anchor" href="banks/nl/ing">ING</a></td>
@@ -244,8 +214,6 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><i class="fas fa-check"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#ing">2/9</a></td>
 			<td><a class="bps-anchor" href="best-practices-evaluation#ing"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-ing"></canvas>3/8</a></td>
-			<td><a href="requirements-evaluation#ing">2/9</a></td>
-			<td><a href="best-practices-evaluation#ing">3/8</a></td>
 		</tr>
 		<tr class="bank-row" id="rabobank">
 			<td><a class="bank-anchor" href="banks/nl/rabobank">Rabobank</a></td>
@@ -258,8 +226,6 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td> <i class="fas fa-check-double"></i> </td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#rabobank">7/9</a></td>
 			<td><a class="bps-anchor" href="best-practices-evaluation#rabobank"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-rabobank"></canvas>3/8</a></td>
-			<td><a href="requirements-evaluation#rabobank">7/9</a></td>
-			<td><a href="best-practices-evaluation#rabobank">3/8</a></td>
 		</tr>
 		<tr class="bank-row" id="abn-amro">
 			<td><a class="bank-anchor" href="banks/nl/abn-amro">ABN AMRO</a></td>
@@ -272,8 +238,6 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><i class="fas fa-check-double"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#abn-amro">6/9</a></td>
 			<td><a class="bps-anchor" href="best-practices-evaluation#abn-amro"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-abn-amro"></canvas>2/8</a></td>
-			<td><a href="requirements-evaluation#abn-amro">6/9</a></td>
-			<td><a href="best-practices-evaluation#abn-amro">2/8</a></td>
 		</tr>
 		<tr class="bank-row" id="nordea">
 			<td><a class="bank-anchor" href="banks/sw/nordea">Nordea</a></td>
@@ -286,8 +250,6 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><i class="fas fa-check-double"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#nordea">4/9</a></td>
 			<td><a class="bps-anchor" href="best-practices-evaluation#nordea"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-nordea"></canvas>4/8</a></td>
-			<td><a href="requirements-evaluation#nordea">4/9</a></td>
-			<td><a href="best-practices-evaluation#nordea">4/8</a></td>
 		</tr>
 		<tr class="bank-row" id="svenska-handelsbanken">
 			<td><a class="bank-anchor" href="banks/sw/svenska-handelsbanken">Svenska<br/>Handelsbanken</a></td>
@@ -300,8 +262,6 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><i class="fas fa-times"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#svenska-handelsbanken">4/9</a></td>
 			<td><a class="bps-anchor" href="best-practices-evaluation#svenska-handelsbanken"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-svenska-handelsbanken"></canvas>4/8</a></td>
-			<td><a href="requirements-evaluation#svenska-handelsbanken">4/9</a></td>
-			<td><a href="best-practices-evaluation#svenska-handelsbanken">4/8</a></td>
 		</tr>
 		<tr class="bank-row" id="seb">
 			<td><a class="bank-anchor" href="banks/sw/seb">SEB</a></td>
@@ -314,8 +274,6 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td> <i class="fas fa-times"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#seb">4/9</a></td>
 			<td><a class="bps-anchor" href="best-practices-evaluation#seb"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-seb"></canvas>3/8</a></td>
-			<td><a href="requirements-evaluation#seb">4/9</a></td>
-			<td><a href="best-practices-evaluation#seb">3/8</a></td>
 		</tr>
 	</table>
 </div>
@@ -347,8 +305,6 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td> <i class="fas fa-check"></i> </td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#icbc">6/9</a></td>
 			<td><a class="bps-anchor" href="best-practices-evaluation#icbc"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-"></canvas>4/8</a></td>
-			<td><a href="requirements-evaluation#icbc">6/9</a></td>
-			<td><a href="best-practices-evaluation#icbc">4/8</a></td>
 		</tr>
 		<tr class="bank-row" id="ccb">
 			<td><a class="bank-anchor" href="banks/cn/ccb">CCB</a></td>
@@ -361,8 +317,6 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><i class="fas fa-check"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#ccb">6/9</a></td>
 			<td><a class="bps-anchor" href="best-practices-evaluation#ccb"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-"></canvas>4/8</a></td>
-			<td><a href="requirements-evaluation#ccb">6/9</a></td>
-			<td><a href="best-practices-evaluation#ccb">4/8</a></td>
 		</tr>
 		<tr class="bank-row" id="abc">
 			<td><a class="bank-anchor" href="banks/cn/abc">ABC</a></td>
@@ -375,8 +329,6 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><i class="fas fa-check"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#abc">6/9</a></td>
 			<td><a class="bps-anchor" href="best-practices-evaluation#abc"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-"></canvas>5/8</a></td>
-			<td><a href="requirements-evaluation#abc">6/9</a></td>
-			<td><a href="best-practices-evaluation#abc">5/8</a></td>
 		</tr>
 		<tr class="bank-row" id="chase">
 			<td><a class="bank-anchor" href="banks/us/chase">Chase</a></td>
@@ -389,8 +341,6 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><i class="fas fa-check-double"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#chase">2/9</a></td>
 			<td><a class="bps-anchor" href="best-practices-evaluation#chase"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-"></canvas>2/8</a></td>
-			<td><a href="requirements-evaluation#chase">2/9</a></td>
-			<td><a href="best-practices-evaluation#chase">2/8</a></td>
 		</tr>
 		<tr class="bank-row" id="bank-of-america">
 			<td><a class="bank-anchor" href="banks/us/bank-of-america">Bank of America</a></td>
@@ -403,8 +353,6 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><i class="fas fa-check-double"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#bank-of-america">2/9</a></td>
 			<td><a class="bps-anchor" href="best-practices-evaluation#bank-of-america"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-bank-of-america"></canvas>1/8</a></td>
-			<td><a href="requirements-evaluation#bank-of-america">2/9</a></td>
-			<td><a href="best-practices-evaluation#bank-of-america">1/8</a></td>
 		</tr>
 		<tr class="bank-row" id="wells-fargo">
 			<td><a class="bank-anchor" href="banks/us/wells-fargo">Wells Fargo</a></td>
@@ -417,8 +365,6 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><i class="fas fa-check-double"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#wells-fargo">2/9</a></td>
 			<td><a class="bps-anchor" href="best-practices-evaluation#wells-fargo"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-wells-fargo"></canvas>2/8</a></td>
-			<td><a href="requirements-evaluation#wells-fargo">2/9</a></td>
-			<td><a href="best-practices-evaluation#wells-fargo">2/8</a></td>
 		</tr>
 		<tr class="bank-row" id="ubs">
 			<td><a class="bank-anchor" href="banks/ch/ubs">UBS</a></td>
@@ -432,8 +378,6 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td> <i class="fas fa-check-double"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#ubs">6/9</a></td>
 			<td><a class="bps-anchor" href="best-practices-evaluation#ubs"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-ubs"></canvas>4/8</a></td
-			<td><a href="requirements-evaluation#ubs">6/9</a></td>
-			<td><a href="best-practices-evaluation#ubs">4/8</a></td>
 		</tr>
 		<tr class="bank-row" id="credit-suisse">
 			<td><a class="bank-anchor" href="banks/ch/credit-suisse">Credit Suisse</a></td>
@@ -446,8 +390,6 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><i class="fas fa-check-double"></i></td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#credit-suisse">4/9</a></td>
 			<td><a class="bps-anchor" href="best-practices-evaluation#credit-suisse"><canvas class="chart-container" height="80" width="40" id="bps-chart-container-credit-suisse"></canvas>2/8</a></td>
-			<td><a href="requirements-evaluation#credit-suisse">4/9</a></td>
-			<td><a href="best-practices-evaluation#credit-suisse">2/8</a></td>
 		</tr>
 		<tr class="bank-row" id="raiffeisen">
 			<td><a class="bank-anchor" href="banks/ch/raiffeisen">Raiffeisen</a></td>
@@ -460,8 +402,6 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td> <i class="fas fa-times"></i> </td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#raiffeisen"><div id="reqs-chart-container-"></canvas>4/9</a></td>
 			<td><a class="bps-anchor" href="best-practices-evaluation#raiffeisen"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-raiffeisen"></div>1/8</a></td>
-			<td><a href="requirements-evaluation#raiffeisen">4/9</a></td>
-			<td><a href="best-practices-evaluation#raiffeisen">1/8</a></td>
 		</tr>
 	</table>
 </div>
@@ -510,7 +450,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 		var url = $(this).attr("href");
 		var bankid = url.substring(url.indexOf("#")+1,url.length);
 		var value = $(this).text().trim().charAt(0);
-		var chart = $("#bps-chart-container-"+bankid);
+		var chart = document.getElementById("bps-chart-container-"+bankid);
 		var myChart = new Chart(chart, {
 			type: 'bar',
 			data: {

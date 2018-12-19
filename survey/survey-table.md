@@ -14,7 +14,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 		<thead style="font-weight: bold; font-size: 12.5pt; background-color:white;">
 			<td>Bank name</td>
 			<td>C</td>
-			<td class="enrollment-header">>Enr.</td>
+			<td class="enrollment-header">Enr.</td>
 			<td class="authrs-header">Authenticators<sup class="hint"><i class="fas fa-question-circle"></i></sup></td>
 			<td class="binding-header">Binding<sup class="hint"><i class="fas fa-question-circle"></i></sup></td>
 			<td class="payments-header">IPs<sup class="hint"><i class="fas fa-question-circle"></i></sup></td>
@@ -285,7 +285,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 		<thead style="font-weight: bold; font-size: 12.5pt; background-color: white;">
 			<td>Bank name</td>
 			<td>C</td>
-			<td class="enrollment-header">>Enr.</td>
+			<td class="enrollment-header">Enr.</td>
 			<td class="authrs-header">Authenticators<sup class="hint"><i class="fas fa-question-circle"></i></sup></td>
 			<td class="authrs-header">Binding<sup class="hint"><i class="fas fa-question-circle"></i></sup></td>
 			<td class="payments-header">IPs<sup class="hint"><i class="fas fa-question-circle"></i></sup></td>

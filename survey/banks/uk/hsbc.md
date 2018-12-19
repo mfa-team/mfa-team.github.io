@@ -8,4 +8,3 @@
 [Interactive Demo](https://www.hsbc.co.uk/1/2/personal/current-accounts/about/pib-demo/),	[Video Tutorial](https://www.hsbc.co.uk/ways-to-bank/online-banking/tutorial/),	 
 [Video Overview](https://www.youtube.com/watch?v=P_ampndRcxY&list=PLVUqtTPA8DMmR41zheOy_6caPKpFeWaRB),
 
-## Implementation Details

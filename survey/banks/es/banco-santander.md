@@ -7,5 +7,3 @@
 [Banking App](https://play.google.com/store/apps/details?id=es.bancosantander.apps),	
 [Video Tutorial](https://www.youtube.com/watch?v=i0wNymzc4Bg),	 
 
-
-## Implementation Details

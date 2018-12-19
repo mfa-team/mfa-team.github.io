@@ -9,5 +9,3 @@
 [Video Overview](https://www.youtube.com/watch?v=auKYSgYPJt4), 
 [Further Info on Login modes](https://www.raiffeisen.ch/rch/de/privatkunden/e-banking/sicherheit-im-e-banking/login-mit-phototan-oder-sms.html),
 [Mobile Banking app info](https://www.raiffeisen.ch/rch/de/privatkunden/e-banking/mobile-banking-zahlungen-scannen.html)
-
-## Implementation Details

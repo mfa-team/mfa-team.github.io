@@ -8,5 +8,3 @@
 [Banking App](https://play.google.com/store/apps/details?id=com.handelsbanken.mobile.android),	[App SW Authenticator](https://play.google.com/store/apps/details?id=com.bankid.bus),	
 [Video Tutorial](https://www.youtube.com/watch?v=025pHj5KHNU),	 
 [Other Info on login methods](https://www.handelsbanken.se/sv/privat/digitala-tjanster/inloggningssatt)
-
-## Implementation Details

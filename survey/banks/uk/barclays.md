@@ -7,5 +7,3 @@
 [Banking App](https://play.google.com/store/apps/details?id=com.barclays.android.barclaysmobilebanking),	
 [Video Tutorial](https://www.youtube.com/playlist?list=PLecqH2uhOR0bezh21XmNCzhCHBWpOA8Nf),	 
 [Addin payee details](https://www.barclays.co.uk/help/payments/payment-information/payee-new/)
-
-## Implementation Details

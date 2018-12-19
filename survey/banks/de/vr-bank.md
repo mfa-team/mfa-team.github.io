@@ -7,5 +7,3 @@
 [Banking App](https://play.google.com/store/apps/details?id=de.fiducia.smartphone.android.banking.vr),	[App SW Authenticator](https://play.google.com/store/apps/details?id=de.fiducia.smartphone.android.securego.vr&hl=de),	
 [Interactive Demo](https://www.volksbank-weinheim.de/service/Demoanwendungen.html),	[Video Tutorial](https://www.youtube.com/watch?v=RzCJ7WiqTC4),	 
 [Video Overview](https://www.youtube.com/watch?v=XqeH7Qr-AGQ)
-
-## Implementation Details

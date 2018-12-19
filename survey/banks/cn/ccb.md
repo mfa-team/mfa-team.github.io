@@ -8,5 +8,3 @@
 [Banking App](http://download.ccb.com/cn/html1/office/ebank/dzb/subject/12/docs/security/CCBClient_R_V4_0_3_004_signed.apk),
 [Interactive Demo](http://ebank.ccb.com/cn/ebank/personal/demoCenter/index.html),	
 [Other security info](http://ebank1.ccb.com/cn/ebank/personal/tdys/201306071370568804.html)
-
-## Implementation Details

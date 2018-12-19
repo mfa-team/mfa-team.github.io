@@ -8,5 +8,3 @@
 [Interactive Demo](https://www.lloydsbank.com/online-banking/internet-banking/using-internet-banking/quick-overview.asp),	
 [Video Overview](https://www.lloydsbank.com/online-banking/internet-banking/using-internet-banking/quick-overview.asp), 
 [Other Infos](https://www.lloydsbank.com/help-guidance/protecting-yourself-from-fraud/banking-online-safely.asp)
-
-## Implementation Details

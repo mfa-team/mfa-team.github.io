@@ -8,5 +8,3 @@
 [Banking App](https://play.google.com/store/apps/details?id=com.ubs.swidKXJ.android),	[App SW Authenticator](https://play.google.com/store/apps/details?id=com.ubs.swidK2Y.android),	
 [Interactive Demo](https://ebanking-demo-ch1.ubs.com/auth/login1?userId=DEMO9999&languageCode=en),	[Mobile Banking Info](https://www.ubs.com/microsites/digital/en/private/mobile-banking.html),
 [Tutorials and guides](https://www.ubs.com/ch/en/help/guides.html)
-
-## Implementation Details

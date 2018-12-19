@@ -6,6 +6,3 @@
 [HW Authenticator](http://www.icbc.com.cn/ICBC/EN/Others/SecurityCorner/),	
 [Banking App](https://play.google.com/store/apps/details?id=com.icbc.mobile.abroadbank),	
 [Video Tutorial](http://www.icbcasia.com/ICBC/html/branches/ICBCAsia/ICBCAsiaPerbankDemo/cn/index.htm)	 
-
-
-## Implementation Details

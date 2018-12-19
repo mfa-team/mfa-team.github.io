@@ -5,5 +5,3 @@
 [SMS Usage](https://www.chase.com/digital/resources/privacy-security/security/how-we-protect-you),	
 [Banking App](https://play.google.com/store/apps/details?id=com.chase.sig.android),	
 [Video Overview](https://www.youtube.com/watch?v=Ec_W302rGrI)
-
-## Implementation Details

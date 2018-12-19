@@ -7,5 +7,3 @@
 [Banking App](https://play.google.com/store/apps/details?id=es.lacaixa.mobile.android.newwapicon),	[App SW Authenticator](https://play.google.com/store/apps/details?id=es.caixabank.caixabanksign),	
 [Interactive Demo](https://loc10.lacaixa.es/GPeticiones?PN=LGN&PE=1&IDIOMA=02&CANAL=I&DEMO=0&ENTORNO=L),	
 [Video Overview](https://www.youtube.com/watch?v=zyVQhH3iQzY) 
-
-## Implementation Details

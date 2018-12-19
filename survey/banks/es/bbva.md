@@ -7,5 +7,3 @@
 [Banking App](https://play.google.com/store/apps/details?id=com.bbva.bbvacontigo),
 [Video Tutorial](https://www.youtube.com/watch?v=oOfmNDtDE1Q),	 
 [Video Overview](https://www.youtube.com/watch?v=ZCgCMTvA_VA)
-
-## Implementation Details

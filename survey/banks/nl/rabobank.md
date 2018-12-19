@@ -7,5 +7,3 @@
 [Banking App](https://play.google.com/store/apps/details?id=nl.rabomobiel),
 [Interactive Demo](https://www.eenvoudigbankieren.nl/#!/mobiel-bankieren/430/stap-01.html),	[Video Tutorial](https://www.youtube.com/watch?v=h0DWDdPJD54),	 
 [Baking App Infos](https://www.rabobank.nl/particulieren/apps/rabo-bankieren-app/?intcamp=pa-betalen-rabo.bankieren.app&inttype=banner-meer.lezen.over.de.rabo.bankieren.app&intsource=particulieren.apps.rabo-bankieren-app)
-
-## Implementation Details

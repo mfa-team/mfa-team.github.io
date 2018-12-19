@@ -20,7 +20,7 @@ Finally, the symbol <i class="fas fa-check-circle"></i> indicates that a subset 
 <table class="mfa-protocols-table" id="ip-protocols-evaluation-table" style="text-align: center;">
 <thead style="font-weight: bold; background-color: white;">
 <tr class="upper-labels">
-<td></td><td></td><td style="border-left: 1px solid #555; border-right: 1px solid #555;" colspan="3">Complexity</td><td colspan="6">Threat Models</td>
+<td></td><td></td><td style="border-left: 1px solid #555; border-right: 1px solid #555; background-color:#f9f9f978;" colspan="3">Complexity</td><td colspan="7">Threat Models</td><td colspan="51"></td>
 </tr>
 <tr>
 <th class="rotate">Label</th><th class="rotate" style="padding: 5px 15px; border-right: 1px solid #555;"> MFA Protocol representation </th><th class="rotate prot-cplx-mem"><div><span>MEM</span></div></th><th class="rotate prot-cplx-op"><div><span>OP</span></div></th><th class="rotate prot-cplx-dev"><div><span> DEV </span></div></th><th class="rotate"><div><span> DT</span></div></th><th class="rotate"><div><span>AD</span></div></th><th class="rotate"><div><span>SS</span></div></th><th class="rotate"><div><span>ES</span></div></th><th class="rotate"><div><span>SE</span></div></th><th class="rotate"><div><span>MB</span></div></th><th class="rotate"><div><span>MM</span></div></th><th class="rotate"><div><span>
@@ -202,7 +202,7 @@ Finally, the symbol <i class="fas fa-check-circle"></i> indicates that a subset 
 <table class="mfa-protocols-table" id="mp-protocols-evaluation-table" style="text-align: center;">
 <thead style="font-weight: bold; background-color: white;">
 <tr class="upper-labels">
-<td></td><td></td><td style="border-left: 1px solid #555; border-right: 1px solid #555;" colspan="3">Complexity</td><td colspan="6">Threat Models</td>
+<td></td><td></td><td style="border-left: 1px solid #555; border-right: 1px solid #555; background-color:#f9f9f978;" colspan="3">Complexity</td><td colspan="7">Threat Models</td><td colspan="51"></td>
 </tr>
 <tr>
 <th class="rotate">Label</th><th class="rotate" style="padding: 5px 15px;"> MFA Protocol representation </th><th class="rotate prot-cplx-mem"><div><span>MEM</span></div></th><th class="rotate prot-cplx-op"><div><span>OP</span></div></th><th class="rotate prot-cplx-dev"><div><span> DEV </span></div></th><th class="rotate"><div><span> DT</span></div></th><th class="rotate"><div><span>AD</span></div></th><th class="rotate"><div><span>SS</span></div></th><th class="rotate"><div><span>ES</span></div></th><th class="rotate"><div><span>SE</span></div></th><th class="rotate"><div><span>MB</span></div></th><th class="rotate"><div><span>MM</span></div></th><th class="rotate"><div><span>

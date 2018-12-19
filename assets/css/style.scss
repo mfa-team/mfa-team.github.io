@@ -23,6 +23,7 @@ table.mfa-protocols-table td{
 
 table.mfa-protocols-table td.protocol-column{
  white-space: nowrap;
+ border-right: solid 1px #f00;
 }
 
 table td.authenticator-spec{

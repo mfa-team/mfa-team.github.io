@@ -20,7 +20,7 @@ Finally, the symbol <i class="fas fa-check-circle"></i> indicates that a subset 
 <table class="mfa-protocols-table" id="ip-protocols-evaluation-table" style="text-align: center;">
 <thead style="font-weight: bold; background-color: white;">
 <tr class="upper-labels">
-<td></td><td></td><td style="border-left: 1px solid #555; border-right: 1px solid #555; background-color:#f9f9f978;" colspan="3">Complexity</td><td colspan="7">Threat Models</td><td colspan="51"></td>
+<td></td><td></td><td class="complexity-header" style="border-left: 1px solid #555; border-right: 1px solid #555; background-color:#f9f9f978;" colspan="3">Complexity</td><td class="threat-models-header" colspan="7">Threat Models</td><td colspan="57"></td>
 </tr>
 <tr>
 <th class="rotate">Label</th><th class="rotate" style="padding: 5px 15px; border-right: 1px solid #555;"> MFA Protocol representation </th><th class="rotate prot-cplx-mem"><div><span>MEM</span></div></th><th class="rotate prot-cplx-op"><div><span>OP</span></div></th><th class="rotate prot-cplx-dev"><div><span> DEV </span></div></th><th class="rotate"><div><span> DT</span></div></th><th class="rotate"><div><span>AD</span></div></th><th class="rotate"><div><span>SS</span></div></th><th class="rotate"><div><span>ES</span></div></th><th class="rotate"><div><span>SE</span></div></th><th class="rotate"><div><span>MB</span></div></th><th class="rotate"><div><span>MM</span></div></th><th class="rotate"><div><span>
@@ -202,10 +202,10 @@ Finally, the symbol <i class="fas fa-check-circle"></i> indicates that a subset 
 <table class="mfa-protocols-table" id="mp-protocols-evaluation-table" style="text-align: center;">
 <thead style="font-weight: bold; background-color: white;">
 <tr class="upper-labels">
-<td></td><td></td><td style="border-left: 1px solid #555; border-right: 1px solid #555; background-color:#f9f9f978;" colspan="3">Complexity</td><td colspan="7">Threat Models</td><td colspan="51"></td>
+<td></td><td></td><td class="complexity-header" style="border-left: 1px solid #555; border-right: 1px solid #555; background-color:#f9f9f978;" colspan="3">Complexity</td><td class="threat-models-header" colspan="7">Threat Models</td><td colspan="57"></td>
 </tr>
 <tr>
-<th class="rotate">Label</th><th class="rotate" style="padding: 5px 15px;"> MFA Protocol representation </th><th class="rotate prot-cplx-mem"><div><span>MEM</span></div></th><th class="rotate prot-cplx-op"><div><span>OP</span></div></th><th class="rotate prot-cplx-dev"><div><span> DEV </span></div></th><th class="rotate"><div><span> DT</span></div></th><th class="rotate"><div><span>AD</span></div></th><th class="rotate"><div><span>SS</span></div></th><th class="rotate"><div><span>ES</span></div></th><th class="rotate"><div><span>SE</span></div></th><th class="rotate"><div><span>MB</span></div></th><th class="rotate"><div><span>MM</span></div></th><th class="rotate"><div><span>
+<th class="rotate">Label</th><th class="rotate" style="padding: 5px 15px; border-right: 1px solid #555;"> MFA Protocol representation </th><th class="rotate prot-cplx-mem"><div><span>MEM</span></div></th><th class="rotate prot-cplx-op"><div><span>OP</span></div></th><th class="rotate prot-cplx-dev"><div><span> DEV </span></div></th><th class="rotate"><div><span> DT</span></div></th><th class="rotate"><div><span>AD</span></div></th><th class="rotate"><div><span>SS</span></div></th><th class="rotate"><div><span>ES</span></div></th><th class="rotate"><div><span>SE</span></div></th><th class="rotate"><div><span>MB</span></div></th><th class="rotate"><div><span>MM</span></div></th><th class="rotate"><div><span>
 	 DT∘AD</span></div></th><th class="rotate"><div><span>DT∘SS</span></div></th><th class="rotate"><div><span>DT∘ES</span></div></th><th class="rotate"><div><span>DT∘SE</span></div></th><th class="rotate"><div><span>DT∘MB</span></div></th><th class="rotate"><div><span>DT∘MM</span></div></th><th class="rotate"><div><span>AD∘SS</span></div></th><th class="rotate"><div><span>AD∘ES</span></div></th><th class="rotate"><div><span>AD∘SE</span></div></th><th class="rotate"><div><span>AD∘MB</span></div></th><th class="rotate"><div><span>AD∘MM</span></div></th><th class="rotate"><div><span>SS∘ES</span></div></th><th class="rotate"><div><span>SS∘SE</span></div></th><th class="rotate"><div><span>SS∘MB</span></div></th><th class="rotate"><div><span>SS∘MM</span></div></th><th class="rotate"><div><span>ES∘SE</span></div></th><th class="rotate"><div><span>ES∘MB</span></div></th><th class="rotate"><div><span>ES∘MM</span></div></th><th class="rotate"><div><span>SE∘MB</span></div></th><th class="rotate"><div><span>SE∘MM</span></div></th><th class="rotate"><div><span>MB∘MM
 	 </span></div></th><th class="rotate"><div><span>DT∘AD∘SS</span></div></th><th class="rotate"><div><span>DT∘AD∘ES</span></div></th><th class="rotate"><div><span>DT∘AD∘SE</span></div></th><th class="rotate"><div><span>DT∘AD∘MB</span></div></th><th class="rotate"><div><span>DT∘AD∘MM</span></div></th><th class="rotate"><div><span>DT∘SS∘ES</span></div></th><th class="rotate"><div><span>DT∘SS∘SE</span></div></th><th class="rotate"><div><span>DT∘SS∘MB</span></div></th><th class="rotate"><div><span>DT∘SS∘MM</span></div></th><th class="rotate"><div><span>DT∘ES∘SE</span></div></th><th class="rotate"><div><span>DT∘ES∘MB</span></div></th><th class="rotate"><div><span>DT∘ES∘MM</span></div></th><th class="rotate"><div><span>DT∘SE∘MB</span></div></th><th class="rotate"><div><span>DT∘SE∘MM</span></div></th><th class="rotate"><div><span>DT∘MB∘MM
 </span></div></th><th class="rotate"><div><span>AD∘SS∘ES</span></div></th><th class="rotate"><div><span>AD∘SS∘SE</span></div></th><th class="rotate"><div><span>AD∘SS∘MB</span></div></th><th class="rotate"><div><span>AD∘SS∘MM</span></div></th><th class="rotate"><div><span>AD∘ES∘SE</span></div></th><th class="rotate"><div><span>AD∘ES∘MB</span></div></th><th class="rotate"><div><span>AD∘ES∘MM</span></div></th><th class="rotate"><div><span>AD∘SE∘MB</span></div></th><th class="rotate"><div><span>AD∘SE∘MM</span></div></th><th class="rotate"><div><span>AD∘MB∘MM
@@ -377,5 +377,29 @@ $table.floatThead({
         return $('#mp-protocols-table-wrapper');
     }
 });
+
+	$('.complexity-header').each(function() {
+		$(this).qtip({ 
+			content: "The definition of the complexity metric is presented in Section 4.3.3 of the Manuscript",
+			style: { 
+				classes: 'qtip-blue' 
+			},
+			position: {
+				at: 'bottom center'
+			}
+		});
+	});
+	
+	$('.threat-models-header').each(function() {
+		$(this).qtip({ 
+			content: "The definition of the threat models is presented in Section 4.3.2 of the Manuscript",
+			style: { 
+				classes: 'qtip-blue' 
+			},
+			position: {
+				at: 'bottom center'
+			}
+		});
+	});
 </script>
 

@@ -451,8 +451,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			var url = $(this).attr("href");
 			var bankid = url.substring(url.indexOf("#")+1,url.length);
 			var value = $(this).text().trim().charAt(0);
-			var chart = document.getElementById("bps-chart-container-deutsche-bank").getContext("2d");
-			var myChart = new Chart(chart, {
+			var myChart = new Chart(document.getElementById("bps-chart-container-deutsche-bank"), {
 				type: 'bar',
 				data: {
 					labels: ["BP"],

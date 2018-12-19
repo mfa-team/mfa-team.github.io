@@ -401,7 +401,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			<td><a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-12"> MP-12</a> <br/> <a class="MFAP-link-MP" href="mfa-protocols-evaluation#MP-20"> MP-20</a> </td>
 			<td> <i class="fas fa-times"></i> </td>
 			<td><a class="reqs-anchor" href="requirements-evaluation#raiffeisen"><div id="reqs-chart-container-"></canvas>4/9</a></td>
-			<td><a class="bps-anchor" href="best-practices-evaluation#raiffeisen"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-raiffeisen"></div>1/8</a></td>
+			<td><a class="bps-anchor" href="best-practices-evaluation#raiffeisen"><canvas class="chart-container" height="80" width="40"  id="bps-chart-container-raiffeisen"></canvas>1/8</a></td>
 		</tr>
 	</table>
 </div>

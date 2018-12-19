@@ -6,13 +6,16 @@ layout: default
 title: MFA Dataset
 ---
 
-<div style="font-size:16pt; margin-top: 40px; border-left: 3px solid #6d9ff5;padding: 5px;">
+<div style="margin-top: 40px; border-left: 3px solid #6d9ff5;padding: 5px;">
 This website contains additional information regarding the data we presented the manuscript titled 
 "A Survey on Multi-Factor Authentication for Online Banking in the Wild", submitted to the Journal of Computers & Security in 2018. 
 <br/>
+<span style="font-size:16pt;">
 The results of the survey on real-world MFA implementations adopted by banks all over the world are available <a href="survey/survey-table">in this page</a>.
+</span>
 </div>
 
+<br/><br/>
 **Multi-factor authentication** (mfa) is a form of digital authentication affering strong security guarantees.
 
 MFA is based on the so-called MFA Protocols, i.e. security protocols that integrate traditional identity proofs (user credentials) with additional ones, called *authentication factors*.

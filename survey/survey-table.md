@@ -442,6 +442,9 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			content: 'Click to see references and data sources',
 			style: { 
 				classes: 'qtip-blue' 
+			},
+			position: {
+				at: 'bottom center'
 			}
 		});
 	});
@@ -450,6 +453,9 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			content: 'The definition of the enrollment phase is available in Section 2 of the Manuscript',
 			style: { 
 				classes: 'qtip-blue' 
+			},
+			position: {
+				at: 'bottom center'
 			}
 		});
 	});
@@ -458,6 +464,9 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			content: 'The column reports the adopted MFA protocols. Pass the pointer over the label to see a representation. Click each label to see the performances against different attacker models',
 			style: { 
 				classes: 'qtip-blue' 
+			},
+			position: {
+				at: 'bottom center'
 			}
 		});
 	});
@@ -466,6 +475,9 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			content: 'The definition of authenticators and their specifications can be found in Section 4.2.2 of the Manuscript',
 			style: { 
 				classes: 'qtip-blue' 
+			},
+			position: {
+				at: 'bottom center'
 			}
 		});
 	});
@@ -474,6 +486,9 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			content: 'The definition of binding can be found in Section 4.2.2 of the Manuscript',
 			style: { 
 				classes: 'qtip-blue' 
+			},
+			position: {
+				at: 'bottom center'
 			}
 		});
 	});
@@ -482,6 +497,9 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			content: 'The definition of exemptions can be found in Section 4.2.2 of the Manuscript',
 			style: { 
 				classes: 'qtip-blue' 
+			},
+			position: {
+				at: 'bottom center'
 			}
 		});
 	});

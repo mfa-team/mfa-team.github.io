@@ -407,7 +407,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.min.js"></script>
-<script>
+<script type="application/javascript">
 	var $table = $("#eu-banks-table");
 	$table.floatThead({
 		scrollContainer: function($table){
@@ -451,7 +451,7 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 			var url = $(this).attr("href");
 			var bankid = url.substring(url.indexOf("#")+1,url.length);
 			var value = $(this).text().trim().charAt(0);
-			var chart = document.getElementById("bps-chart-container-"+bankid).getContext("2d");
+			var chart = document.getElementById("bps-chart-container-deutsche-bank").getContext("2d");
 			var myChart = new Chart(chart, {
 				type: 'bar',
 				data: {

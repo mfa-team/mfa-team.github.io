@@ -11,7 +11,7 @@ This website contains additional information regarding the data we presented the
 "A Survey on Multi-Factor Authentication for Online Banking in the Wild", submitted to the Journal of Computers & Security in 2018. 
 <br/><br/>
 <span style="font-size:16pt;">
-The results of the survey on real-world MFA implementations adopted by banks all over the world are available <a href="survey/survey-table">in this page</a>.
+The results of the survey on real-world MFA implementations adopted by banks all over the world are available <a href="survey/survey-index">in this page</a>.
 </span>
 </div>
 

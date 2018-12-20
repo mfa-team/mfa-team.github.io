@@ -406,6 +406,9 @@ and Mobile Payments), the adoption of exemptions and the compliance with a given
 	</table>
 </div>
 
+<div class="back-hook shadow" onclick="location.href='survey-index'"><div class="left"><i class="fas fa-arrow-circle-left"></i></div><div class="right">Back to survey index</div></div>
+
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.min.js"></script>
 <script type="application/javascript">
 	var $table = $("#eu-banks-table");

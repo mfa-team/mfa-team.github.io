@@ -8,22 +8,17 @@ title: MFA Dataset
 
 <div style="margin-top: 40px; border-left: 3px solid #6d9ff5;padding: 5px;">
 This website contains additional information regarding the data we presented the manuscript titled 
-"A Survey on Multi-Factor Authentication for Online Banking in the Wild", submitted to the Journal of Computers & Security in 2018. 
+** "A Survey on Multi-Factor Authentication for Online Banking in the Wild" **, submitted to the Journal of Computers & Security in 2018. 
 <br/><br/>
-<span style="font-size:16pt;">
-The results of the survey on real-world MFA implementations adopted by banks all over the world are available <a href="survey/survey-index">in this page</a>.
-</span>
+
+In our work we collected a notable amount of data regarding 30 banks operating in 10 different countries.
+For each bank, we investigated on several details concerning the MFA implementation they adopted. In particular:
+<br/>
+
+ - A table reporting an **overview of the MFA solutions** adopted by each bank can be found [here](survey-table).
+ - The list of the **references** and data sources is reported [in this page](sources-list).
+ - The **evaluation of each (observed) MFA protocol**, in terms of resistance against a given set of attacker models and complexity is presented [here](mfa-protocols-evaluation).
+ - The tables reporting the **compliance** with legal requirements (extracted from EU regulations) and best practices are available [here](requirements-evaluation) and [here](best-practices-evaluation), respectively.
 </div>
 
-<br/><br/>
-**Multi-factor authentication** (mfa) is a form of digital authentication affering strong security guarantees.
-
-MFA is based on the so-called MFA Protocols, i.e. security protocols that integrate traditional identity proofs (user credentials) with additional ones, called *authentication factors*.
-
-Authentication factors are based on either *knowledge*, *possession* or *inherence*. 
-
-During the execution of an MFA protocol, authentication factors are provided through specific
-objects, called *authenticators*.
-
-During the last years, MFA has been widely adopted, with a notable variety of offered MFA protocols, authenticators and authentication factors.
 

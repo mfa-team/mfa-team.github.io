@@ -8,7 +8,7 @@ title: MFA Dataset
 
 <div style="margin-top: 40px; border-left: 3px solid #6d9ff5;padding: 5px;">
 This website contains additional information regarding the data we presented the manuscript titled 
-** "A Survey on Multi-Factor Authentication for Online Banking in the Wild" **, submitted to the Journal of Computers & Security in 2018. 
+"<bold>A Survey on Multi-Factor Authentication for Online Banking in the Wild</bold>", submitted to the Journal of Computers & Security in 2018. 
 <br/><br/>
 
 In our work we collected a notable amount of data regarding 30 banks operating in 10 different countries.
